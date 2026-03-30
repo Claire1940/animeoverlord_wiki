@@ -1,6 +1,6 @@
 {
-  "api_key": "sk-OxJJtxGZLYFWUZkaQoGgo68MacGSEuZ5oPg4oKLElGJ98WvB",
-  "api_base_url": "https://api.apifast.tech/v1",
+  "api_key": "sk-vOqGcdrN8fL7NZCO0iVvPvcJ0RzsS1zqaFMjLPTmxSP7gaaE",
+  "api_base_url": "https://api.apifast.tech/v1/chat/completions",
   "model": "gemini-2.5-flash",
   "group": "default",
 
@@ -10,49 +10,44 @@
   "retry_attempts": 8,
   "retry_delay": 10,
 
-  "languages": ["ru", "pt", "de", "es", "ja", "ko", "fr"],
+  "languages": ["ja", "es", "pt", "id", "fr", "de", "th"],
   "default_language": "en",
   "output_dir": "src/locales/",
 
   "use_value_extraction": false,
 
   "protected_terms": {
-    "game_names": ["Lucid Blocks"],
-    "character_names": [],
+    "game_names": ["Anime Overlord", "Overlord", "オーバーロード"],
+    "character_names": ["Ainz Ooal Gown", "Momonga", "Albedo", "Shalltear", "Demiurge", "Neia"],
     "technical_terms": [
-      "Apotheosis",
-      "Steam",
-      "Steam Deck",
-      "Vulkan",
-      "Fog Meadow",
-      "Heaven",
-      "Bubblebear",
-      "Angel",
-      "Hookshot",
-      "Bee Glider",
-      "Psychedelic",
-      "Surreal"
+      "Nazarick",
+      "Sorcerer Kingdom",
+      "Slane Theocracy",
+      "Holy Kingdom",
+      "YGGDRASIL",
+      "Sacred Kingdom",
+      "Crunchyroll"
     ]
   },
 
   "game_names": {
-    "en": "Lucid Blocks",
-    "ru": "Lucid Blocks",
-    "pt": "Lucid Blocks",
-    "de": "Lucid Blocks",
-    "es": "Lucid Blocks",
-    "ja": "Lucid Blocks",
-    "ko": "Lucid Blocks",
-    "fr": "Lucid Blocks"
+    "en": "Anime Overlord",
+    "ja": "オーバーロード",
+    "es": "Overlord",
+    "pt": "Overlord",
+    "id": "Overlord",
+    "fr": "Overlord",
+    "de": "Overlord",
+    "th": "Overlord"
   },
 
   "lang_names": {
-    "ru": "Russian",
-    "pt": "Portuguese (Brazil)",
-    "de": "German",
-    "es": "Spanish (Latin America)",
     "ja": "Japanese",
-    "ko": "Korean",
-    "fr": "French"
+    "es": "Spanish (Latin America)",
+    "pt": "Portuguese (Brazil)",
+    "id": "Indonesian",
+    "fr": "French",
+    "de": "German",
+    "th": "Thai"
   }
 }

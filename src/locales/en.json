@@ -10,14 +10,7 @@
       "twitterDescription": "Overlord Anime Wiki covers watch order, characters, seasons, episodes, movies, and lore for the dark fantasy isekai anime."
     }
   },
-  "nav": {
-    "guides": "Guides",
-    "crafting": "Crafting",
-    "items": "Items",
-    "biomes": "Biomes",
-    "building": "Building",
-    "support": "Support"
-  },
+  "nav": {},
   "common": {
     "home": "Home",
     "more": "More",

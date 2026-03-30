@@ -9,29 +9,29 @@
   "retry_attempts": 2,
   "retry_delay": 5,
 
-  "languages": ["ru", "pt", "de", "es", "ja", "ko", "fr"],
+  "languages": ["ja", "es", "pt", "id", "fr", "de", "th"],
   "default_language": "en",
   "output_dir": "content/",
 
   "game_names": {
-    "en": "Lucid Blocks",
-    "ru": "Lucid Blocks",
-    "pt": "Lucid Blocks",
-    "de": "Lucid Blocks",
-    "es": "Lucid Blocks",
-    "ja": "Lucid Blocks",
-    "ko": "Lucid Blocks",
-    "fr": "Lucid Blocks"
+    "en": "Anime Overlord",
+    "ja": "オーバーロード",
+    "es": "Overlord",
+    "pt": "Overlord",
+    "id": "Overlord",
+    "fr": "Overlord",
+    "de": "Overlord",
+    "th": "Overlord"
   },
 
   "lang_names": {
-    "ru": "Russian",
-    "pt": "Portuguese (Brazil)",
-    "de": "German",
-    "es": "Spanish (Latin America)",
     "ja": "Japanese",
-    "ko": "Korean",
-    "fr": "French"
+    "es": "Spanish (Latin America)",
+    "pt": "Portuguese (Brazil)",
+    "id": "Indonesian",
+    "fr": "French",
+    "de": "German",
+    "th": "Thai"
   },
 
   "batch_size": 20,
