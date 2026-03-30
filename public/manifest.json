@@ -1,12 +1,12 @@
 {
-  "name": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-  "short_name": "Lucid Blocks",
-  "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
+  "name": "Anime Overlord Wiki - Watch Order, Characters & Seasons",
+  "short_name": "Anime Overlord",
+  "description": "Anime Overlord Wiki covers characters, watch order, seasons, episodes, movies, and core lore, helping new viewers and returning fans catch up fast.",
   "start_url": "/",
   "display": "standalone",
   "orientation": "any",
-  "theme_color": "#1a7a7a",
-  "background_color": "#0a0a0a",
+  "theme_color": "#c49a1a",
+  "background_color": "#0b0b0d",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
