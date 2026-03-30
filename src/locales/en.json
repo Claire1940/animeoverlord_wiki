@@ -1,13 +1,13 @@
 {
   "seo": {
     "home": {
-      "title": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "keywords": "Lucid Blocks, Lucid Blocks wiki, crafting, biomes, achievements, survival, Steam",
-      "ogTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "ogDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "twitterTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "twitterDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, and survival tips for the surreal voxel sandbox on Steam."
+      "title": "Overlord Anime Wiki - Watch Order, Characters & Seasons",
+      "description": "Overlord Anime Wiki covers characters, watch order, seasons, episodes, movies, and core lore, helping new viewers and returning fans catch up fast.",
+      "keywords": "Overlord anime, dark fantasy isekai, Ainz, Albedo, watch order, seasons, episodes, Sacred Kingdom",
+      "ogTitle": "Overlord Anime Wiki - Watch Order, Characters & Seasons",
+      "ogDescription": "Overlord Anime Wiki covers characters, watch order, seasons, episodes, movies, and core lore, helping new viewers and returning fans catch up fast.",
+      "twitterTitle": "Overlord Anime Wiki - Watch Order, Characters & Seasons",
+      "twitterDescription": "Overlord Anime Wiki covers watch order, characters, seasons, episodes, movies, and lore for the dark fantasy isekai anime."
     }
   },
   "nav": {
@@ -33,27 +33,27 @@
     "readMore": "Read More"
   },
   "hero": {
-    "badge": "Surreal Voxel Survival Sandbox",
-    "title": "Lucid Blocks Wiki",
-    "description": "Explore dreamlike biomes, fuse items with Apotheosis, build freely, and survive strange creatures in this surreal open-world sandbox on Steam.",
-    "getFreeCodesCTA": "Explore Crafting Guide",
-    "playOnSteamCTA": "Play on Steam",
+    "badge": "Dark Fantasy Isekai Anime",
+    "title": "Overlord Anime Wiki",
+    "description": "A dark fantasy isekai about Momonga becoming Ainz Ooal Gown after YGGDRASIL ends, then leading Nazarick through conquest, politics, and the Sacred Kingdom arc.",
+    "getFreeCodesCTA": "View Watch Order",
+    "playOnSteamCTA": "Watch on Crunchyroll",
     "stats": {
       "stat1": {
-        "value": "1,325",
-        "label": "Players Online"
+        "value": "2015",
+        "label": "First Air"
       },
       "stat2": {
-        "value": "1,986",
-        "label": "Peak CCU"
+        "value": "4",
+        "label": "TV Seasons"
       },
       "stat3": {
-        "value": "97%",
-        "label": "Positive Reviews"
+        "value": "52",
+        "label": "Episodes"
       },
       "stat4": {
-        "value": "Mar 12, 2026",
-        "label": "Release Date"
+        "value": "3",
+        "label": "Anime Films"
       }
     }
   },
@@ -784,26 +784,26 @@
     ]
   },
   "cta": {
-    "title": "Ready to Explore Lucid Blocks?",
-    "description": "Join the Lucid Blocks community on Discord for guides, updates, and discussions!",
+    "title": "Ready to Dive into Overlord?",
+    "description": "Join the Overlord community on Discord for discussions, fan theories, and the latest news!",
     "joinCommunity": "Join Discord",
-    "joinGame": "Play on Steam"
+    "joinGame": "Watch on Crunchyroll"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Your complete resource hub for Lucid Blocks crafting, biomes, creatures, achievements, and survival guides.",
+    "title": "Anime Overlord Wiki",
+    "description": "Your complete resource hub for Overlord anime watch order, characters, seasons, episodes, movies, and lore guides.",
     "resources": "Resources",
     "community": "Community",
     "legal": "Legal",
     "discord": "Discord",
     "twitter": "X / Twitter",
-    "steamCommunity": "Steam Community",
-    "steamStore": "Steam Store",
+    "steamCommunity": "Reddit",
+    "steamStore": "Crunchyroll",
     "about": "About",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "copyrightNotice": "Copyright",
-    "copyright": "© 2026 Lucid Blocks Wiki. Not affiliated with the developers of Lucid Blocks.",
+    "copyright": "© 2026 Anime Overlord Wiki. Not affiliated with the creators of Overlord.",
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
