@@ -8,5 +8,1009 @@
     "lore": "Lore",
     "compare": "Perbandingan",
     "media": "Media"
+  },
+  "seo": {
+    "home": {
+      "title": "Wiki Anime Overlord - Urutan Menonton, Karakter & Musim",
+      "description": "Wiki Anime Overlord mencakup karakter, urutan menonton, musim, episode, film, dan lore inti, membantu penonton baru dan penggemar lama mengikuti cerita dengan cepat.",
+      "keywords": "Anime Overlord, dark fantasy isekai, Ainz, Albedo, urutan menonton, musim, episode, Sacred Kingdom",
+      "ogTitle": "Wiki Anime Overlord - Urutan Menonton, Karakter & Musim",
+      "ogDescription": "Wiki Anime Overlord mencakup karakter, urutan menonton, musim, episode, film, dan lore inti, membantu penonton baru dan penggemar lama mengikuti cerita dengan cepat.",
+      "twitterTitle": "Wiki Anime Overlord - Urutan Menonton, Karakter & Musim",
+      "twitterDescription": "Wiki Anime Overlord mencakup urutan menonton, karakter, musim, episode, film, dan lore untuk anime isekai fantasi gelap ini."
+    }
+  },
+  "common": {
+    "home": "Beranda",
+    "more": "Selengkapnya",
+    "playNow": "Mainkan di Steam",
+    "switchLanguage": "Ganti Bahasa",
+    "switchTheme": "Ganti Tema",
+    "lightMode": "Mode Terang",
+    "darkMode": "Mode Gelap",
+    "notFound": "Halaman Tidak Ditemukan",
+    "notFoundDescription": "Halaman yang Anda cari tidak ada.",
+    "backToHome": "Kembali ke Beranda",
+    "relatedArticles": "Artikel Terkait",
+    "readMore": "Baca Selengkapnya"
+  },
+  "hero": {
+    "badge": "Anime Isekai Fantasi Gelap",
+    "title": "Wiki Anime Overlord",
+    "description": "Sebuah isekai fantasi gelap tentang Momonga yang menjadi Ainz Ooal Gown setelah YGGDRASIL berakhir, lalu memimpin Nazarick melalui penaklukan, politik, dan arc Sacred Kingdom.",
+    "getFreeCodesCTA": "Lihat Urutan Menonton",
+    "playOnSteamCTA": "Tonton di Crunchyroll",
+    "stats": {
+      "stat1": {
+        "value": "2015",
+        "label": "Tayang Perdana"
+      },
+      "stat2": {
+        "value": "4",
+        "label": "Musim TV"
+      },
+      "stat3": {
+        "value": "52",
+        "label": "Episode"
+      },
+      "stat4": {
+        "value": "3",
+        "label": "Film Anime"
+      }
+    }
+  },
+  "gameFeature": {
+    "title": "Ikhtisar Anime Overlord",
+    "description": "Isekai fantasi gelap yang mengikuti Momonga saat ia menjadi Ainz Ooal Gown, memimpin Nazarick melalui penaklukan, intrik politik, dan kampanye Kerajaan Suci."
+  },
+  "tools": {
+    "title": "Anime Overlord",
+    "titleHighlight": "Wiki",
+    "subtitle": "Panduan lengkap seri anime Overlord — urutan menonton, karakter, lore, dan segala hal di antaranya",
+    "cards": [
+      {
+        "icon": "ListOrdered",
+        "title": "Urutan Menonton Anime Overlord",
+        "description": "Urutan menonton lengkap untuk semua musim dan film"
+      },
+      {
+        "icon": "Users",
+        "title": "Karakter Anime Overlord",
+        "description": "Penjaga Nazarick, tokoh kerajaan, dan pemeran film"
+      },
+      {
+        "icon": "List",
+        "title": "Panduan Episode Anime Overlord",
+        "description": "Seluruh 52 episode yang disusun berdasarkan musim dengan ringkasan"
+      },
+      {
+        "icon": "Film",
+        "title": "Overlord: The Sacred Kingdom",
+        "description": "Di mana posisi film kanon 2024 dalam cerita"
+      },
+      {
+        "icon": "Crown",
+        "title": "Anime Overlord: Ainz Ooal Gown",
+        "description": "Sang Sorcerer King dan mantan pemain YGGDRASIL, Momonga"
+      },
+      {
+        "icon": "Shield",
+        "title": "Panduan Anime Overlord: Albedo",
+        "description": "Peran Guardian Overseer, kekuatan, dan signifikansi cerita"
+      },
+      {
+        "icon": "Swords",
+        "title": "Panduan Anime Overlord: Shalltear",
+        "description": "Vampire Floor Guardian dan busur konflik Musim 1"
+      },
+      {
+        "icon": "Trophy",
+        "title": "Peringkat Floor Guardians Anime Overlord",
+        "description": "Semua Floor Guardians berdasarkan peran dan spesialisasi tempur"
+      },
+      {
+        "icon": "Landmark",
+        "title": "Panduan Anime Overlord: Nazarick",
+        "description": "Struktur lantai demi lantai, faksi, dan tata letak Great Tomb"
+      },
+      {
+        "icon": "BookOpen",
+        "title": "Busur Cerita Anime Overlord",
+        "description": "Semua busur cerita utama yang dipetakan ke musim dan rentang episode"
+      },
+      {
+        "icon": "Clock",
+        "title": "Lini Masa Anime Overlord",
+        "description": "Urutan kronologis dari semua peristiwa dan busur cerita utama"
+      },
+      {
+        "icon": "BookMarked",
+        "title": "Panduan Light Novel Anime Overlord",
+        "description": "Urutan membaca dan di mana harus memulai setelah anime"
+      },
+      {
+        "icon": "Scale",
+        "title": "Anime Overlord: Anime vs Novel",
+        "description": "Perbedaan utama dan apa yang dilewati oleh adaptasi anime"
+      },
+      {
+        "icon": "Mic2",
+        "title": "Pengisi Suara Anime Overlord",
+        "description": "Pemeran Jepang dan Inggris untuk semua musim dan film"
+      },
+      {
+        "icon": "Music",
+        "title": "Soundtrack Anime Overlord",
+        "description": "Semua lagu pembuka, penutup, lagu sisipan, dan tema film"
+      },
+      {
+        "icon": "Radio",
+        "title": "Berita Anime Overlord Musim 5",
+        "description": "Pengumuman resmi dan status materi sumber"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Pertanyaan yang Sering",
+    "titleHighlight": "Diajukan",
+    "subtitle": "Pertanyaan umum tentang wiki Anime Overlord dan serial anime Overlord",
+    "questions": [
+      {
+        "question": "Tentang apakah Anime Overlord itu?",
+        "answer": "Anime Overlord mencakup serial anime Overlord — sebuah isekai fantasi gelap di mana Momonga, seorang pemain YGGDRASIL, menjadi Ainz Ooal Gown dan memimpin Great Tomb of Nazarick di Dunia Baru melalui penaklukan dan intrik politik."
+      },
+      {
+        "question": "Bagaimana urutan menonton anime Overlord yang benar?",
+        "answer": "Tonton keempat musim TV terlebih dahulu, lalu tempatkan film The Sacred Kingdom di antara Musim 4 Episode 7 dan Episode 8 untuk urutan kronologis. Dua film rekap tahun 2017 bersifat opsional dan dapat dilewati tanpa melewatkan konten cerita baru."
+      },
+      {
+        "question": "Berapa banyak musim yang dimiliki Overlord?",
+        "answer": "Overlord memiliki empat musim anime TV dengan total 52 episode. Ada juga tiga film: dua kompilasi rekap dari tahun 2017 dan film kanon tahun 2024 Overlord: The Sacred Kingdom."
+      },
+      {
+        "question": "Apakah Overlord: The Sacred Kingdom adalah film rekap?",
+        "answer": "Tidak. The Sacred Kingdom adalah film cerita kanon yang mengadaptasi arc Holy Kingdom dari novel ringan. Ini bukan rekap dan secara kronologis berada di antara Overlord IV Episode 7 dan 8."
+      },
+      {
+        "question": "Di mana saya bisa menonton anime Overlord?",
+        "answer": "Keempat musim TV dan film The Sacred Kingdom tersedia di Crunchyroll. Serial ini juga tersedia melalui platform streaming berlisensi lainnya tergantung pada wilayah Anda."
+      },
+      {
+        "question": "Apakah akan ada Overlord Musim 5?",
+        "answer": "Hingga awal 2026, belum ada Musim 5 yang diumumkan secara resmi. Novel ringannya memiliki volume di luar apa yang telah diadaptasi oleh anime, dan belum ada produksi resmi yang dikonfirmasi."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Siap untuk Menyelami Overlord?",
+    "description": "Bergabunglah dengan komunitas Overlord di Discord untuk diskusi, teori penggemar, dan berita terbaru!",
+    "joinCommunity": "Gabung Discord",
+    "joinGame": "Tonton di Crunchyroll"
+  },
+  "footer": {
+    "title": "Anime Overlord Wiki",
+    "description": "Pusat sumber daya lengkap Anda untuk urutan menonton anime Overlord, karakter, musim, episode, film, dan panduan lore.",
+    "resources": "Sumber Daya",
+    "community": "Komunitas",
+    "legal": "Hukum",
+    "discord": "Discord",
+    "twitter": "X / Twitter",
+    "steamCommunity": "Reddit",
+    "steamStore": "Crunchyroll",
+    "about": "Tentang",
+    "privacy": "Kebijakan Privasi",
+    "terms": "Ketentuan Layanan",
+    "copyrightNotice": "Hak Cipta",
+    "copyright": "© 2026 Anime Overlord Wiki. Tidak berafiliasi dengan pencipta Overlord.",
+    "disclaimer": "Situs web sumber daya tidak resmi buatan penggemar."
+  },
+  "pages": {
+    "guide": {
+      "title": "Panduan Anime Overlord",
+      "description": "Panduan lengkap untuk anime Overlord termasuk penjelasan, rekap, ulasan, dan panduan orang tua.",
+      "metaTitle": "Panduan Anime Overlord - Penjelasan, Rekap, Ulasan & Panduan Orang Tua",
+      "metaDescription": "Panduan anime Overlord komprehensif yang mencakup penjelasan seri, rekap lengkap, ulasan, dan panduan orang tua untuk semua musim.",
+      "categoryLabel": "PANDUAN",
+      "whatIs": "Apa itu panduan ini?",
+      "whatIsDescription": "Panduan mendalam yang menjelaskan seri anime Overlord, mencakup cerita, tema, karakter, dan peristiwa penting. Sangat cocok untuk penonton baru atau penggemar yang ingin menyegarkan ingatan.",
+      "why": "Mengapa membaca panduan ini?",
+      "whySteps": {
+        "step1Title": "Pahami Ceritanya",
+        "step1Description": "Dapatkan penjelasan yang jelas tentang plot dan dunia Overlord",
+        "step2Title": "Ikuti dengan Cepat",
+        "step2Description": "Baca rekap dan ringkasan episode untuk menyegarkan ingatan Anda",
+        "step3Title": "Buat Pilihan yang Tepat",
+        "step3Description": "Periksa panduan orang tua untuk memutuskan apakah Overlord tepat untuk keluarga Anda"
+      },
+      "featured": "Panduan Esensial",
+      "all": "Semua Panduan"
+    },
+    "watch": {
+      "title": "Urutan Menonton Overlord",
+      "description": "Panduan lengkap untuk menonton semua musim dan film anime Overlord dalam urutan yang benar, termasuk urutan kronologis dan rilis.",
+      "metaTitle": "Urutan Menonton Anime Overlord - Panduan Urutan Kronologis & Rilis",
+      "metaDescription": "Temukan urutan menonton anime Overlord terbaik dengan jumlah episode, urutan kronologis, dan panduan di mana posisi film 2024 berada.",
+      "categoryLabel": "URUTAN MENONTON",
+      "whatIs": "Apa itu Urutan Menonton?",
+      "whatIsDescription": "Panduan terstruktur untuk menonton semua konten anime Overlord dalam urutan yang tepat, mencakup empat musim TV dan film Sacred Kingdom.",
+      "why": "Mengapa mengikuti urutan menonton?",
+      "whySteps": {
+        "step1Title": "Hindari Spoiler",
+        "step1Description": "Tonton dalam urutan yang benar untuk merasakan pengungkapan cerita sesuai rencana",
+        "step2Title": "Tempatkan Film dengan Benar",
+        "step2Description": "Film Sacred Kingdom adalah kanon dan sesuai dengan lini masa Musim 4",
+        "step3Title": "Tahu Apa yang Harus Dilewati",
+        "step3Description": "Identifikasi film rekap versus film konten baru sebelum Anda menonton"
+      },
+      "featured": "Tontonan Esensial",
+      "all": "Urutan Menonton Lengkap"
+    },
+    "season": {
+      "title": "Musim Anime Overlord",
+      "description": "Rincian lengkap dari semua musim anime Overlord termasuk berita Musim 5, status musim saat ini, dan pembaruan musim baru.",
+      "metaTitle": "Musim Anime Overlord - Musim 5, Status Saat Ini & Berita Musim Baru",
+      "metaDescription": "Segala hal tentang musim anime Overlord: apakah ada Musim 5, apa musim saat ini, dan pengumuman musim baru terbaru.",
+      "categoryLabel": "MUSIM",
+      "whatIs": "Apa saja musim Overlord?",
+      "whatIsDescription": "Overlord telah menayangkan empat musim anime TV dari 2015 hingga 2022, ditambah film Sacred Kingdom tahun 2024. Bagian ini mencakup semua info musiman, status pembaruan, dan berita Musim 5.",
+      "why": "Mengapa melacak musim?",
+      "whySteps": {
+        "step1Title": "Ketahui Lini Masa Rilis",
+        "step1Description": "Pahami kapan setiap musim ditayangkan dan apa yang dicakupnya",
+        "step2Title": "Ikuti Berita Musim 5",
+        "step2Description": "Tetap perbarui informasi apakah Overlord akan berlanjut melampaui Musim 4",
+        "step3Title": "Rencanakan Tontonan Anda",
+        "step3Description": "Putuskan musim mana yang akan diprioritaskan berdasarkan ringkasan arc"
+      },
+      "featured": "Sorotan Musim",
+      "all": "Semua Artikel Musim"
+    },
+    "movie": {
+      "title": "Film Anime Overlord",
+      "description": "Panduan lengkap untuk semua film anime Overlord termasuk tanggal rilis film Sacred Kingdom, daftar film, dan detail trailer.",
+      "metaTitle": "Film Anime Overlord - Sacred Kingdom, Daftar Film & Tanggal Rilis",
+      "metaDescription": "Panduan untuk semua film anime Overlord termasuk tanggal rilis film Sacred Kingdom 2024, daftar film lengkap, dan trailer resmi.",
+      "categoryLabel": "FILM",
+      "whatIs": "Apa saja film Overlord?",
+      "whatIsDescription": "Overlord memiliki beberapa film anime: dua film kompilasi yang merangkum Musim 1 dan 2, serta film teater The Sacred Kingdom tahun 2024 dengan konten cerita kanon baru.",
+      "why": "Mengapa menonton filmnya?",
+      "whySteps": {
+        "step1Title": "Rasakan Film Kanon",
+        "step1Description": "Sacred Kingdom sepenuhnya kanon dan melanjutkan cerita utama",
+        "step2Title": "Temukan Tanggal Rilis",
+        "step2Description": "Dapatkan tanggal rilis yang akurat untuk Sacred Kingdom dan film masa depan",
+        "step3Title": "Tonton Trailernya",
+        "step3Description": "Pratinjau setiap film dengan trailer resmi sebelum memutuskan untuk menonton"
+      },
+      "featured": "Film Unggulan",
+      "all": "Semua Artikel Film"
+    },
+    "characters": {
+      "title": "Karakter Anime Overlord",
+      "description": "Panduan karakter lengkap untuk pemimpin Nazarick, floor guardians, tokoh kerajaan, dan pemeran Sacred Kingdom.",
+      "metaTitle": "Karakter Anime Overlord - Ainz, Albedo, Shalltear & Floor Guardians",
+      "metaDescription": "Panduan karakter untuk anime Overlord yang mencakup Ainz Ooal Gown, Albedo, Shalltear, Sebas, dan semua penjaga Nazarick.",
+      "categoryLabel": "KARAKTER",
+      "whatIs": "Siapa saja karakternya?",
+      "whatIsDescription": "Overlord menampilkan banyak karakter mulai dari floor guardians Nazarick hingga penguasa kerajaan manusia. Bagian ini mencakup karakter utama, peran mereka, dan arc mereka.",
+      "why": "Mengapa membaca panduan karakter?",
+      "whySteps": {
+        "step1Title": "Kenali Fraksinya",
+        "step1Description": "Pahami karakter mana yang termasuk dalam Nazarick, kerajaan manusia, atau Sacred Kingdom",
+        "step2Title": "Lacak Arc Karakter",
+        "step2Description": "Ikuti kisah setiap karakter di keempat musim dan filmnya",
+        "step3Title": "Bersiap untuk Film",
+        "step3Description": "Pelajari tentang karakter baru Sacred Kingdom sebelum menonton film 2024"
+      },
+      "featured": "Karakter Kunci",
+      "all": "Semua Karakter"
+    },
+    "lore": {
+      "title": "Lore Anime Overlord",
+      "description": "Pembahasan mendalam tentang pembangunan dunia anime Overlord termasuk Nazarick, floor guardians, YGGDRASIL, negara-negara, dan sistem sihir.",
+      "metaTitle": "Lore Anime Overlord - Nazarick, YGGDRASIL, Floor Guardians & Negara",
+      "metaDescription": "Jelajahi lore anime Overlord yang mencakup Great Tomb of Nazarick, floor guardians, asal-usul YGGDRASIL, negara-negara dunia, dan mantra.",
+      "categoryLabel": "LORE",
+      "whatIs": "Apa itu lore-nya?",
+      "whatIsDescription": "Overlord memiliki pembangunan dunia yang kaya yang mencakup dunia game virtual YGGDRASIL dan Dunia Baru, termasuk Great Tomb of Nazarick, floor guardians-nya, sistem sihir, dan faksi politik.",
+      "why": "Mengapa menjelajahi lore?",
+      "whySteps": {
+        "step1Title": "Pahami YGGDRASIL",
+        "step1Description": "Pelajari bagaimana dunia game asal Ainz membentuk cerita saat ini",
+        "step2Title": "Jelajahi Nazarick",
+        "step2Description": "Temukan tata letak, lantai, dan penjaga Great Tomb of Nazarick",
+        "step3Title": "Petakan Dunianya",
+        "step3Description": "Pahami negara, faksi, dan lanskap politik Dunia Baru"
+      },
+      "featured": "Lore Esensial",
+      "all": "Semua Artikel Lore"
+    },
+    "compare": {
+      "title": "Perbandingan & Alternatif Overlord",
+      "description": "Bandingkan anime Overlord dengan acara serupa, manga, dan light novel, serta temukan anime terbaik yang mirip Overlord.",
+      "metaTitle": "Anime Seperti Overlord - Perbandingan, Manga vs Anime & Panduan Light Novel",
+      "metaDescription": "Temukan anime yang mirip dengan Overlord, bandingkan perbedaan manga dan anime, serta jelajahi kelanjutan light novel di luar anime.",
+      "categoryLabel": "BANDINGKAN",
+      "whatIs": "Apa saja perbandingan ini?",
+      "whatIsDescription": "Panduan yang membandingkan Overlord dengan anime isekai serupa, menjelaskan perbedaan manga versus anime, dan mencakup konten light novel yang melampaui apa yang diadaptasi anime.",
+      "why": "Mengapa membaca perbandingan?",
+      "whySteps": {
+        "step1Title": "Temukan Anime Serupa",
+        "step1Description": "Temukan anime isekai dan fantasi gelap yang direkomendasikan untuk penggemar Overlord",
+        "step2Title": "Lanjutkan Ceritanya",
+        "step2Description": "Pelajari cara melanjutkan membaca cerita dalam bentuk manga atau light novel",
+        "step3Title": "Pahami Perbedaan",
+        "step3Description": "Ketahui apa yang diubah atau dilewati anime dibandingkan dengan materi sumbernya"
+      },
+      "featured": "Rekomendasi Teratas",
+      "all": "Semua Perbandingan"
+    },
+    "media": {
+      "title": "Media Anime Overlord",
+      "description": "Cakupan media anime Overlord termasuk platform streaming, studio animasi, lagu pembuka dan penutup, serta peringkat MyAnimeList.",
+      "metaTitle": "Anime Overlord di Netflix, Studio, Lagu Pembuka & Penutup",
+      "metaDescription": "Temukan anime Overlord di Netflix dan platform streaming lainnya, pelajari tentang studio animasi Madhouse, dan jelajahi lagu pembuka serta penutup.",
+      "categoryLabel": "MEDIA",
+      "whatIs": "Info media apa yang ada di sini?",
+      "whatIsDescription": "Informasi tentang tempat menonton Overlord, studio animasi mana yang memproduksinya, peringkatnya di MyAnimeList, dan lagu tema pembuka serta penutupnya yang ikonik.",
+      "why": "Mengapa memeriksa info media?",
+      "whySteps": {
+        "step1Title": "Temukan Tempat Menonton",
+        "step1Description": "Temukan platform streaming mana yang menyediakan Overlord di wilayah Anda",
+        "step2Title": "Pelajari Tentang Studio",
+        "step2Description": "Jelajahi karya Madhouse di Overlord dan kualitas animasinya",
+        "step3Title": "Temukan Musiknya",
+        "step3Description": "Temukan dan nikmati lagu pembuka dan penutup dari setiap musim Overlord"
+      },
+      "featured": "Streaming & Studio",
+      "all": "Semua Artikel Media"
+    }
+  },
+  "modules": {
+    "overlordWatchOrder": {
+      "title": "Urutan Nonton Anime Overlord",
+      "intro": "Mulailah dengan keempat musim TV, lalu tempatkan The Sacred Kingdom di antara Season 4 Episode 7 dan 8. Dua film rekap tahun 2017 bersifat opsional dan dapat dilewati tanpa melewatkan cerita baru.",
+      "steps": [
+        {
+          "title": "Overlord Season 1 — Mulai di Sini",
+          "description": "Memperkenalkan Momonga, Nazarick, Desa Carne, identitas Momon, dan konflik Shalltear. 13 episode, tayang Juli–September 2015."
+        },
+        {
+          "title": "Overlord: The Undead King (Rekap Opsional)",
+          "description": "Rekap teatrikal dari bagian pertama Season 1. Tonton hanya jika Anda menginginkan format film. Bukan pengganti seri lengkapnya."
+        },
+        {
+          "title": "Overlord: The Dark Warrior (Rekap Opsional)",
+          "description": "Film rekap kedua yang mencakup materi Season 1. Paling baik dianggap sebagai tontonan bonus setelah Anda mengetahui cerita intinya."
+        },
+        {
+          "title": "Overlord II — Lanjutkan Ceritanya",
+          "description": "Kampanye Lizardmen, Sebas di ibu kota, dan bentrokan yang berkembang antara Nazarick dan dunia manusia. Episode 14–26."
+        },
+        {
+          "title": "Overlord III — Kekaisaran dan Perang",
+          "description": "Mencakup aliansi Kekaisaran, invasi Worker, dan pertempuran penentu di Dataran Katze. Episode 27–39, tayang Juli–Oktober 2018."
+        },
+        {
+          "title": "Overlord IV Episode 1–7 — Sebelum Film",
+          "description": "Tonton arc pembuka Sorcerous Nation dan materi Kerajaan Kurcaci terlebih dahulu. Berhenti setelah episode 7 (episode 46 secara keseluruhan) untuk menempatkan film dengan benar."
+        },
+        {
+          "title": "Overlord: The Sacred Kingdom — Film Kanon",
+          "description": "Ini adalah film cerita kanon, bukan rekap. Film ini mengadaptasi arc Holy Kingdom dan cocok secara kronologis di antara Overlord IV Episode 7 dan Episode 8. Dirilis September 2024, streaming di Crunchyroll mulai April 2025."
+        },
+        {
+          "title": "Overlord IV Episode 8–13 — Selesaikan Season 4",
+          "description": "Kembali ke penayangan TV untuk akhir dari Kerajaan Re-Estize dan peristiwa penutup Season 4. Episode 47–52."
+        }
+      ],
+      "quickTips": [
+        "Dua film tahun 2017 (The Undead King, The Dark Warrior) hanya merekap Season 1 — lewati jika Anda menginginkan kemajuan cerita murni.",
+        "The Sacred Kingdom adalah film cerita kanon, bukan rekap — ini dihitung sebagai konten baru dan harus ditonton pada posisi kronologis yang benar.",
+        "Jika Anda menyelesaikan Season 4 terlebih dahulu, Anda masih bisa menonton The Sacred Kingdom setelahnya — hanya saja perlu dicatat bahwa Anda akan melihat motivasi Ainz sedikit tidak berurutan.",
+        "Keempat musim TV dan The Sacred Kingdom tersedia di Crunchyroll."
+      ]
+    },
+    "overlordCharacters": {
+      "title": "Karakter Utama Anime Overlord",
+      "intro": "Ini adalah anggota inti Nazarick, tokoh-tokoh penting kerajaan, dan pemeran film yang paling sering muncul dalam pencarian. Mengetahui faksi mana setiap karakter berasal membuat alur cerita jauh lebih mudah diikuti.",
+      "cards": [
+        {
+          "name": "Ainz Ooal Gown",
+          "description": "Sebelumnya Momonga, sekarang penguasa Sorcerer Kingdom. Setiap alur politik dan militer utama berpusat pada keputusan dan strateginya."
+        },
+        {
+          "name": "Albedo",
+          "description": "Guardian Overseer dan kepala administrator Ainz. Dia mengelola struktur komando internal Nazarick dan sangat setia kepada Ainz."
+        },
+        {
+          "name": "Demiurge",
+          "description": "Floor Guardian lantai ketujuh dan otak strategis Nazarick. Kekuatan tersembunyi di balik banyak pergerakan plot terbesar dalam seri ini."
+        },
+        {
+          "name": "Shalltear Bloodfallen",
+          "description": "Guardian lantai pertama hingga ketiga. Dia mendorong salah satu konflik awal anime yang paling berkesan dan tetap menjadi salah satu petarung terkuat Nazarick."
+        },
+        {
+          "name": "Neia Baraja",
+          "description": "Squire dan karakter sudut pandang inti dalam film The Sacred Kingdom. Salah satu karakter era film yang paling banyak dicari karena peran pentingnya."
+        },
+        {
+          "name": "Remedios Custodio",
+          "description": "Grandmaster dari Ordo Paladin Holy Kingdom. Dia memimpin perlawanan putus asa melawan Jaldabaoth dalam film The Sacred Kingdom."
+        },
+        {
+          "name": "Renner",
+          "description": "Putri Re-Estize yang kecerdasan dan agenda tersembunyinya menjadi semakin penting dalam alur politik selanjutnya, terutama di sekitar jatuhnya kerajaan."
+        },
+        {
+          "name": "Climb",
+          "description": "Pengawal setia Renner yang memberikan sudut pandang paling personal dari sisi kerajaan dalam cerita dan sangat terikat dengan nasib Renner."
+        }
+      ],
+      "milestones": [
+        "Pemimpin Nazarick",
+        "Karakter Kerajaan",
+        "Pemeran Sacred Kingdom"
+      ]
+    },
+    "overlordEpisodeGuide": {
+      "title": "Panduan Episode Anime Overlord per Musim",
+      "intro": "Overlord memiliki empat musim TV dengan masing-masing 13 episode, dengan total 52 episode. Setiap entri di bawah ini menunjukkan rentang episode, jendela rilis, dan fokus cerita utama untuk blok tersebut.",
+      "items": [
+        {
+          "name": "Overlord Musim 1",
+          "type": "Episode 1–13",
+          "description": "Momonga menjadi Ainz Ooal Gown, Nazarick memasuki Dunia Baru, Desa Carne diselamatkan, Momon diperkenalkan, dan pertarungan sengit Shalltear menutup musim ini. Tayang Jul–Sep 2015."
+        },
+        {
+          "name": "Overlord II",
+          "type": "Episode 14–26",
+          "description": "Kampanye Lizardmen, Sebas di ibu kota, dan konflik yang meluas antara Nazarick, petualang, dan faksi manusia. Tayang Jan–Apr 2018."
+        },
+        {
+          "name": "Overlord III",
+          "type": "Episode 27–39",
+          "description": "Materi invasi Kekaisaran dan Worker, perkembangan besar di Desa Carne, dan pertempuran katastrofik di Dataran Katze yang mengubah tatanan Dunia Baru. Tayang Jul–Okt 2018."
+        },
+        {
+          "name": "Overlord IV",
+          "type": "Episode 40–52",
+          "description": "Era Kerajaan Sorcerer melalui diplomasi, arc Kerajaan Kurcaci, dan kehancuran akhir Re-Estize. Secara kronologis, The Sacred Kingdom berada di antara episode 46 dan 47. Tayang Jul–Sep 2022."
+        }
+      ]
+    },
+    "overlordSacredKingdom": {
+      "title": "Panduan Anime Overlord: The Sacred Kingdom",
+      "intro": "The Sacred Kingdom adalah satu-satunya film Overlord yang menceritakan kisah kanon baru yang besar alih-alih merangkum materi TV. Film ini memperluas dunia di luar Nazarick dan Re-Estize dengan berfokus pada Kerajaan Suci yang sedang dikepung.",
+      "solutions": [
+        {
+          "name": "Posisi dalam Urutan Menonton",
+          "role": "Penempatan kanon",
+          "description": "Tempatkan film ini setelah Overlord IV Episode 7 dan sebelum Episode 8 untuk urutan kronologis. Film ini dirilis di Jepang pada 20 September 2024 dan mulai ditayangkan di Crunchyroll pada April 2025."
+        },
+        {
+          "name": "Pengaturan Utama",
+          "role": "Ikhtisar cerita",
+          "description": "Kerajaan Suci Roble menghadapi kehancuran dari Jaldabaoth dan aliansi demi-human. Remedios Custodio dan Neia Baraja melakukan perjalanan untuk meminta bantuan dari Ainz dan Kerajaan Penyihir."
+        },
+        {
+          "name": "Karakter Baru Utama",
+          "role": "Pemeran film",
+          "description": "Neia Baraja (karakter sudut pandang), Remedios Custodio (pemimpin paladin), Calca Bessarez (Ratu Suci), Kelart Custodio (pendeta tinggi), dan CZ2128 Delta dengan peran yang diperluas."
+        },
+        {
+          "name": "Mengapa Ini Penting",
+          "role": "Signifikansi cerita",
+          "description": "Film ini memberikan adaptasi penuh untuk arc Kerajaan Suci dan menambah konteks pada jangkauan Ainz di luar Re-Estize, menjadikannya penting bagi pencari panduan menonton pasca-Season 4."
+        }
+      ],
+      "managementTips": [
+        "Film ini adalah cerita kanon, bukan rangkuman — sangat penting bagi penggemar arc Kerajaan Suci.",
+        "Dapat juga ditonton setelah seluruh seri sebagai kesimpulan mandiri untuk cerita Kerajaan Suci.",
+        "Ditayangkan di Crunchyroll bersamaan dengan serial TV utama.",
+        "Neia Baraja menjadi salah satu karakter favorit penggemar yang diperkenalkan di era film."
+      ]
+    },
+    "overlordAinz": {
+      "title": "Anime Overlord: Ainz Ooal Gown",
+      "intro": "Ainz Ooal Gown adalah wajah dari Overlord — mantan pemain Momonga, yang kini menjadi Sorcerer King dari Nazarick. Identitas, gelar, sihir, dan alur ceritanya di seluruh anime dan film The Sacred Kingdom mendefinisikan setiap peristiwa besar dalam seri ini.",
+      "cards": [
+        {
+          "icon": "User",
+          "name": "Identitas Inti",
+          "description": "Sebelumnya adalah Momonga, seorang pemain YGGDRASIL yang berdedikasi dan dikenal sebagai Suzuki Satoru di dunia nyata. Dia tetap masuk saat server ditutup dan terbangun di Dunia Baru sebagai undead Overlord Ainz Ooal Gown."
+        },
+        {
+          "icon": "Crown",
+          "name": "Gelar dan Persona Publik",
+          "description": "Ainz menyandang banyak gelar: Supreme One, Sorcerer King, King of Darkness, dan Momon sang Dark Hero. Setiap persona melayani peran politik atau strategis yang berbeda di berbagai arc."
+        },
+        {
+          "icon": "Eye",
+          "name": "Ras dan Penampilan di Layar",
+          "description": "Dia muncul sebagai undead Overlord — sosok kerangka dalam jubah akademik hitam dengan hiasan emas dan ungu serta bola merah yang melayang di bawah tulang rusuknya. Ras sebelumnya adalah manusia."
+        },
+        {
+          "icon": "Zap",
+          "name": "Profil Sihir",
+          "description": "Spesialisasi dalam nekromansi dan sihir kematian instan dengan lebih dari 700 mantra yang tersedia. Kemampuan tingkat super termasuk Fallen Down dan Iä Shub-Niggurath, dan dia memanfaatkan waktu penghentian waktu untuk kombinasi yang menghancurkan."
+        },
+        {
+          "icon": "Landmark",
+          "name": "Posisi di Nazarick dan Dunia",
+          "description": "Dihormati sebagai yang tertinggi dari Empat Puluh Satu Supreme Beings oleh NPC Nazarick. Di luar, dia menjadi Sorcerer King dan kekuatan politik utama yang pengaruhnya membentuk kembali seluruh Dunia Baru."
+        },
+        {
+          "icon": "Clock",
+          "name": "Perkembangan Cerita",
+          "description": "Dimulai sebagai pemain terakhir saat penutupan YGGDRASIL, mendirikan Sorcerer Kingdom dari Nazarick, dan menjadi kekuatan pembentuk dunia dalam arc Holy Kingdom yang dicakup dalam film The Sacred Kingdom."
+        }
+      ],
+      "highlights": [
+        "Overlord dari Nazarick",
+        "Sorcerer King",
+        "Undead Magic Caster",
+        "Mantan Momonga"
+      ]
+    },
+    "overlordAlbedo": {
+      "title": "Anime Overlord: Panduan Karakter Albedo",
+      "intro": "Albedo adalah Guardian Overseer dari Great Tomb of Nazarick, yang mengawasi ketujuh Floor Guardians. Desainnya, kesetiaannya yang tak tergoyahkan kepada Ainz, dan peran politiknya menjadikannya salah satu karakter yang paling banyak dicari dalam seri Overlord.",
+      "regions": [
+        {
+          "icon": "Shield",
+          "name": "Peran Inti",
+          "type": "Guardian Overseer",
+          "description": "Albedo mengawasi ketujuh Floor Guardians dan memiliki peringkat di atas semua NPC Nazarick lainnya. Dia juga menjabat sebagai Perdana Menteri, menangani urusan internal dan manajemen selama ketidakhadiran Ainz."
+        },
+        {
+          "icon": "Users",
+          "name": "Ras, Keluarga, dan Pencipta",
+          "type": "Latar Belakang",
+          "description": "Seorang iblis succubus yang diciptakan oleh Tabula Smaragdina. Dia adalah anak tengah — Nigredo adalah kakak perempuannya, Rubedo adalah adik perempuannya."
+        },
+        {
+          "icon": "Sparkles",
+          "name": "Desain dan Penampilan",
+          "type": "Visual",
+          "description": "Rambut hitam pekat, mata emas dengan pupil vertikal, sayap hitam, dan tanduk melengkung. Gaun putihnya dalam adegan standar berubah menjadi baju zirah full plate hitam yang berat saat dia memasuki pertempuran."
+        },
+        {
+          "icon": "Heart",
+          "name": "Kepribadian dan Kesetiaan",
+          "type": "Karakter",
+          "description": "Sangat setia kepada Ainz dengan rasa memiliki yang emosional dan kecemburuan sesekali. Perpaduan antara obsesi dan kompetensi administratifnya menjadikannya salah satu karakter paling menarik dalam seri ini."
+        },
+        {
+          "icon": "Swords",
+          "name": "Profil Kekuatan",
+          "type": "Pertempuran",
+          "description": "Kekuatan pertahanan tertinggi di antara semua NPC Nazarick, terutama saat mengenakan Hermes Trismegistus. Dia dapat mentransfer kerusakan yang diterima ke baju zirahnya dan menahan mantra Super-Tier Magic dengan keahlian pertahanannya."
+        },
+        {
+          "icon": "Settings",
+          "name": "Administrasi dan Peralatan",
+          "type": "Utilitas",
+          "description": "Termasuk dalam tiga besar NPC tercerdas. Mengelola operasi internal Nazarick dan terhubung dengan sistem utama termasuk World Item Ginnungagap dan senjata 3F."
+        }
+      ]
+    },
+    "overlordShalltear": {
+      "title": "Anime Overlord: Shalltear Bloodfallen",
+      "intro": "Shalltear Bloodfallen adalah Floor Guardian dari lantai pertama hingga ketiga Nazarick dan salah satu petarung terkuat dalam seri ini. Konflik ikonik Musim 1 melawannya melawan Ainz tetap menjadi salah satu arc yang paling banyak dicari dalam anime Overlord.",
+      "creatures": [
+        {
+          "icon": "Star",
+          "name": "Identitas Inti",
+          "role": "Floor Guardian",
+          "description": "Seorang vampir sejati dan Floor Guardian lantai 1–3, diciptakan oleh Peroroncino. Tempat tinggalnya terdaftar sebagai Adipocere Chamber di lantai 2 Makam Besar."
+        },
+        {
+          "icon": "Eye",
+          "name": "Desain dan Daya Tarik Visual",
+          "role": "Visual",
+          "description": "Rambut perak, mata merah tua, kulit pucat, dan gaun hitam dalam penampilan standar — beralih ke baju zirah pelat penuh berwarna merah darah saat dilengkapi sepenuhnya untuk pertempuran."
+        },
+        {
+          "icon": "MessageCircle",
+          "name": "Kepribadian",
+          "role": "Karakter",
+          "description": "Bangga dan genit dengan emosi yang mudah meledak ketika segala sesuatunya salah. Dia menjalankan tugas Guardian-nya dengan penuh keseriusan sementara kepercayaan dirinya yang fluktuatif mendorong beberapa adegan paling dramatis dalam anime."
+        },
+        {
+          "icon": "Trophy",
+          "name": "Reputasi Pertempuran",
+          "role": "Kekuatan",
+          "description": "Floor Guardian terkuat selain Gargantua, dengan statistik keseluruhan tertinggi di antara Guardian standar. Ainz sendiri menganggapnya sebagai petarung satu lawan satu terbaik di Nazarick."
+        },
+        {
+          "icon": "CheckCircle",
+          "name": "Utilitas Pertempuran",
+          "role": "Spesialisasi",
+          "description": "Menggabungkan kemampuan penopang kehidupan, pengalaman tempur paling nyata dari semua Floor Guardian, penggunaan sihir suci yang terkonfirmasi, dan build kelas yang sangat efektif melawan jenis perapal sihir tertentu."
+        },
+        {
+          "icon": "BookOpen",
+          "name": "Arc Cerita Penentu",
+          "role": "Arc Kunci",
+          "description": "Dicuci otak oleh World Item dan berbalik melawan Nazarick, dia dikalahkan oleh Ainz dalam salah satu pertempuran ikonik anime ini. Dia kemudian dibangkitkan dan berlanjut sebagai Floor Guardian utama."
+        }
+      ]
+    },
+    "overlordFloorGuardians": {
+      "title": "Peringkat Floor Guardian Anime Overlord",
+      "intro": "Floor Guardian adalah pelindung terkuat dari Great Tomb of Nazarick. Ikhtisar ini mengurutkan mereka berdasarkan peran, spesialisasi pertempuran, dan urutan kekuatan yang umum dibahas — mulai dari kekuatan duel murni hingga nilai komando strategis.",
+      "items": [
+        {
+          "icon": "Swords",
+          "name": "Shalltear Bloodfallen",
+          "type": "Lantai 1–3 — Duelis Terbaik",
+          "description": "Secara luas dianggap sebagai Floor Guardian terkuat dalam pertempuran satu lawan satu langsung, dengan statistik keseluruhan tertinggi di antara Guardian standar. Ainz menganggapnya sebagai petarung target tunggal terbaik."
+        },
+        {
+          "icon": "Shield",
+          "name": "Mare Bello Fiore",
+          "type": "Lantai 6 — Caster AoE Terbaik",
+          "description": "Caster area-of-effect terkuat di Nazarick, dibangun untuk kehancuran skala tentara dan tekanan sihir jarak jauh. Salah satu dari dua petarung teratas bersama Shalltear."
+        },
+        {
+          "icon": "Hammer",
+          "name": "Cocytus",
+          "type": "Lantai 5 — Ahli Senjata",
+          "description": "Prajurit insektoid berlengan empat dengan daya serang terbesar saat menggunakan senjata. Kode kehormatannya yang ketat menjadikannya salah satu tipe prajurit utama di Nazarick."
+        },
+        {
+          "icon": "Brain",
+          "name": "Demiurge",
+          "type": "Lantai 7 — Komandan Strategis",
+          "description": "Otak strategis Nazarick dengan perangkat pertempuran serba bisa. Penipuan, administrasi, dan perencanaannya membuatnya tak tergantikan dalam operasi skala besar."
+        },
+        {
+          "icon": "TrendingUp",
+          "name": "Aura Bella Fiora",
+          "type": "Lantai 6 — Ranger dan Penjinak Binatang",
+          "description": "Unggul dalam kecepatan, penjinakan binatang, dan perang gerilya. Dia menjadi jauh lebih berbahaya saat beroperasi dengan panggilan (summons), keuntungan medan, dan dukungan tim."
+        },
+        {
+          "icon": "Landmark",
+          "name": "Albedo",
+          "type": "Pengawas — Dinding Pertahanan",
+          "description": "Kekuatan pertahanan tertinggi di antara NPC Nazarick. Nilainya berasal dari pertahanan, kontrol, dan kemampuan bertahan hidup yang luar biasa, menjadikannya pilihan tingkat atas dalam pertempuran berkepanjangan."
+        }
+      ],
+      "unlockMilestones": [
+        "Seluruh 7 Lantai Terlindungi",
+        "Dewan Guardian Berkumpul",
+        "Supreme Being Melayani Ainz"
+      ]
+    },
+    "overlordNazarick": {
+      "title": "Anime Overlord: Di Dalam Makam Besar Nazarick",
+      "intro": "Makam Besar Nazarick adalah pusat kekuasaan Overlord. Tempat ini berfungsi sebagai markas utama Ainz, ruang strategi perang, pengadilan politik, jaringan penjara, dan garis pertahanan terakhir — memahami strukturnya membuat seluruh waralaba ini jauh lebih mudah untuk diikuti.",
+      "sections": [
+        {
+          "name": "Ikhtisar Benteng",
+          "description": "Awalnya merupakan dungeon tingkat tinggi di YGGDRASIL, Nazarick ditaklukkan dan dibangun kembali oleh Ainz Ooal Gown. Setelah rekonstruksi, tempat ini diperluas menjadi lebih dari sepuluh lantai dengan pertahanan berlapis, gerbang teleportasi, dan infrastruktur NPC khusus. Tempat ini selamat dari serangan terkenal 1.500 orang tanpa penyerang berhasil menembus pertahanan terdalam."
+        },
+        {
+          "name": "Kepemimpinan dan Komando",
+          "description": "Nazarick berjalan dengan struktur komando atas-ke-bawah yang ketat. Ainz Ooal Gown mengeluarkan semua keputusan strategis akhir. Albedo menjabat sebagai Overseer Guardian dan bertindak sebagai komandan keseluruhan dari para Floor Guardian. Setiap Floor Guardian mengendalikan domain pertahanan utama dan memimpin bawahan yang kuat di dalam ruang tersebut."
+        },
+        {
+          "name": "Peta Lantai demi Lantai",
+          "description": "Lantai 1–3: Makam / Katakombe (Guardian: Shalltear). Lantai 4: Danau Bawah Tanah (Gargantua). Lantai 5: Gletser (Cocytus). Lantai 6: Hutan Rimba (Aura dan Mare). Lantai 7: Lava (Demiurge). Lantai 8: Wilderness (Victim — garis pertahanan terakhir). Lantai 9: Royal Suite dengan fasilitas layanan. Lantai 10: Ruang Takhta — ruang komando Ainz. Perbendaharaan: brankas spasial terpisah yang diakses melalui Rings of Ainz Ooal Gown."
+        },
+        {
+          "name": "Kelompok Militer dan Pendukung Utama",
+          "description": "Selain Floor Guardian, Nazarick beroperasi melalui unit elit dan NPC khusus. Pleiades adalah pelayan tempur Nazarick dan salah satu kelompok layanan dan tempur elit yang paling terkenal. Hierarki Lantai 8 dan Aureole Omega mewakili kekuatan cadangan terdalam Nazarick. Area Guardian seperti Kyouhukou dan Neuronist Painkill memperkuat zona masing-masing."
+        },
+        {
+          "name": "Mengapa Nazarick Penting bagi Setiap Arc",
+          "description": "Ruang Takhta adalah tempat Ainz mengumpulkan para guardian, memberikan misi, memantau ancaman, dan mengumumkan kebijakan. Nazarick berfungsi sebagai rumah, pusat pemerintahan, sistem penjara, laboratorium, dan simbol kekuatan yang luar biasa. Sebagian besar titik balik seri ini dimulai dengan keputusan yang dibuat di dalam Nazarick, bahkan ketika aksi terjadi jauh di luar."
+        }
+      ],
+      "growthMilestones": [
+        "Dibangun oleh Guild yang terdiri dari 41 Pemain",
+        "10+ Lantai Pertahanan Berlapis",
+        "Selamat dari Serangan 1.500 Orang",
+        "Ibu Kota Kerajaan Sorcerer"
+      ]
+    },
+    "overlordStoryArcs": {
+      "title": "Arc Cerita Anime Overlord berdasarkan Musim dan Light Novel",
+      "intro": "Peta ini menghubungkan setiap arc utama Anime Overlord dengan musim anime, rentang episode, dan volume light novel sumbernya, sehingga memudahkan untuk menemukan arc mana pun dan memahami posisinya dalam lini masa lengkap.",
+      "priorities": [
+        {
+          "name": "Arc The Undead King / Dark Warrior",
+          "priority": "Musim 1 Ep 1–9",
+          "description": "Ainz terbangun di Dunia Baru, menetapkan identitas Momon, dan mulai menguji aturan realitas baru tersebut. Sumber: Volume 1–2."
+        },
+        {
+          "name": "Arc The Bloody Valkyrie",
+          "priority": "Musim 1 Ep 10–13",
+          "description": "Ainz menghadapi Shalltear yang dicuci otak dalam duel tunggal, membuktikan bahwa Nazarick dapat bertahan dari krisis dari dalam. Sumber: Volume 3."
+        },
+        {
+          "name": "Arc Lizard Man Heroes / Men in the Kingdom",
+          "priority": "Musim 2 Ep 1–13",
+          "description": "Suku-suku lizardman bersatu melawan Cocytus sementara Sebas, Climb, dan Brain menghadapi korupsi kriminal dan ketegangan politik di Re-Estize. Sumber: Volume 4–6."
+        },
+        {
+          "name": "Arc Invaders of the Large Tomb",
+          "priority": "Musim 3 Ep 6–8",
+          "description": "Tim Worker menyerbu Nazarick dan menemukan alasan mengapa makam tersebut dianggap sebagai jebakan maut — celah antara Nazarick dan bahkan petarung manusia elit sekalipun sangatlah mutlak. Sumber: Volume 7."
+        },
+        {
+          "name": "Arc The Magic Caster of Destruction",
+          "priority": "Musim 3 Ep 9–13",
+          "description": "Ainz melakukan intervensi dalam perang tahunan di Katze Plains dengan kekuatan yang luar biasa, menetapkan skala mengerikan dari Sorcerer Kingdom. Sumber: Volume 9."
+        },
+        {
+          "name": "Arc The Paladin of the Holy Kingdom",
+          "priority": "Film The Sacred Kingdom",
+          "description": "Kampanye Jaldabaoth memaksa Holy Kingdom untuk mencari Ainz, mengubah upaya penyelamatan menjadi titik balik politik dan militer yang besar. Sumber: Volume 12–13."
+        },
+        {
+          "name": "Arc The Witch of the Falling Kingdom",
+          "priority": "Musim 4 Ep 8–13",
+          "description": "Konflik dengan Re-Estize mencapai perang penuh, menunjukkan konsekuensi paling destruktif dari menentang Sorcerer Kingdom. Sumber: Volume 14."
+        },
+        {
+          "name": "Arc The Half Elf God-kin",
+          "priority": "Belum Diadaptasi",
+          "description": "Cerita bergerak menuju Elf Country dan Slane Theocracy, melampaui materi yang saat ini telah dianimasikan. Sumber: Volume 15–16."
+        }
+      ]
+    },
+    "overlordTimeline": {
+      "title": "Lini Masa Anime Overlord dalam Urutan Kronologis",
+      "intro": "Overlord adalah sebuah waralaba di mana urutan rilis, urutan menonton, dan kronologi cerita bisa terasa berbeda. Lini masa ini menunjukkan urutan peristiwa besar yang jelas dan memperjelas di mana tepatnya film The Sacred Kingdom berada relatif terhadap Season 4.",
+      "groups": [
+        {
+          "name": "Titik Awal — Season 1 / Volume 1",
+          "achievements": [
+            {
+              "title": "YGGDRASIL Berakhir dan Nazarick Tiba",
+              "description": "Satoru Suzuki tetap masuk (logged in) pada saat-saat terakhir YGGDRASIL, tetapi alih-alih keluar (logging out), ia mendapati dirinya berada di Dunia Baru di dalam Nazarick sebagai Ainz Ooal Gown."
+            },
+            {
+              "title": "Ainz Membangun Pijakan Pertamanya",
+              "description": "Ainz memastikan bahwa Nazarick itu nyata, mempelajari aturan lokal, menetapkan identitas Momon, and menstabilkan makam dari dalam. Mencakup Season 1 / Volume 1–3."
+            }
+          ]
+        },
+        {
+          "name": "Konsolidasi Regional — Season 2 & 3",
+          "achievements": [
+            {
+              "title": "Operasi Lizardmen, Sebas, dan Jaldabaoth",
+              "description": "Kampanye lizardman, alur cerita Kerajaan Sebas, dan kekacauan Jaldabaoth memperluas skala dari eksperimen lokal menjadi proyeksi kekuatan yang disengaja. Season 2 / Volume 4–6."
+            },
+            {
+              "title": "Dataran Katze dan Invasi Worker",
+              "description": "Pembantaian Dataran Katze mengubah Ainz menjadi kekuatan geopolitik yang tak terbantahkan, sementara invasi Worker mengungkap kengerian penuh Nazarick. Season 3 / Volume 7–9."
+            }
+          ]
+        },
+        {
+          "name": "Era Sorcerer Kingdom — Season 4 Episode 1–7",
+          "achievements": [
+            {
+              "title": "Pemerintahan dan Ekspansi — Sebelum Film",
+              "description": "Ainz fokus pada memerintah Sorcerer Kingdom, menangani penguasa asing, dan memperluas pengaruh melalui arc Dwarf Kingdom. Season 4 Ep 1–7 / Volume 10–11."
+            },
+            {
+              "title": "The Sacred Kingdom Berada di Sini",
+              "description": "Kampanye Holy Kingdom terjadi setelah Season 4 Episode 7 dan sebelum Episode 8. Tonton Overlord: The Sacred Kingdom pada titik ini untuk urutan kronologis yang benar. Volume 12–13."
+            }
+          ]
+        },
+        {
+          "name": "Bab Terakhir — Season 4 Episode 8–13 dan Seterusnya",
+          "achievements": [
+            {
+              "title": "Perang Re-Estize dan Akhir Season 4",
+              "description": "Arc Witch of the Falling Kingdom menyelesaikan konflik Re-Estize dengan finalitas yang menghancurkan. Season 4 Ep 8–13 / Volume 14."
+            },
+            {
+              "title": "Cerita Berlanjut Melampaui Anime",
+              "description": "Arc Half Elf God-kin berlanjut ke Negara Elf dan perkembangan Slane Theocracy yang lebih dalam, melampaui materi yang diadaptasi saat ini. Volume 15–16."
+            }
+          ]
+        }
+      ]
+    },
+    "overlordLightNovel": {
+      "title": "Panduan Urutan Membaca Light Novel Anime Overlord",
+      "intro": "Light novel Overlord saat ini memiliki 16 volume yang telah dirilis. Jalur membaca terbaik bergantung pada apakah Anda menginginkan pengalaman lengkap, kelanjutan tercepat setelah anime, atau jembatan anime-ke-novel yang bersih yang mencakup materi film.",
+      "faqs": [
+        {
+          "question": "Apa titik awal terbaik untuk light novel Anime Overlord?",
+          "answer": "Titik masuk terkuat adalah Volume 1. Ini memberi Anda monolog internal yang lengkap, pembangunan dunia (world-building), detail yang dilewati, dan gambaran yang jauh lebih jelas tentang bagaimana Ainz dan Nazarick sebenarnya berpikir. Ini adalah jalur yang paling direkomendasikan untuk penonton yang hanya menonton anime."
+        },
+        {
+          "question": "Apa urutan membaca utama untuk novel Overlord?",
+          "answer": "Baca cerita utama sesuai urutan volume: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16. Volume 8 juga dapat dibaca kapan saja setelah Volume 4 dan sebelum Volume 9, tetapi urutan numerik sederhana adalah jalur termudah bagi sebagian besar pembaca."
+        },
+        {
+          "question": "Bagaimana pemetaan musim Anime Overlord ke volume light novel?",
+          "answer": "Season 1 = Volume 1–3. Season 2 = Volume 4–6. Season 3 = Volume 7–9 (materi Volume 8 ditayangkan sebelum konten Volume 7). Season 4 TV = Volume 10, 11, dan 14. Film The Sacred Kingdom = Volume 12–13."
+        },
+        {
+          "question": "Apa cara tercepat untuk melanjutkan setelah menyelesaikan anime Anime Overlord?",
+          "answer": "Jika Anda telah menyelesaikan keempat season TV dan ingin materi cerita yang belum pernah dilihat sebelumnya, tonton filmnya atau baca Volume 12–13 (The Sacred Kingdom), lalu lanjutkan dengan Volume 15–16 untuk materi yang benar-benar baru di luar anime saat ini."
+        },
+        {
+          "question": "Rute membaca apa saja yang tersedia untuk novel Anime Overlord?",
+          "answer": "Rute lengkap: mulai dari Volume 1 dan baca terus hingga selesai. Rute jembatan: gunakan peta anime-ke-volume, lalu baca Volume 12–16. Rute konten baru tercepat: The Sacred Kingdom terlebih dahulu (Vol 12–13), lalu Volume 15–16."
+        }
+      ]
+    },
+    "overlordAnimeVsNovel": {
+      "title": "Anime Overlord: Apa yang Berubah dari Anime ke Light Novel",
+      "intro": "Anime Overlord adalah versi alur cerita yang setia dari novelnya, namun juga merupakan versi yang dipadatkan. Novelnya memuat jauh lebih banyak monolog internal, lore, dan konteks tingkat faksi. Panduan ini membantu penonton melihat apa yang diadaptasi, apa yang dipadatkan, dan di mana membaca memberikan nilai tambah yang paling besar.",
+      "faqs": [
+        {
+          "question": "Apa saja yang sudah dicakup oleh adaptasi Anime Overlord?",
+          "answer": "Sebagian besar alur cerita utama hingga Volume 14 telah dianimasikan. Season 1 = Vol 1–3. Season 2 = Vol 4–6. Season 3 = Vol 7–9. Season 4 = Vol 10, 11, 14. Film Sacred Kingdom = Vol 12–13. Arc Holy Kingdom ditangani sebagai film alih-alih musim TV."
+        },
+        {
+          "question": "Apa yang dijelaskan lebih mendalam oleh novel Anime Overlord?",
+          "answer": "Novelnya menghabiskan lebih banyak waktu pada mekanik Yggdrasil, logika item, kemampuan rasial, dan kerangka sistem sihir. Mereka menambahkan lebih banyak sejarah New World, tata negara, dan perspektif antar-faksi. Banyak karakter sampingan menerima monolog internal, motivasi, dan transisi adegan yang lebih panjang. Bagian strategi yang padat dialog umumnya lebih kaya di dalam buku."
+        },
+        {
+          "question": "Di mana penonton Anime Overlord biasanya paling merasakan pemadatan adaptasi?",
+          "answer": "Manuver politik dan pertaruhan diplomatik lebih luas di dalam novel. Beberapa arc kehilangan adegan perspektif kecil yang membuat kerajaan, petualang, dan faksi sampingan terasa lebih hidup. Pemikiran karakter adalah salah satu kehilangan terbesar — terutama saat Overlord berpindah antara aksi publik dan niat pribadi."
+        },
+        {
+          "question": "Apa jalur membaca terbaik setelah menyelesaikan anime Anime Overlord?",
+          "answer": "Untuk pengalaman yang paling lengkap, mulailah dari Volume 1 dan baca secara berurutan. Untuk kelanjutan langsung setelah materi yang dianimasikan saat ini, lanjutkan dengan Volume 15–16. Jika tujuan Anda adalah untuk memulihkan detail yang terlewat daripada melanjutkan ke depan, membaca versi novel dari arc yang baru saja Anda tonton adalah pilihan jalan tengah terbaik."
+        }
+      ]
+    },
+    "overlordVoiceCast": {
+      "title": "Pemeran Suara Utama Jepang dan Inggris Anime Overlord",
+      "intro": "Overlord telah mempertahankan jajaran pengisi suara inti yang konsisten sepanjang penayangan anime utamanya, sementara The Sacred Kingdom menambahkan beberapa peran penting dari Holy Kingdom. Panduan pemeran ini menggabungkan jajaran anime TV dengan tambahan kunci dari Sacred Kingdom, yang disusun untuk pencarian cepat karakter ke aktor.",
+      "settings": [
+        {
+          "name": "Ainz Ooal Gown / Momon",
+          "type": "JP: Satoshi Hino | EN: Chris Guerrero",
+          "description": "Seri utama dan The Sacred Kingdom. Hino memerankan kehadiran publik Ainz yang berwibawa dan monolog internal yang tenang dari mantan Momonga di keempat musim dan film tersebut."
+        },
+        {
+          "name": "Albedo",
+          "type": "JP: Yumi Hara | EN: Elizabeth Maxwell",
+          "description": "Seri utama dan The Sacred Kingdom. Penampilan Hara menyeimbangkan kesetiaan Albedo yang sengit sebagai Overseer Guardian, ketepatan administratif, dan momen intensitas komedi."
+        },
+        {
+          "name": "Demiurge",
+          "type": "JP: Masayuki Kato | EN: Jeff Johnson",
+          "description": "Seri utama dan The Sacred Kingdom. Suara Katou memberikan kualitas teatrikal yang halus pada Demiurge yang sesuai dengan perannya sebagai otak strategi utama Nazarick."
+        },
+        {
+          "name": "Shalltear Bloodfallen",
+          "type": "JP: Sumire Uesaka | EN: Felecia Angelle",
+          "description": "Seri utama. Uesaka menangkap keanggunan vampir Shalltear yang meresahkan dan reaksinya yang terkadang kekanak-kanakan, membuat busur duel Musim 1 sangat berkesan."
+        },
+        {
+          "name": "Aura Bella Fiora & Mare Bello Fiore",
+          "type": "JP: Emiri Kato & Yumi Uchiyama | EN: Jill Harris & Megan Shipman",
+          "description": "Seri utama. Penjaga Lantai (Floor Guardians) dark elf kembar dari Lantai ke-6. Kato dan Uchiyama memberikan penampilan yang kontras antara energik dan tenang untuk kakak beradik tersebut."
+        },
+        {
+          "name": "Cocytus & Sebas Tian",
+          "type": "JP: Kenta Miyake & Shigeru Chiba",
+          "description": "Seri utama. Suara Miyake yang berat dan berwibawa menopang prajurit es Cocytus, sementara penyampaian Chiba yang terukur memberikan ketenangan pelayan pada Sebas yang menjadi pusat dari busur Kingdom."
+        },
+        {
+          "name": "Neia Baraja",
+          "type": "JP: Yoshino Aoyama | EN: Sarah Wiedenheft",
+          "description": "Film The Sacred Kingdom. Tambahan baru yang menopang perspektif Holy Kingdom sebagai karakter sudut pandang utama, mengikuti intervensi Ainz melalui mata seorang paladin manusia."
+        },
+        {
+          "name": "Remedios Custodio & Calca Bessarez",
+          "type": "JP: Hitomi Nabatame & Saori Hayami",
+          "description": "Film The Sacred Kingdom. Nabatame menyuarakan paladin utama Holy Kingdom, sementara Hayami memerankan Ratu Suci yang nasibnya mendorong konflik sentral film tersebut."
+        }
+      ]
+    },
+    "overlordSoundtracks": {
+      "title": "Lagu Pembuka, Penutup, Lagu Sisipan, dan Tema Film Anime Overlord",
+      "intro": "Dari OxT dan MYTH & ROID hingga Mayu Maeshima dan materi lagu sisipan spesial dalam cerita, Anime Overlord telah membangun identitas musik yang kuat di seluruh musim TV, film rekap, dan film Holy Kingdom. Panduan ini disusun berdasarkan kemunculan setiap lagu dalam lini masa anime.",
+      "entries": [
+        {
+          "type": "OP Musim 1",
+          "title": "Clattanoia — OxT",
+          "description": "Lagu pembuka anime TV untuk Musim 1. Hard rock berenergi tinggi yang menetapkan nada aksi gelap seri ini dan memperkenalkan kebangkitan kekuasaan Ainz Ooal Gown."
+        },
+        {
+          "type": "ED Musim 1",
+          "title": "L.L.L. — MYTH & ROID",
+          "description": "Lagu penutup anime TV untuk Musim 1. Tema yang lebih lambat dan menghantui yang menjadi salah satu karya paling dikenal di seluruh waralaba Overlord."
+        },
+        {
+          "type": "Tema Film Rekap",
+          "title": "Crazy Scary Holy Fantasy — MYTH & ROID",
+          "description": "Lagu tema untuk film rekap The Undead King (Bagian 1 dari kompilasi teatrikal 2017)."
+        },
+        {
+          "type": "Tema Film Rekap",
+          "title": "Laughter Slaughter — OxT",
+          "description": "Lagu tema untuk film rekap The Dark Hero (Bagian 2 dari kompilasi teatrikal 2017)."
+        },
+        {
+          "type": "OP Musim 2",
+          "title": "GO CRY GO — OxT",
+          "description": "Lagu pembuka anime TV untuk Musim 2. Energi agresif yang sesuai dengan kampanye Lizardmen, operasi Sebas, dan kekacauan Jaldabaoth di Musim 2."
+        },
+        {
+          "type": "ED Musim 2",
+          "title": "HYDRA — MYTH & ROID",
+          "description": "Lagu penutup anime TV untuk Musim 2. Trek atmosferik yang tegang yang melengkapi ketegangan politik dan kompleksitas moral dari alur cerita Musim 2."
+        },
+        {
+          "type": "OP Musim 3",
+          "title": "VORACITY — MYTH & ROID",
+          "description": "Lagu pembuka anime TV untuk Musim 3. Menekankan kekuatan Nazarick yang terus tumbuh dan skala kampanye geopolitik Ainz Ooal Gown yang meningkat."
+        },
+        {
+          "type": "ED Musim 3",
+          "title": "Silent Solitude — OxT",
+          "description": "Lagu penutup anime TV untuk Musim 3. Kontrapoin yang lebih tenang dan melankolis terhadap pertempuran skala besar dan eskalasi politik musim ini."
+        },
+        {
+          "type": "OP Musim 4",
+          "title": "HOLLOW HUNGER — OxT",
+          "description": "Lagu pembuka anime TV untuk Musim 4. Mencerminkan nada yang lebih gelap dan kompleks secara politik dari era Sorcerer Kingdom dan akhir permainan Re-Estize."
+        },
+        {
+          "type": "ED Musim 4",
+          "title": "No Man's Dawn — Mayu Maeshima",
+          "description": "Lagu penutup anime TV untuk Musim 4. Gaya vokal khas Maeshima menambahkan penyelesaian atmosferik pada musim yang paling berdampak dalam penayangan TV."
+        },
+        {
+          "type": "Lagu Sisipan Musim 4",
+          "title": "fallen — Musim 4 Episode 13",
+          "description": "Lagu sisipan dalam cerita yang ditampilkan di final Musim 4, menambahkan dimensi musikal yang tidak biasa pada salah satu momen penutup seri yang paling berdampak."
+        },
+        {
+          "type": "Tema Sacred Kingdom",
+          "title": "WHEELER-DEALER — OxT",
+          "description": "Lagu tema resmi untuk film teatrikal Overlord: The Sacred Kingdom (2024). Kembalinya OxT untuk film Holy Kingdom sesuai dengan skala besar adaptasi layar lebar."
+        },
+        {
+          "type": "Ulang Tahun ke-10",
+          "title": "GREATEST GLORIA — OxT & MYTH & ROID",
+          "description": "Lagu kolaborasi baru dari album ulang tahun digital 2025, menandai sepuluh tahun anime Overlord dengan penampilan gabungan dari kedua artis tema utama."
+        }
+      ]
+    },
+    "overlordSeason5News": {
+      "title": "Pelacak Berita Kelanjutan dan Anime Overlord Season 5",
+      "intro": "Overlord tetap aktif sebagai waralaba anime. Cara termudah untuk melacak kelanjutan di masa mendatang adalah dengan memisahkan aktivitas resmi yang telah dikonfirmasi dari spekulasi penggemar. Pelacak ini berfokus pada apa yang sebenarnya telah diterbitkan oleh situs resmi dan gerai berlisensi.",
+      "steps": [
+        {
+          "title": "Status Saat Ini: Sekuel TV Terdaftar tetapi Belum Ada Tanggal Season 5 yang Diposting",
+          "description": "Situs resmi anime Overlord saat ini memuat kerangka konfirmasi sekuel untuk anime TV, tetapi umpan berita resmi tidak mencantumkan judul Season 5 yang terpisah, jendela siaran, atau tanggal penayangan perdana hingga awal 2026."
+        },
+        {
+          "title": "The Sacred Kingdom Adalah Rilisan Animasi Utama Terbaru",
+          "description": "Arc Holy Kingdom diadaptasi sebagai Overlord: The Sacred Kingdom, dirilis pada 20 September 2024, memberikan kelanjutan animasi pasca-Season 4 bagi waralaba ini. Film ini tersedia untuk streaming di Crunchyroll pada April 2025."
+        },
+        {
+          "title": "Blu-ray dan DVD The Sacred Kingdom Diluncurkan di Jepang",
+          "description": "Halaman berita resmi mengumumkan edisi Blu-ray dan DVD film tersebut untuk tanggal 26 Maret 2025, dengan materi bonus termasuk buklet konten World Guide dan CD soundtrack lengkap."
+        },
+        {
+          "title": "Album Digital Peringatan 10 Tahun Menunjukkan Dukungan Resmi yang Berkelanjutan",
+          "description": "OVERLORD 10th Anniversary ULTIMATE SOUND ALBUM diluncurkan antara 26 Maret dan 28 April 2025, termasuk lagu kolaborasi baru GREATEST GLORIA dan komentar kreator, yang menunjukkan dukungan merek yang aktif setelah film tersebut."
+        },
+        {
+          "title": "Saluran Resmi yang Harus Diikuti untuk Berita Anime Overlord Season 5",
+          "description": "Ketika judul musim mendatang, visual teaser, jendela rilis, atau pengumuman staf dipublikasikan, periksa halaman berita resmi anime Overlord (overlord-anime.com/news.html) dan akun X resmi @over_lord_anime terlebih dahulu."
+        }
+      ]
+    }
   }
 }

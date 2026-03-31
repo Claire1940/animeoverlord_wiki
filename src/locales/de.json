@@ -1,18 +1,18 @@
 {
   "seo": {
     "home": {
-      "title": "Lucid Blocks Wiki - Demo-Download, Koop-Leitfaden, Crafting & Mods",
-      "description": "Vollständige Lucid Blocks Ressourcenzentrale! Hol dir Infos zum Demo-Download, Anfängerleitfäden, Koop-Strategien, Crafting-Tipps, Steuerung, Mods und Community-Links für das Steam-Stealth-Heist-Spiel.",
-      "keywords": "Lucid Blocks Wiki, Lucid Blocks, Demo-Download, Anfängerleitfaden, Koop-Leitfaden, Crafting, Ausrüstung, Mods, BepInEx, Steam-Spiel, Stealth-Spiel",
-      "ogTitle": "Lucid Blocks Wiki - Demo-Download, Koop-Leitfaden, Crafting & Mods",
-      "ogDescription": "Vollständige Lucid Blocks Ressourcenzentrale! Hol dir Infos zum Demo-Download, Anfängerleitfäden, Koop-Strategien, Crafting-Tipps und Mods für das Steam-Stealth-Heist-Spiel.",
-      "twitterTitle": "Lucid Blocks Wiki - Demo-Download, Koop-Leitfaden, Crafting & Mods",
-      "twitterDescription": "Vollständige Lucid Blocks Ressourcenzentrale! Hol dir Infos zum Demo-Download, Anfängerleitfäden, Koop-Strategien und Crafting-Tipps."
+      "title": "Overlord Anime Wiki - Reihenfolge, Charaktere & Staffeln",
+      "description": "Das Overlord Anime Wiki umfasst Charaktere, Reihenfolge, Staffeln, Episoden, Filme und die zentrale Lore, damit neue Zuschauer und Fans schnell auf den neuesten Stand kommen.",
+      "keywords": "Overlord anime, dark fantasy isekai, Ainz, Albedo, Reihenfolge, Staffeln, Episoden, Sacred Kingdom",
+      "ogTitle": "Overlord Anime Wiki - Reihenfolge, Charaktere & Staffeln",
+      "ogDescription": "Das Overlord Anime Wiki umfasst Charaktere, Reihenfolge, Staffeln, Episoden, Filme und die zentrale Lore, damit neue Zuschauer und Fans schnell auf den neuesten Stand kommen.",
+      "twitterTitle": "Overlord Anime Wiki - Reihenfolge, Charaktere & Staffeln",
+      "twitterDescription": "Das Overlord Anime Wiki bietet Informationen zur Reihenfolge, Charakteren, Staffeln, Episoden, Filmen und Lore des Dark Fantasy Isekai Anime."
     }
   },
   "nav": {
     "guide": "Guides",
-    "watch": "Schaureihenfolge",
+    "watch": "Reihenfolge",
     "season": "Staffeln",
     "movie": "Filme",
     "characters": "Charaktere",
@@ -23,767 +23,776 @@
   "common": {
     "home": "Startseite",
     "more": "Mehr",
-    "playNow": "Demo herunterladen",
+    "playNow": "Auf Steam spielen",
     "switchLanguage": "Sprache wechseln",
     "switchTheme": "Design wechseln",
     "lightMode": "Heller Modus",
     "darkMode": "Dunkler Modus",
     "notFound": "Seite nicht gefunden",
-    "notFoundDescription": "Die Seite, die du suchst, existiert nicht.",
+    "notFoundDescription": "Die von Ihnen gesuchte Seite existiert nicht.",
     "backToHome": "Zurück zur Startseite",
     "relatedArticles": "Ähnliche Artikel",
     "readMore": "Mehr lesen"
   },
   "hero": {
-    "badge": "Winzige Gnome. Große Häuser. Stealth-Raubzüge mit Freunden.",
-    "title": "Lucid Blocks Wiki",
-    "description": "Deine zentrale Anlaufstelle für Lucid Blocks: wie die Raubzüge funktionieren, High-Gnome-Aufträge, Crafting & Upgrades, Gegner, Steuerung und die schnellsten Wege, um jeden Durchgang zu überleben.",
-    "getFreeCodesCTA": "Demo herunterladen",
-    "playOnSteamCTA": "Auf die Wunschliste bei Steam",
+    "badge": "Dark Fantasy Isekai Anime",
+    "title": "Overlord Anime Wiki",
+    "description": "Ein Dark Fantasy Isekai über Momonga, der nach dem Ende von YGGDRASIL zu Ainz Ooal Gown wird und Nazarick durch Eroberung, Politik und den Sacred Kingdom Arc führt.",
+    "getFreeCodesCTA": "Reihenfolge ansehen",
+    "playOnSteamCTA": "Watch on Crunchyroll",
     "stats": {
       "stat1": {
-        "value": "15.000",
-        "label": "Gleichzeitige Spieler (Demo)"
+        "value": "2015",
+        "label": "Erstausstrahlung"
       },
       "stat2": {
-        "value": "6",
-        "label": "Koop-Spieler"
+        "value": "4",
+        "label": "TV-Staffeln"
       },
       "stat3": {
-        "value": "31.01.2026",
-        "label": "Demo-Veröffentlichung"
+        "value": "52",
+        "label": "Episoden"
       },
       "stat4": {
-        "value": "PC (Steam)",
-        "label": "Plattform"
+        "value": "3",
+        "label": "Anime-Filme"
       }
     }
   },
   "gameFeature": {
-    "title": "Lucid Blocks Gameplay",
-    "description": "Sieh dir an, wie winzige Gnome in chaotischen 6-Spieler-Koop-Stealth-Missionen große Raubzüge durchführen!"
+    "title": "Overlord Anime Übersicht",
+    "description": "Dark Fantasy Isekai, das Momonga folgt, während er zu Ainz Ooal Gown wird und Nazarick durch Eroberung, politische Intrigen und den Holy Kingdom Feldzug führt."
   },
   "tools": {
-    "title": "Lucid Blocks",
-    "titleHighlight": "Ressourcen",
-    "subtitle": "Alles, was du brauchst, um Raubzüge und Koop-Stealth zu meistern",
+    "title": "Anime Overlord",
+    "titleHighlight": "Wiki",
+    "subtitle": "Vollständiger Guide zur Overlord Anime-Serie — Reihenfolge, Charaktere, Lore und alles dazwischen",
     "cards": [
       {
-        "icon": "Herunterladen",
-        "title": "Demo-Download",
-        "description": "Hol dir die kostenlose Steam-Demo"
+        "icon": "ListOrdered",
+        "title": "Anime Overlord Reihenfolge",
+        "description": "Vollständige Reihenfolge für alle Staffeln und Filme"
       },
       {
-        "icon": "Buch offen",
-        "title": "Anfängerleitfaden",
-        "description": "Kernschleife und häufige Fallstricke"
+        "icon": "Users",
+        "title": "Anime Overlord Charaktere",
+        "description": "Nazarick Wächter, Figuren der Königreiche und Filmbesetzung"
       },
       {
-        "icon": "Benutzer",
-        "title": "Koop-Leitfaden",
-        "description": "6-Spieler-Rollen und Rettungstaktiken"
+        "icon": "List",
+        "title": "Anime Overlord Episodenguide",
+        "description": "Alle 52 Episoden nach Staffeln geordnet mit Zusammenfassungen"
       },
       {
-        "icon": "Klemmbrett-Check",
-        "title": "Aufgaben & Ziele",
-        "description": "Was High-Gnome von dir will"
+        "icon": "Film",
+        "title": "Overlord: The Sacred Kingdom",
+        "description": "Wo der Kanon-Film von 2024 in die Geschichte passt"
       },
       {
-        "icon": "Tastatur",
-        "title": "Steuerung & Tastenbelegung",
-        "description": "Standardtasten und wie man sie ändert"
+        "icon": "Crown",
+        "title": "Anime Overlord: Ainz Ooal Gown",
+        "description": "Der Sorcerer King und ehemalige YGGDRASIL-Spieler Momonga"
       },
       {
-        "icon": "Schild",
-        "title": "Inhaltseinstellungen",
-        "description": "Inhalte für Erwachsene und Umschaltoptionen"
+        "icon": "Shield",
+        "title": "Anime Overlord: Albedo Guide",
+        "description": "Rolle, Kräfte und Bedeutung der Aufseherin der Wächter für die Geschichte"
       },
       {
-        "icon": "Hammer",
-        "title": "Crafting & Ausrüstung",
-        "description": "Rüste dich mit gestohlenen Materialien aus"
+        "icon": "Swords",
+        "title": "Anime Overlord: Shalltear Guide",
+        "description": "Vampir-Stockwerkswächterin und der Konflikt-Arc aus Staffel 1"
       },
       {
-        "icon": "Paket",
-        "title": "Beute & Gegenstände",
-        "description": "Was man stehlen sollte und Trage-Tipps"
+        "icon": "Trophy",
+        "title": "Anime Overlord Stockwerkswächter Ranking",
+        "description": "Alle Stockwerkswächter nach Rolle und Kampf-Spezialisierung"
       },
       {
-        "icon": "Warndreieck",
-        "title": "Gegner & Gefahren",
-        "description": "Bedrohungen und wie man mit ihnen umgeht"
+        "icon": "Landmark",
+        "title": "Anime Overlord: Nazarick Guide",
+        "description": "Struktur der Stockwerke, Fraktionen und Layout des Großen Grabmals"
       },
       {
-        "icon": "Auge",
-        "title": "Stealth & Flucht",
-        "description": "Bleib versteckt und extrahiere sicher"
+        "icon": "BookOpen",
+        "title": "Anime Overlord Story Arcs",
+        "description": "Alle wichtigen Arcs zugeordnet zu Staffeln und Episodenbereichen"
       },
       {
-        "icon": "Startseite",
-        "title": "Haus-Upgrades",
-        "description": "Verbessere deine schwebende Inselbasis"
+        "icon": "Clock",
+        "title": "Anime Overlord Zeitstrahl",
+        "description": "Chronologische Reihenfolge aller wichtigen Ereignisse und Arcs"
       },
       {
-        "icon": "Sprechblase",
-        "title": "Community & Discord",
-        "description": "Offizielle Links und Gruppensuche"
+        "icon": "BookMarked",
+        "title": "Anime Overlord Light Novel Guide",
+        "description": "Reihenfolge der Bücher und wo man nach dem Anime anfangen sollte"
       },
       {
-        "icon": "Einstellungen",
-        "title": "Mods & BepInEx",
-        "description": "Installiere Framework und Mod-Setup"
+        "icon": "Scale",
+        "title": "Anime Overlord: Anime vs Novel",
+        "description": "Wichtige Unterschiede und was die Anime-Adaption auslässt"
       },
       {
-        "icon": "Stern",
-        "title": "Beliebte Mods",
-        "description": "Top-Community-Auswahlen und -Funktionen"
+        "icon": "Mic2",
+        "title": "Anime Overlord Synchronsprecher",
+        "description": "Japanische und englische Besetzung für alle Staffeln und Filme"
       },
       {
-        "icon": "Gamepad2",
-        "title": "Controller-Unterstützung",
-        "description": "Volle Gamepad-Steuerung mit UI-Cursor"
+        "icon": "Music",
+        "title": "Anime Overlord Soundtracks",
+        "description": "Alle Openings, Endings, Insert-Songs und Film-Themes"
       },
       {
-        "icon": "TrendingUp",
-        "title": "Spielerzahl & Trend",
-        "description": "Live-Statistiken und Peak-Tracking"
+        "icon": "Radio",
+        "title": "Anime Overlord Staffel 5 News",
+        "description": "Offizielle Ankündigungen und Status des Quellmaterials"
       }
     ]
   },
   "modules": {
-    "demoDownload": {
-      "title": "Lucid Blocks Demo-Download",
-      "subtitle": "Hol dir die kostenlose Demo auf Steam",
-      "downloadSize": "2,62 GiB",
-      "diskSize": "4,88 GiB",
-      "releaseDate": "30. Januar 2026",
-      "price": "Kostenlos",
-      "platform": "PC (Steam) / Windows",
-      "engine": "Unity",
-      "primaryCTA": "Demo herunterladen",
-      "secondaryCTA": "Technische Infos ansehen",
-      "installPath": "Steam\\steamapps\\common\\Lucid Blocks Demo",
-      "sections": [
-        {
-          "heading": "Wo man es herunterladen kann",
-          "items": [
-            "Öffne die offizielle Steam-Store-Seite und nutze den Abschnitt \"Demo herunterladen\".",
-            "Wenn Steam dich auffordert, dich anzumelden, melde dich zuerst an und versuche es erneut."
-          ]
-        },
-        {
-          "heading": "Schnelle Überprüfung von Installation und Start",
-          "items": [
-            "Standardinstallationsort: Steam-Bibliotheksordner → steamapps → common → (Spielordner).",
-            "Wenn es nicht startet: Überprüfe die Spieldateien in Steam und starte Steam neu."
-          ]
-        }
-      ]
-    },
-    "beginnerGuide": {
-      "title": "Lucid Blocks Anfängerleitfaden",
-      "subtitle": "Meistere die Kernschleife und vermeide häufige Fehler",
+    "overlordWatchOrder": {
+      "title": "Anime Overlord Reihenfolge",
+      "intro": "Beginne mit allen vier TV-Staffeln und platziere dann The Sacred Kingdom zwischen Episode 7 und 8 von Staffel 4. Die beiden Zusammenfassungsfilme von 2017 sind optional und können übersprungen werden, ohne neue Story-Inhalte zu verpassen.",
       "steps": [
         {
-          "number": 1,
-          "title": "Betritt das Haus",
-          "description": "Lass dich von deiner schwebenden Inselbasis in ein menschliches Haus fallen. Spawne draußen und schleiche dich durch unverschlossene Türen oder Fenster hinein."
+          "title": "Overlord Staffel 1 — Hier beginnen",
+          "description": "Führt Momonga, Nazarick, das Dorf Carne, die Identität von Momon und den Konflikt mit Shalltear ein. 13 Episoden, ausgestrahlt von Juli bis September 2015."
         },
         {
-          "number": 2,
-          "title": "Schließe Aufgaben ab",
-          "description": "Erledige High-Gnome-Aufgaben, bevor die Zeit abläuft. Überprüfe die Ziele über die Tab-Taste und priorisiere zuerst riskante Aufgaben."
+          "title": "Overlord: The Undead King (Optionale Zusammenfassung)",
+          "description": "Eine filmische Zusammenfassung des ersten Teils von Staffel 1. Nur ansehen, wenn man das Filmformat bevorzugt. Kein Ersatz für die komplette Serie."
         },
         {
-          "number": 3,
-          "title": "Stehle Gegenstände",
-          "description": "Sammle Wertgegenstände und Materialien zum Craften. Vermeide es, Lärm zu machen oder vom Hausbesitzer entdeckt zu werden."
+          "title": "Overlord: The Dark Warrior (Optionale Zusammenfassung)",
+          "description": "Zweiter Zusammenfassungsfilm, der Material aus Staffel 1 abdeckt. Am besten als Bonusmaterial ansehen, wenn man die Hauptgeschichte bereits kennt."
         },
         {
-          "number": 4,
-          "title": "Flucht via Tornado",
-          "description": "Wenn der Timer endet, spawnt ein Tornado im Garten – erreiche ihn, um sicher zu extrahieren. Fang früh an, dich zu bewegen!"
+          "title": "Overlord II — Die Geschichte geht weiter",
+          "description": "Die Echsenmenschen-Kampagne, Sebas in der Hauptstadt und der wachsende Konflikt zwischen Nazarick und der Menschenwelt. Episoden 14–26."
         },
         {
-          "number": 5,
-          "title": "Upgrade & Wiederholung",
-          "description": "Verwende Belohnungen und Materialien, um Ausrüstung zu Hause herzustellen, und starte dann deinen nächsten Raubzug mit besserer Ausrüstung."
+          "title": "Overlord III — Imperium und Krieg",
+          "description": "Behandelt die Allianz mit dem Imperium, die Invasion der Worker und die entscheidende Schlacht auf den Katze-Ebenen. Episoden 27–39, ausgestrahlt von Juli bis Oktober 2018."
+        },
+        {
+          "title": "Overlord IV Episoden 1–7 — Vor dem Film",
+          "description": "Sieh dir zuerst den Eröffnungs-Arc der Sorcerous Nation und das Material zum Zwergenkönigreich an. Halte nach Episode 7 (insgesamt Episode 46) inne, um den Film an der richtigen Stelle einzufügen."
+        },
+        {
+          "title": "Overlord: The Sacred Kingdom — Kanon-Film",
+          "description": "Dies ist ein Kanon-Film, keine Zusammenfassung. Er adaptiert den Holy Kingdom Arc und passt chronologisch zwischen Overlord IV Episode 7 und Episode 8. Veröffentlicht im September 2024, Streaming auf Crunchyroll ab April 2025."
+        },
+        {
+          "title": "Overlord IV Episoden 8–13 — Abschluss von Staffel 4",
+          "description": "Kehre zur TV-Serie zurück für das Endspiel des Re-Estize-Königreichs und die abschließenden Ereignisse von Staffel 4. Episoden 47–52."
         }
-      ],
-      "pitfalls": [
-        {
-          "title": "Erwischt werden",
-          "description": "Der Hausbesitzer wird dich verfolgen. Bleib versteckt, lenke ab und unterbreche die Sichtlinie, um zu entkommen.",
-          "icon": "Warndreieck"
-        },
-        {
-          "title": "Zeit läuft ab",
-          "description": "Der Tornado-Timer ist streng. Beginne frühzeitig mit dem Weg zur Extraktion, anstatt zu viel zu plündern.",
-          "icon": "Uhr"
-        },
-        {
-          "title": "Teamkollegen ignorieren",
-          "description": "Rette gefangene Verbündete schnell aus Kühl-/Ofenfallen – rufe sofort nach Rettung.",
-          "icon": "Benutzer"
-        }
-      ]
-    },
-    "coopGuide": {
-      "title": "Lucid Blocks Koop-Leitfaden",
-      "subtitle": "Koordiniere dich mit bis zu 6 Spielern für maximales Chaos",
-      "maxPlayers": 6,
-      "roles": [
-        {
-          "name": "Späher",
-          "description": "Überprüfe auf Bedrohungen, markiere sichere Pfade und leite die Teambewegung",
-          "icon": "Auge"
-        },
-        {
-          "name": "Träger",
-          "description": "Konzentriere dich auf schwere Gegenstände mit Rucksack-Upgrades und sichere den Aufgabenfortschritt",
-          "icon": "Paket"
-        },
-        {
-          "name": "Ablenkung",
-          "description": "Locke Hausbesitzer/Haustiere vom Team weg, um sichere Fenster zu schaffen",
-          "icon": "Benutzer"
-        },
-        {
-          "name": "Retter",
-          "description": "Befreie gefangene Teamkollegen aus Kühl-/Ofen, bevor sie sterben",
-          "icon": "Schild"
-        }
-      ],
-      "threats": [
-        "Hausbesitzer (verfolgt und fängt dich)",
-        "Katzen & Mäuse (Patrouillenwege)",
-        "Staubsaugerroboter (sofortige Gefahr)",
-        "Zeitlimit (Tornado-Extraktion)"
-      ],
-      "communication": "Verwende Voice-Chat (V-Taste), um Aufgaben und Rettungen zu koordinieren. Rufe: \"Entdeckt\", \"Route\", \"Brauche Rettung\", \"Bald extrahieren\"."
-    },
-    "tasksObjectives": {
-      "title": "Lucid Blocks Aufgaben & Ziele",
-      "subtitle": "Was der High-Gnome will: Aufgabenbeispiele",
-      "taskTypes": [
-        {
-          "type": "Stehle Gegenstände",
-          "examples": [
-            "Schnapp dir bestimmte Gegenstände, die durch High-Gnome-Ziele markiert sind"
-          ]
-        },
-        {
-          "type": "Erreiche Orte",
-          "examples": [
-            "Navigiere zu bestimmten Bereichen im Haus"
-          ]
-        },
-        {
-          "type": "Verursache Unfug",
-          "examples": [
-            "Mach einen Fernseher kaputt",
-            "Überflute eine Toilette",
-            "Erzeuge Chaos"
-          ]
-        }
-      ],
-      "efficiency": [
-        "Erledige zuerst riskante Aufgaben, während das Team zusammen ist",
-        "Weise einem Träger Aufgabengegenstände zu, damit sie während der Verfolgungsjagden nicht verloren gehen",
-        "Beginne mit der Bewegung zur Extraktion, bevor die Zeit abläuft"
-      ]
-    },
-    "controlsKeybinds": {
-      "title": "Lucid Blocks Steuerung & Tastenbelegung",
-      "subtitle": "Standard-Tastatursteuerung (und wo man sie ändern kann)",
-      "keybinds": [
-        {
-          "action": "Nach links bewegen",
-          "key": "A"
-        },
-        {
-          "action": "Nach rechts bewegen",
-          "key": "D"
-        },
-        {
-          "action": "Nach vorne bewegen",
-          "key": "W"
-        },
-        {
-          "action": "Nach hinten bewegen",
-          "key": "S"
-        },
-        {
-          "action": "Ducken",
-          "key": "Linke Strg"
-        },
-        {
-          "action": "Angreifen",
-          "key": "Linksklick"
-        },
-        {
-          "action": "Rennen",
-          "key": "Linke Umschalttaste"
-        },
-        {
-          "action": "Gegenstand fallen lassen",
-          "key": "G"
-        },
-        {
-          "action": "Interagieren",
-          "key": "E"
-        },
-        {
-          "action": "Springen",
-          "key": "Leertaste"
-        },
-        {
-          "action": "Sprechen",
-          "key": "V"
-        },
-        {
-          "action": "Schieben",
-          "key": "Rechtsklick"
-        },
-        {
-          "action": "Ragdoll",
-          "key": "Q"
-        },
-        {
-          "action": "Ausrüstungsslot 1",
-          "key": "1"
-        },
-        {
-          "action": "Ausrüstungsslot 2",
-          "key": "2"
-        },
-        {
-          "action": "Ausrüstungsslot 3",
-          "key": "3"
-        },
-        {
-          "action": "Ausrüstungsslot 4",
-          "key": "4"
-        },
-        {
-          "action": "Inventar",
-          "key": "Tab"
-        }
-      ],
-      "changePath": "Vom Titelmenü aus: öffne EINSTELLUNGEN und überprüfe dann die Tastatureinstellungen. Verwende das Suchfeld, um die Tastenbelegungszeilen zu filtern."
-    },
-    "contentSettings": {
-      "title": "Lucid Blocks Inhaltseinstellungen",
-      "subtitle": "Inhalte für Erwachsene, Nacktheit-Umschaltung und Steam-Einstellungen",
-      "descriptors": [
-        "Etwas Nacktheit oder sexuelle Inhalte",
-        "Allgemeine Inhalte für Erwachsene"
-      ],
-      "details": [
-        {
-          "heading": "Was die Entwickler angeben",
-          "items": [
-            "Ein Mensch kann nackt erscheinen, während er Aktivitäten wie Baden ausübt.",
-            "Nacktheit wird zensiert und kann optional vollständig ausgeschaltet werden.",
-            "Gnome können zerstückelt werden und auf brutale Weise sterben."
-          ]
-        },
-        {
-          "heading": "Wenn Steam die Community-Seite blockiert",
-          "items": [
-            "Steam kann den Community-Hub je nach deinen Inhaltseinstellungen ausblenden.",
-            "Verwende Steams \"Inhaltseinstellungen aktualisieren\", um anzupassen, was Steam anzeigen darf."
-          ]
-        }
-      ]
-    },
-    "craftingEquipment": {
-      "title": "Lucid Blocks Crafting & Ausrüstung",
-      "subtitle": "Ausrüsten: Crafting-Beispiele und was jedes Werkzeug bewirkt",
-      "equipment": [
-        {
-          "item": "Rucksack",
-          "benefit": "Erweitert die Inventarkapazität für mehr Beute pro Durchgang"
-        },
-        {
-          "item": "Gnom-Handschuhe",
-          "benefit": "Ermöglicht es dir, Türen zu öffnen und mit mehr Objekten zu interagieren"
-        },
-        {
-          "item": "Springschuhe",
-          "benefit": "Verhindert Fallschaden bei hohen Stürzen während der Flucht"
-        },
-        {
-          "item": "Waffe",
-          "benefit": "Hilft dir, Bedrohungen wie Mäuse in die Enge zu treiben"
-        }
-      ],
-      "sections": [
-        {
-          "heading": "Wie Crafting mit Plündern zusammenhängt",
-          "items": [
-            "Stehle während eines Laufs Gegenstände und bringe sie als Crafting-Materialien zurück.",
-            "Nach der Extraktion unterstützen Belohnungen/Materialien neue Handwerke."
-          ]
-        },
-        {
-          "heading": "Basisverbesserung",
-          "items": [
-            "Stelle Möbel her und verbessere dein schwebendes Inselhaus (vollständige Spielfunktion)."
-          ]
-        }
-      ]
-    },
-    "lootItems": {
-      "title": "Lucid Blocks Beute & Gegenstände",
-      "subtitle": "Was man stehlen sollte: Gegenstandstypen, Risiko und Trage-Tipps",
-      "categories": [
-        {
-          "type": "Aufgabengegenstände",
-          "examples": [
-            "Gegenstände, die von High-Gnome für Ziele benötigt werden"
-          ]
-        },
-        {
-          "type": "Crafting-Materialien",
-          "examples": [
-            "Haushaltsgegenstände, die in Gnom-Ausrüstung und -Upgrades umgewandelt werden"
-          ]
-        },
-        {
-          "type": "Unfug-Ziele",
-          "examples": [
-            "Objekte, die an Aufgaben wie Zerstören oder Überfluten beteiligt sind"
-          ]
-        }
-      ],
-      "carryTips": [
-        "Priorisiere den Aufgabenfortschritt und fülle dann die verbleibende Kapazität mit Crafting-Materialien",
-        "Wenn sich Bedrohungen in der Nähe befinden, bewege Gegenstände in kurzen, sicheren Sprüngen anstatt in langen, exponierten Tragen",
-        "Plane die Route zur Gartenextraktion, bevor der Timer endet"
-      ],
-      "riskLevels": [
-        {
-          "level": "Niedrig",
-          "description": "In der Nähe von Eingängen oder sicheren Ecken"
-        },
-        {
-          "level": "Mittel",
-          "description": "Tiefer gelegene Räume oder in der Nähe von umherziehenden Bedrohungen"
-        },
-        {
-          "level": "Hoch",
-          "description": "In der Nähe der Patrouille des Hausbesitzers oder des Staubsaugerroboters"
-        }
-      ]
-    },
-    "enemiesHazards": {
-      "title": "Lucid Blocks Gegner & Gefahren",
-      "subtitle": "Wisse, was dich erwischen kann",
-      "threats": [
-        {
-          "name": "Der Hausbesitzer",
-          "trigger": "Beim Einbrechen oder Erledigen von Aufgaben entdeckt werden",
-          "behavior": "Er verfolgt dich und versucht, dich zu fangen",
-          "counter": "Bleib heimlich, unterbreche Sichtlinien und bleib als Team in Bewegung"
-        },
-        {
-          "name": "Katzen",
-          "trigger": "Zu nahe kommen oder ihren Weg kreuzen",
-          "behavior": "Sie werden zu einer direkten Bedrohung, während du dich schleichst",
-          "counter": "Vermeide ihre Routen und gehe leise vorbei"
-        },
-        {
-          "name": "Mäuse",
-          "trigger": "Bereiche betreten, in denen Mäuse umherstreifen",
-          "behavior": "Sie bedrohen zerbrechliche Gnome während der Läufe",
-          "counter": "Bleib wachsam in engen Räumen und sei bereit, dich zurückzuziehen"
-        },
-        {
-          "name": "Staubsaugerroboter",
-          "trigger": "Sich auf seinem Reinigungspfad befinden",
-          "behavior": "Er kann Gnome einsaugen",
-          "counter": "Höre auf ihn, halte dich von seiner Route fern und positioniere dich schnell neu"
-        },
-        {
-          "name": "Kühlschrank / Ofen-Falle",
-          "trigger": "Vom Hausbesitzer erwischt werden",
-          "behavior": "Du kannst darin eingesperrt werden; wenn Teamkollegen nicht rechtzeitig retten, stirbst du",
-          "counter": "Rufe sofort; Teamkollegen priorisieren die Rettungsroute"
-        },
-        {
-          "name": "Zeitlimit",
-          "trigger": "Der Lauf-Timer erreicht das Limit",
-          "behavior": "Der Extraktions-Tornado erscheint im Garten; du musst ihn erreichen, um zu entkommen",
-          "counter": "Hör auf, zu viel zu plündern, gruppiere dich neu und engagiere dich frühzeitig für die Extraktion"
-        }
-      ]
-    },
-    "stealthEscape": {
-      "title": "Lucid Blocks Stealth & Flucht Tipps",
-      "subtitle": "Stehle mehr, stirb weniger",
-      "do": [
-        "Bleib heimlich und gehe in Deckung, bevor du mit Objekten interagierst",
-        "Nutze die Teamarbeit: rufe Bedrohungen aus und koordiniere Routen",
-        "Rette Teamkollegen schnell, wenn jemand gefangen oder am Boden ist",
-        "Reduziere deine Verluste und mache dich auf den Weg zur Extraktion, wenn der Timer knapp ist"
-      ],
-      "dont": [
-        "Werde gierig, wenn die Extraktion bevorsteht",
-        "Teile dich zu weit vom Team, wenn der Hausbesitzer aktiv ist",
-        "Ignoriere Staubsaugerroboterpfade oder Tierpatrouillen",
-        "Verzögere Rettungen, wenn ein Teamkollege eingesperrt ist"
       ],
       "quickTips": [
+        "Die beiden Filme von 2017 (The Undead King, The Dark Warrior) fassen nur Staffel 1 zusammen — überspringe sie, wenn du nur am Fortschritt der Geschichte interessiert bist.",
+        "The Sacred Kingdom ist ein Kanon-Film, keine Zusammenfassung — er zählt als neuer Inhalt und sollte an der korrekten chronologischen Position gesehen werden.",
+        "Wenn du Staffel 4 zuerst beendest, kannst du The Sacred Kingdom immer noch danach ansehen — beachte jedoch, dass du Ainz' Motivation in einer leicht veränderten Reihenfolge erlebst.",
+        "Alle vier TV-Staffeln und The Sacred Kingdom sind auf Crunchyroll verfügbar."
+      ]
+    },
+    "overlordCharacters": {
+      "title": "Anime Overlord Hauptcharaktere",
+      "intro": "Dies sind die Kernmitglieder von Nazarick, wichtige Figuren der Königreiche und die Besetzung des Films, die am häufigsten gesucht werden. Zu wissen, welcher Fraktion jeder Charakter angehört, macht es viel einfacher, den Handlungsbögen zu folgen.",
+      "cards": [
         {
-          "title": "Die 3-Sekunden-Regel",
-          "text": "Wenn du deinen nächsten Zug nicht in 3 Sekunden erklären kannst, wirst du gleich entdeckt."
+          "name": "Ainz Ooal Gown",
+          "description": "Früher Momonga, jetzt Herrscher des Sorcerer Kingdom. Jeder große politische und militärische Handlungsbogen konzentriert sich auf seine Entscheidungen und Strategien."
         },
         {
-          "title": "Rettung zuerst",
-          "text": "Eine schnelle Rettung hält den Lauf am Leben; Plündern kann warten."
+          "name": "Albedo",
+          "description": "Aufseherin der Wächter und Ainz' Chefverwalterin. Sie leitet die interne Kommandostruktur von Nazarick und ist Ainz gegenüber absolut loyal."
         },
         {
-          "title": "Extraktionsdisziplin",
-          "text": "Gruppiere dich frühzeitig neu und engagiere dich für den Tornado, bevor Panik ausbricht."
+          "name": "Demiurge",
+          "description": "Wächter der siebten Ebene und das strategische Genie von Nazarick. Eine verborgene Kraft hinter vielen der größten Handlungsentwicklungen der Serie."
+        },
+        {
+          "name": "Shalltear Bloodfallen",
+          "description": "Wächterin der ersten bis dritten Ebene. Sie ist die treibende Kraft hinter einem der denkwürdigsten frühen Konflikte des Anime und bleibt eine der stärksten Kämpferinnen von Nazarick."
+        },
+        {
+          "name": "Neia Baraja",
+          "description": "Knappin und zentrale Perspektivfigur im Film The Sacred Kingdom. Aufgrund ihrer entscheidenden Rolle einer der am häufigsten gesuchten Charaktere der Film-Ära."
+        },
+        {
+          "name": "Remedios Custodio",
+          "description": "Großmeisterin des Paladin-Ordens des Holy Kingdom. Sie führt den verzweifelten Widerstand gegen Jaldabaoth im Film The Sacred Kingdom an."
+        },
+        {
+          "name": "Renner",
+          "description": "Prinzessin von Re-Estize, deren verborgene Intelligenz und Absichten in späteren politischen Handlungsbögen, insbesondere um den Fall des Königreichs, immer wichtiger werden."
+        },
+        {
+          "name": "Climb",
+          "description": "Renners loyaler Leibwächter, der der Seite des Königreichs in der Geschichte die persönlichste Perspektive verleiht und eng mit Renners Schicksal verbunden ist."
+        }
+      ],
+      "milestones": [
+        "Anführer von Nazarick",
+        "Charaktere der Königreiche",
+        "Besetzung von Sacred Kingdom"
+      ]
+    },
+    "overlordEpisodeGuide": {
+      "title": "Anime Overlord Episodenguide nach Staffeln",
+      "intro": "Overlord hat vier TV-Staffeln mit jeweils 13 Episoden, insgesamt 52 Episoden. Jeder Eintrag unten zeigt den Episodenbereich, den Veröffentlichungszeitraum und den Schwerpunkt der Geschichte für diesen Block.",
+      "items": [
+        {
+          "name": "Overlord Staffel 1",
+          "type": "Episoden 1–13",
+          "description": "Momonga wird zu Ainz Ooal Gown, Nazarick betritt die Neue Welt, das Dorf Carne wird gerettet, Momon wird etabliert und der Showdown mit Shalltear schließt die Staffel ab. Ausgestrahlt von Juli bis September 2015."
+        },
+        {
+          "name": "Overlord II",
+          "type": "Episoden 14–26",
+          "description": "Die Echsenmenschen-Kampagne, Sebas in der Hauptstadt und der sich ausweitende Konflikt zwischen Nazarick, Abenteurern und menschlichen Fraktionen. Ausgestrahlt von Januar bis April 2018."
+        },
+        {
+          "name": "Overlord III",
+          "type": "Episoden 27–39",
+          "description": "Material zur Invasion des Imperiums und der Worker, wichtige Entwicklungen im Dorf Carne und die katastrophale Schlacht auf den Katze-Ebenen, die die Neue Welt neu formt. Ausgestrahlt von Juli bis Oktober 2018."
+        },
+        {
+          "name": "Overlord IV",
+          "type": "Episoden 40–52",
+          "description": "Die Ära des Sorcerer Kingdom durch Diplomatie, der Arc des Zwergenkönigreichs und die endgültige Zerstörung von Re-Estize. In chronologischer Reihenfolge passt The Sacred Kingdom zwischen die Episoden 46 und 47. Ausgestrahlt von Juli bis September 2022."
         }
       ]
     },
-    "homeUpgrades": {
-      "title": "Lucid Blocks Haus-Upgrades",
-      "subtitle": "Craften, bauen, verbessern",
-      "branches": [
+    "overlordSacredKingdom": {
+      "title": "Anime Overlord: The Sacred Kingdom Guide",
+      "intro": "The Sacred Kingdom ist der einzige Overlord-Film, der eine wichtige neue Kanon-Geschichte erzählt, anstatt TV-Material zusammenzufassen. Er erweitert die Welt über Nazarick und Re-Estize hinaus, indem er sich auf das belagerte Holy Kingdom konzentriert.",
+      "solutions": [
         {
-          "branch": "Lagerung",
-          "summary": "Mehr tragen und mehr zurückbringen",
-          "items": [
-            "Rucksack (Inventarerweiterung)"
-          ]
+          "name": "Wo er in die Reihenfolge passt",
+          "role": "Kanon-Platzierung",
+          "description": "Platziere diesen Film für die chronologische Reihenfolge nach Overlord IV Episode 7 und vor Episode 8. Er wurde in Japan am 20. September 2024 veröffentlicht und wird seit April 2025 auf Crunchyroll gestreamt."
         },
         {
-          "branch": "Dienstprogramm",
-          "summary": "Effektiver mit dem Haus interagieren",
-          "items": [
-            "Gnom-Handschuhe (ermöglichen es dir, Türen zu öffnen und mehr)"
-          ]
+          "name": "Haupt-Szenario",
+          "role": "Story-Überblick",
+          "description": "Das Roble Holy Kingdom steht vor dem Zusammenbruch durch Jaldabaoth und eine Allianz von Halbmenschen. Remedios Custodio und Neia Baraja reisen aus, um Ainz und das Sorcerer Kingdom um Hilfe zu bitten."
         },
         {
-          "branch": "Mobilität",
-          "summary": "Sicherer durch vertikale Räume bewegen",
-          "items": [
-            "Springschuhe (reduzieren Fallschaden)"
-          ]
+          "name": "Wichtige neue Charaktere",
+          "role": "Film-Besetzung",
+          "description": "Neia Baraja (Perspektivfigur), Remedios Custodio (Anführerin der Paladine), Calca Bessarez (Heilige Königin), Kelart Custodio (Hohepriesterin) und CZ2128 Delta mit einer erweiterten Rolle."
         },
         {
-          "branch": "Verteidigung",
-          "summary": "Mit kleinen Bedrohungen umgehen, wenn nötig",
-          "items": [
-            "Waffen (für Bedrohungen wie Mäuse)"
-          ]
-        },
-        {
-          "branch": "Heimatbasis",
-          "summary": "Stelle Möbel her und verbessere dein schwebendes Inselhaus",
-          "items": [
-            "Funktionale Möbel-Upgrades"
-          ]
+          "name": "Warum er wichtig ist",
+          "role": "Bedeutung für die Story",
+          "description": "Es gibt dem Holy Kingdom Arc eine eigene vollständige Adaption und fügt Kontext zu Ainz' Einflussbereich über Re-Estize hinaus hinzu, was es für Suchende nach einer Anleitung für die Zeit nach Staffel 4 unverzichtbar macht."
         }
       ],
-      "priority": [
+      "managementTips": [
+        "Dieser Film ist eine Kanon-Geschichte, keine Zusammenfassung — er ist für Fans des Holy Kingdom Arcs unverzichtbar.",
+        "Kann auch nach der kompletten Serie als eigenständiger Abschluss der Holy Kingdom Geschichte gesehen werden.",
+        "Streaming auf Crunchyroll zusammen mit der Haupt-TV-Serie.",
+        "Neia Baraja wird zu einem der Fan-Lieblingscharaktere, die in der Film-Ära eingeführt wurden."
+      ]
+    },
+    "overlordAinz": {
+      "title": "Anime Overlord: Ainz Ooal Gown",
+      "intro": "Ainz Ooal Gown ist das Gesicht von Overlord — der ehemalige Spieler Momonga, jetzt der Sorcerer King von Nazarick. Seine Identität, Titel, Magie und sein Handlungsbogen im Anime und im Film Sacred Kingdom definieren jedes wichtige Ereignis der Serie.",
+      "cards": [
         {
-          "rank": 1,
-          "title": "Zuerst Lagerung",
-          "reason": "Mehr Tragfähigkeit verbessert die Auszahlung jedes Laufs"
+          "icon": "User",
+          "name": "Kernidentität",
+          "description": "Ehemals Momonga, ein engagierter YGGDRASIL-Spieler, der in der realen Welt als Suzuki Satoru bekannt ist. Er bleibt eingeloggt, während die Server herunterfahren, und erwacht in der Neuen Welt als der untote Overlord Ainz Ooal Gown."
         },
         {
-          "rank": 2,
-          "title": "Als nächstes Dienstprogramm",
-          "reason": "Bessere Interaktionen reduzieren die Zeit, die in Gefahrenzonen verbracht wird"
+          "icon": "Crown",
+          "name": "Titel und öffentliche Personas",
+          "description": "Ainz trägt mehrere Titel: Höchster, Sorcerer King, König der Finsternis und Momon der schwarze Held. Jede Persona dient einer bestimmten politischen oder strategischen Rolle in verschiedenen Arcs."
         },
         {
-          "rank": 3,
-          "title": "Mobilität zum Überleben",
-          "reason": "Fallschutz verhindert vermeidbare Todesfälle bei der Flucht"
+          "icon": "Eye",
+          "name": "Rasse und Bildschirmpräsenz",
+          "description": "Er erscheint als untoter Overlord — eine skelettartige Figur in einer schwarzen akademischen Robe mit goldener und violetter Verzierung und einer schwebenden roten Kugel unter seinen Rippen. Seine frühere Rasse war menschlich."
+        },
+        {
+          "icon": "Zap",
+          "name": "Magie-Profil",
+          "description": "Spezialisiert auf Nekromantie und Magie des sofortigen Todes mit über 700 verfügbaren Zaubersprüchen. Zu den Super-Tier-Fähigkeiten gehören Fallen Down und Iä Shub-Niggurath, und er nutzt Zeitstopp-Timing für verheerende Kombinationen aus."
+        },
+        {
+          "icon": "Landmark",
+          "name": "Position in Nazarick und der Welt",
+          "description": "Von den NPCs von Nazarick als der Höchste der Einundvierzig Höchsten Wesen verehrt. Außerhalb wird er zum Sorcerer King und zu einer bedeutenden politischen Kraft, deren Einfluss die gesamte Neue Welt umgestaltet."
+        },
+        {
+          "icon": "Clock",
+          "name": "Fortschritt der Geschichte",
+          "description": "Beginnt als letzter Spieler bei der Abschaltung von YGGDRASIL, gründet das Sorcerer Kingdom von Nazarick aus und wird zu einer weltgestaltenden Macht im Holy Kingdom-Arc, der im Film Sacred Kingdom behandelt wird."
+        }
+      ],
+      "highlights": [
+        "Overlord von Nazarick",
+        "Sorcerer King",
+        "Untoter Magiewirker",
+        "Ehemaliger Momonga"
+      ]
+    },
+    "overlordAlbedo": {
+      "title": "Anime Overlord: Albedo Charakter-Guide",
+      "intro": "Albedo ist die Aufseherin der Wächter der Großen Gruft von Nazarick und beaufsichtigt alle sieben Floor Guardians. Ihr Design, ihre unerschütterliche Loyalität gegenüber Ainz und ihre politische Rolle machen sie zu einem der meistgesuchten Charaktere der Overlord-Serie.",
+      "regions": [
+        {
+          "icon": "Shield",
+          "name": "Kernrolle",
+          "type": "Aufseherin der Wächter",
+          "description": "Albedo beaufsichtigt die sieben Floor Guardians und steht über allen anderen Nazarick-NPCs. Sie dient auch als Premierministerin und kümmert sich während der Abwesenheit von Ainz um interne Angelegenheiten und das Management."
+        },
+        {
+          "icon": "Users",
+          "name": "Rasse, Familie und Schöpfer",
+          "type": "Hintergrund",
+          "description": "Ein Dämonen-Sukkubus, erschaffen von Tabula Smaragdina. Sie ist die mittlere Schwester — Nigredo ist ihre ältere Schwester, Rubedo ist ihre jüngere Schwester."
+        },
+        {
+          "icon": "Sparkles",
+          "name": "Design und Präsenz",
+          "type": "Visuelles",
+          "description": "Tiefschwarzes Haar, goldene Augen mit vertikal gespaltenen Pupillen, schwarze Flügel und gebogene Hörner. Ihr weißes Kleid in Standardszenen verwandelt sich in eine schwere schwarze Vollplattenrüstung, wenn sie in den Kampf zieht."
+        },
+        {
+          "icon": "Heart",
+          "name": "Persönlichkeit und Loyalität",
+          "type": "Charakter",
+          "description": "Ainz gegenüber intensiv loyal, mit emotionaler Besessenheit und gelegentlicher Eifersucht. Ihre Mischung aus Obsession und administrativer Kompetenz macht sie zu einem der fesselndsten Charaktere der Serie."
+        },
+        {
+          "icon": "Swords",
+          "name": "Kraftprofil",
+          "type": "Kampf",
+          "description": "Höchste Verteidigungskraft unter allen Nazarick-NPCs, besonders wenn sie Hermes Trismegistus trägt. Sie kann erlittenen Schaden auf ihre Rüstung übertragen und mit ihrer Verteidigungsfähigkeit einem Super-Tier-Magiezauber standhalten."
+        },
+        {
+          "icon": "Settings",
+          "name": "Verwaltung und Ausrüstung",
+          "type": "Nutzen",
+          "description": "Gehört zu den drei intelligentesten NPCs. Verwaltet die internen Abläufe von Nazarick und ist mit wichtigen Systemen verbunden, einschließlich des Welt-Items Ginnungagap und der 3F-Waffe."
         }
       ]
     },
-    "community": {
-      "title": "Lucid Blocks Community & Discord",
-      "subtitle": "Finde Trupps, Updates, Diskussionen",
-      "links": [
+    "overlordShalltear": {
+      "title": "Anime Overlord: Shalltear Bloodfallen",
+      "intro": "Shalltear Bloodfallen ist die Floor Guardian der ersten bis dritten Etage von Nazarick und eine der stärksten Kämpferinnen der Serie. Ihr ikonischer Konflikt in Staffel 1 gegen Ainz bleibt einer der meistgesuchten Arcs im Overlord-Anime.",
+      "creatures": [
         {
-          "title": "Offizieller Discord",
-          "subtitle": "Ankündigungen • Feedback • LFG",
-          "url": "https://discord.com/invite/lucidblocks"
+          "icon": "Star",
+          "name": "Kernidentität",
+          "role": "Floor Guardian",
+          "description": "Ein wahrer Vampir und Floor Guardian der Etagen 1–3, erschaffen von Peroroncino. Ihr Wohnsitz ist als die Adipocere-Kammer auf der 2. Etage der Großen Gruft aufgeführt."
         },
         {
-          "title": "Offizielles X (Twitter)",
-          "subtitle": "Updates & Entwicklerbeiträge",
-          "url": "https://x.com/lucidblocks"
+          "icon": "Eye",
+          "name": "Design und visueller Aufhänger",
+          "role": "Visuelles",
+          "description": "Silbernes Haar, purpurrote Augen, blasse Haut und ein schwarzes Kleid im Standard-Erscheinungsbild — wechselt zu einer blutroten Vollplattenrüstung, wenn sie voll für den Kampf ausgerüstet ist."
         },
         {
-          "title": "Steam Community Hub",
-          "subtitle": "Diskussionen • Screenshots • Leitfäden",
-          "url": "https://steamcommunity.com/app/3495730"
+          "icon": "MessageCircle",
+          "name": "Persönlichkeit",
+          "role": "Charakter",
+          "description": "Stolz und kokett mit einer kurzen Zündschnur, wenn Dinge schiefgehen. Sie nimmt ihre Pflicht als Wächterin mit vollem Ernst wahr, während ihr unbeständiges Selbstvertrauen einige der dramatischsten Szenen des Animes antreibt."
         },
         {
-          "title": "Steam Store Seite",
-          "subtitle": "Wunschliste • Demo • Offizielle Beschreibung",
-          "url": "https://store.steampowered.com/app/3495730/Lucid_Blocks/"
+          "icon": "Trophy",
+          "name": "Kampfruf",
+          "role": "Kraft",
+          "description": "Die stärkste Floor Guardian außer Gargantua, mit den höchsten Gesamtwerten unter den Standardwächtern. Ainz selbst betrachtet sie als die beste Einzelkämpferin in Nazarick."
+        },
+        {
+          "icon": "CheckCircle",
+          "name": "Kampfnutzen",
+          "role": "Spezialitäten",
+          "description": "Kombiniert lebenserhaltende Fähigkeiten, die meiste tatsächliche Kampferfahrung aller Floor Guardian, bestätigtes Wirken göttlicher Magie und einen Klassen-Build, der besonders effektiv gegen bestimmte Arten von Magiewirkern ist."
+        },
+        {
+          "icon": "BookOpen",
+          "name": "Prägender Handlungsbogen",
+          "role": "Schlüssel-Arc",
+          "description": "Durch ein Welt-Item einer Gehirnwäsche unterzogen und gegen Nazarick aufgebracht, wird sie von Ainz in einem der charakteristischen Kämpfe des Animes besiegt. Danach wird sie wiederbelebt und setzt ihre Arbeit als wichtige Floor Guardian fort."
         }
       ]
     },
-    "modsBepInEx": {
-      "title": "Lucid Blocks Mods & BepInEx Setup",
-      "subtitle": "Installiere Mods auf saubere Weise",
-      "steps": [
+    "overlordFloorGuardians": {
+      "title": "Anime Overlord Floor Guardians Ranking",
+      "intro": "Die Floor Guardians sind die mächtigsten Verteidiger der Großen Gruft von Nazarick. Diese Übersicht ordnet sie nach Rolle, Kampfspezialisierung und der allgemein diskutierten Stärkereihenfolge ein – von roher Duellkraft bis hin zum strategischen Kommandowert.",
+      "items": [
         {
-          "step": 1,
-          "title": "Installiere BepInEx 5",
-          "text": "Lade BepInEx 5 herunter und entpacke es in den Spiel-Root-Ordner."
+          "icon": "Swords",
+          "name": "Shalltear Bloodfallen",
+          "type": "Ebenen 1–3 — Top-Duellantin",
+          "description": "Gilt weithin als die stärkste Floor Guardian im direkten Einzelkampf, mit den höchsten Gesamtwerten unter den Standard-Wächtern. Ainz betrachtet sie als die beste Kämpferin gegen Einzelziele."
         },
         {
-          "step": 2,
-          "title": "Einmal starten, um Ordner zu generieren",
-          "text": "Starte das Spiel bis zum Hauptmenü und schließe es dann. Dadurch wird die BepInEx-Ordnerstruktur erstellt."
+          "icon": "Shield",
+          "name": "Mare Bello Fiore",
+          "type": "Ebene 6 — Top-AoE-Magier",
+          "description": "Stärkster Magier für Flächenschaden in Nazarick, spezialisiert auf Zerstörung im Armeemaßstab und magischen Fernkampf. Neben Shalltear einer der zwei stärksten Kämpfer."
         },
         {
-          "step": 3,
-          "title": "Mods installieren",
-          "text": "Platziere Mod-.dll-Dateien in den Plugins-Ordner."
+          "icon": "Hammer",
+          "name": "Cocytus",
+          "type": "Ebene 5 — Waffenmeister",
+          "description": "Vierarmiger insektoider Krieger mit der höchsten Angriffskraft beim Einsatz von Waffen. Sein strenger Ehrenkodex macht ihn zu einem der führenden Kriegertypen von Nazarick."
         },
         {
-          "step": 4,
-          "title": "Installation überprüfen",
-          "text": "Starte das Spiel neu und bestätige, dass die Mod-Funktion verfügbar ist (Kamera-Umschaltung, UI-Cursor usw.)."
+          "icon": "Brain",
+          "name": "Demiurge",
+          "type": "Ebene 7 — Strategischer Kommandant",
+          "description": "Das strategische Superhirn von Nazarick mit einem vielseitigen Kampf-Toolkit. Seine Täuschungskunst, Verwaltung und Planung machen ihn in großangelegten Operationen unersetzlich."
+        },
+        {
+          "icon": "TrendingUp",
+          "name": "Aura Bella Fiora",
+          "type": "Ebene 6 — Waldläuferin und Bestienbändigerin",
+          "description": "Glänzt in Geschwindigkeit, Bestienbändigung und Guerillakrieg. Sie wird deutlich gefährlicher, wenn sie mit Beschwörungen, Geländevorteilen und Teamunterstützung agiert."
+        },
+        {
+          "icon": "Landmark",
+          "name": "Albedo",
+          "type": "Aufseherin — Defensive Mauer",
+          "description": "Höchste Verteidigungskraft unter den Nazarick-NPCs. Ihr Wert ergibt sich aus ihrer absurden Defensive, Kontrolle und Überlebensfähigkeit, was sie zur erstklassigen Wahl in langwierigen Gefechten macht."
         }
       ],
-      "paths": [
-        {
-          "label": "Typische Steam-Installation",
-          "path": "Steam\\steamapps\\common\\Lucid Blocks Demo\\"
-        },
-        {
-          "label": "Plugins-Ordner",
-          "path": "Steam\\steamapps\\common\\Lucid Blocks Demo\\BepInEx\\plugins\\"
-        }
-      ],
-      "multiplayerNote": "Für modifizierte Koop-Gameplay-Funktionen sollte jeder BepInEx und dieselben Gameplay-Mods installieren."
+      "unlockMilestones": [
+        "Alle 7 Ebenen verteidigt",
+        "Wächterrat versammelt",
+        "Oberste Wesen dienen Ainz"
+      ]
     },
-    "popularMods": {
-      "title": "Lucid Blocks Beliebte Mods",
-      "subtitle": "Top-Community-Auswahlen",
-      "mods": [
+    "overlordNazarick": {
+      "title": "Anime Overlord: Im Inneren der Großen Gruft von Nazarick",
+      "intro": "Die Große Gruft von Nazarick ist das Machtzentrum von Overlord. Sie fungiert als Ainz' Heimatbasis, Lagezentrum, politischer Hofstaat, Gefängnisnetzwerk und letzte Verteidigungslinie – ihre Struktur zu verstehen, macht es viel einfacher, der gesamten Franchise zu folgen.",
+      "sections": [
         {
-          "title": "Spawn-Menü",
-          "tags": [
-            "Spaß",
-            "Werkzeuge",
-            "Nur Host"
-          ],
-          "description": "Fügt ein Element-Spawn-Menü mit einem Flugmodus hinzu.",
-          "controls": [
+          "name": "Festungsübersicht",
+          "description": "Ursprünglich ein High-Level-Dungeon in YGGDRASIL, wurde Nazarick von Ainz Ooal Gown erobert und umgebaut. Nach der Rekonstruktion wurde sie auf mehr als zehn Ebenen mit vielschichtigen Verteidigungen, Teleportationsportalen und maßgeschneiderter NPC-Infrastruktur erweitert. Sie überstand den berühmten 1.500-Mann-Angriff, ohne dass die Angreifer die tiefsten Verteidigungslinien durchbrechen konnten."
+        },
+        {
+          "name": "Führung und Kommando",
+          "description": "Nazarick unterliegt einer strengen Top-Down-Befehlsstruktur. Ainz Ooal Gown trifft alle finalen strategischen Entscheidungen. Albedo dient als Aufseherin der Wächter und fungiert als Oberkommandierende der Floor Guardians. Jeder Floor Guardian kontrolliert einen wichtigen Verteidigungsbereich und befehligt mächtige Untergebene innerhalb dieses Raums."
+        },
+        {
+          "name": "Ebenen-Karte",
+          "description": "1.–3. Ebene: Grab / Katakomben (Wächterin: Shalltear). 4. Ebene: Unterirdischer See (Gargantua). 5. Ebene: Gletscher (Cocytus). 6. Ebene: Dschungel (Aura und Mare). 7. Ebene: Lava (Demiurge). 8. Ebene: Wildnis (Victim – letzte Verteidigungslinie). 9. Ebene: Königliche Suite mit Serviceeinrichtungen. 10. Ebene: Thronsaal – Ainz' Kommandozentrale. Schatzkammer: ein separater räumlicher Tresor, der über die Ringe von Ainz Ooal Gown zugänglich ist."
+        },
+        {
+          "name": "Wichtige Militär- und Supportgruppen",
+          "description": "Jenseits der Floor Guardians operiert Nazarick durch Eliteeinheiten und spezialisierte NPCs. Die Plejaden sind Nazaricks Kampfmägde und eine der bekanntesten Elite-Service- und Kampfgruppen. Die Hierarchie der 8. Ebene und Aureole Omega repräsentieren Nazaricks tiefste Reservemacht. Gebietswächter wie Kyouhukou und Neuronist Painkill verstärken einzelne Zonen."
+        },
+        {
+          "name": "Warum Nazarick für jeden Arc wichtig ist",
+          "description": "Im Thronsaal versammelt Ainz die Wächter, weist Missionen zu, überwacht Bedrohungen und verkündet Richtlinien. Nazarick fungiert als Zuhause, Regierungszentrum, Gefängnissystem, Labor und Symbol überwältigender Macht. Die meisten Wendepunkte der Serie beginnen mit Entscheidungen, die innerhalb von Nazarick getroffen werden, selbst wenn die Action weit entfernt stattfindet."
+        }
+      ],
+      "growthMilestones": [
+        "Erbaut von der Gilde der 41 Spieler",
+        "10+ Ebenen vielschichtiger Verteidigung",
+        "1.500-Mann-Angriff überlebt",
+        "Hauptstadt vom Sorcerer Kingdom"
+      ]
+    },
+    "overlordStoryArcs": {
+      "title": "Anime Overlord Story-Arcs nach Staffel und Light Novel",
+      "intro": "Diese Übersicht verknüpft jeden wichtigen Anime Overlord Arc mit seiner Anime-Staffel, dem Episodenbereich und dem entsprechenden Light-Novel-Band, was es einfach macht, jeden Arc zu lokalisieren und seine Position im Zeitstrahl zu verstehen.",
+      "priorities": [
+        {
+          "name": "The Undead King / Dark Warrior Arcs",
+          "priority": "Staffel 1 Ep 1–9",
+          "description": "Ainz erwacht in der Neuen Welt, etabliert die Identität von Momon und beginnt, die Regeln der neuen Realität zu testen. Quelle: Bände 1–2."
+        },
+        {
+          "name": "The Bloody Valkyrie Arc",
+          "priority": "Staffel 1 Ep 10–13",
+          "description": "Ainz stellt sich einer gehirngewaschenen Shalltear in einem Solo-Duell und beweist, dass Nazarick eine Krise von innen heraus überstehen kann. Quelle: Band 3."
+        },
+        {
+          "name": "Lizard Man Heroes / Men in the Kingdom",
+          "priority": "Staffel 2 Ep 1–13",
+          "description": "Die Echsenmenschen-Stämme vereinen sich gegen Cocytus, während Sebas, Climb und Brain kriminelle Korruption und politische Spannungen in Re-Estize navigieren. Quelle: Bände 4–6."
+        },
+        {
+          "name": "Invaders of the Large Tomb Arc",
+          "priority": "Staffel 3 Ep 6–8",
+          "description": "Worker-Teams dringen in Nazarick ein und entdecken, warum die Gruft als Todesfalle gilt – der Unterschied zwischen Nazarick und selbst Elite-menschlichen Kämpfern ist absolut. Quelle: Band 7."
+        },
+        {
+          "name": "The Magic Caster of Destruction Arc",
+          "priority": "Staffel 3 Ep 9–13",
+          "description": "Ainz greift mit überwältigender Macht in den jährlichen Krieg auf den Katze-Ebenen ein und etabliert das erschreckende Ausmaß vom Sorcerer Kingdom. Quelle: Band 9."
+        },
+        {
+          "name": "The Paladin of the Holy Kingdom Arc",
+          "priority": "Der Sacred Kingdom Film",
+          "description": "Jaldabaoths Feldzug zwingt das Holy Kingdom dazu, Ainz um Hilfe zu bitten, was eine Rettungsaktion in einen bedeutenden politischen und militärischen Wendepunkt verwandelt. Quelle: Bände 12–13."
+        },
+        {
+          "name": "The Witch of the Falling Kingdom Arc",
+          "priority": "Staffel 4 Ep 8–13",
+          "description": "Der Konflikt mit Re-Estize weitet sich zum totalen Krieg aus und zeigt die zerstörerischsten Konsequenzen des Widerstands gegen das Sorcerer Kingdom. Quelle: Band 14."
+        },
+        {
+          "name": "The Half Elf God-kin Arc",
+          "priority": "Noch nicht adaptiert",
+          "description": "Die Geschichte bewegt sich in Richtung Elfenland und Slane Theocracy und geht über das derzeit animierte Material hinaus. Quelle: Bände 15–16."
+        }
+      ]
+    },
+    "overlordTimeline": {
+      "title": "Anime Overlord Zeitstrahl in chronologischer Reihenfolge",
+      "intro": "Overlord ist ein Franchise, bei dem sich Veröffentlichungsreihenfolge, Watch Order und Story-Chronologie unterscheiden können. Dieser Zeitstrahl zeigt die klare Abfolge der wichtigsten Ereignisse und klärt genau, wo der Sacred Kingdom Film im Verhältnis zu Staffel 4 einzuordnen ist.",
+      "groups": [
+        {
+          "name": "Startpunkt — Staffel 1 / Band 1",
+          "achievements": [
             {
-              "key": "F",
-              "action": "Spawn-Menü öffnen"
+              "title": "YGGDRASIL endet und Nazarick trifft ein",
+              "description": "Satoru Suzuki bleibt für die letzten Momente von YGGDRASIL eingeloggt, findet sich aber statt auszuloggen in der Neuen Welt innerhalb von Nazarick als Ainz Ooal Gown wieder."
             },
             {
-              "key": "V",
-              "action": "Fliegen aktivieren"
+              "title": "Ainz baut seinen ersten Stützpunkt auf",
+              "description": "Ainz bestätigt, dass Nazarick real ist, lernt die lokalen Regeln, etabliert die Momon-Identität und stabilisiert das Grab von innen. Umfasst Staffel 1 / Bände 1–3."
             }
-          ],
-          "note": "Nur Host; andere müssen es nicht installieren, um beizutreten."
+          ]
         },
         {
-          "title": "ThirdPerson-Ansicht",
-          "tags": [
-            "Kamera",
-            "QoL"
-          ],
-          "description": "Fügt eine Third-Person-Kameraansicht hinzu.",
-          "controls": [
+          "name": "Regionale Konsolidierung — Staffeln 2 & 3",
+          "achievements": [
             {
-              "key": "F7",
-              "action": "First-Person / Third-Person umschalten"
+              "title": "Echsenmenschen, Sebas und Jaldabaoths Operationen",
+              "description": "Der Feldzug gegen die Echsenmenschen, Sebas' Storyline im Königreich und Jaldabaoths Chaos erweitern den Umfang von lokalen Experimenten hin zu gezielter Machtprojektion. Staffel 2 / Bände 4–6."
+            },
+            {
+              "title": "Katze-Ebene und Worker-Invasion",
+              "description": "Das Massaker auf der Katze-Ebene macht Ainz zu einer unbestreitbaren geopolitischen Kraft, während die Worker-Invasion den vollen Terror von Nazarick offenbart. Staffel 3 / Bände 7–9."
             }
           ]
         },
         {
-          "title": "Mehr Hüte",
-          "tags": [
-            "Kosmetisch"
-          ],
-          "description": "Fügt zusätzliche Hutfarboptionen für Gnome hinzu.",
-          "colors": [
-            "Blau",
-            "Grün",
-            "Orange",
-            "Lila",
-            "Schwarz",
-            "Rot"
+          "name": "Sorcerer Kingdom Ära — Staffel 4 Episoden 1–7",
+          "achievements": [
+            {
+              "title": "Herrschaft und Expansion — Vor dem Film",
+              "description": "Ainz konzentriert sich auf die Verwaltung des Sorcerer Kingdom, den Umgang mit ausländischen Herrschern und die Ausweitung des Einflusses durch den Zwergenkönigreich-Arc. Staffel 4 Ep 1–7 / Bände 10–11."
+            },
+            {
+              "title": "Sacred Kingdom passt hierher",
+              "description": "Der Holy Kingdom Feldzug findet nach Staffel 4 Episode 7 und vor Episode 8 statt. Schau Overlord: The Sacred Kingdom an dieser Stelle für die korrekte chronologische Reihenfolge. Bände 12–13."
+            }
           ]
         },
         {
-          "title": "DOOM im Fernsehen",
-          "tags": [
-            "Spaß",
-            "Minispiel"
-          ],
-          "description": "Spiele das Original-DOOM auf einem In-Game-Fernseher, wobei der Ton über den TV-Lautsprecher kommt.",
-          "highlights": [
-            "Funktioniert im Mehrspieler, sodass andere Spieler auf demselben Fernseher zusehen können",
-            "Enthält die Shareware-DOOM-Episodendaten (Episode 1)"
+          "name": "Finales Kapitel — Staffel 4 Episoden 8–13 und darüber hinaus",
+          "achievements": [
+            {
+              "title": "Der Re-Estize-Krieg und das Ende von Staffel 4",
+              "description": "Der 'Witch of the Falling Kingdom'-Arc beendet den Re-Estize-Konflikt mit vernichtender Endgültigkeit. Staffel 4 Ep 8–13 / Band 14."
+            },
+            {
+              "title": "Die Geschichte geht über den Anime hinaus weiter",
+              "description": "Der 'Half Elf God-kin'-Arc führt in das Elfenland und zu tieferen Entwicklungen in der Slane Theocracy, über das aktuell adaptierte Material hinaus. Bände 15–16."
+            }
           ]
         }
       ]
     },
-    "controllerSupport": {
-      "title": "Lucid Blocks Controller-Unterstützung",
-      "subtitle": "Volle Gamepad-Steuerung",
-      "native": {
-        "title": "In-Game-Einstellungen",
-        "description": "Verwende die Bindungs-/Einstellungsmenüs des Spiels, um die Steuerung anzupassen."
-      },
-      "mod": {
-        "title": "Controller-Support-Mod",
-        "description": "Fügt vollständige Gamepad-/Controller-Unterstützung und einen UI-Cursor für die Menünavigation hinzu."
-      },
-      "features": [
-        "Volle Gameplay-Steuerung: Bewegung, Kamera, Kampf, Interaktionen und Fähigkeiten, die dem Gamepad zugeordnet sind",
-        "UI-Cursor-Navigation: Ein weißer Kreiscursor erscheint in Menüs; drücke A, um zu klicken und Schieberegler zu ziehen",
-        "Inventarnavigation: Halte Select gedrückt, um das Inventar zu öffnen; verwende den rechten Stick, um zu navigieren, während du ihn hältst",
-        "Scrollbare Menüs: Der rechte Stick scrollt durch Crafting-Rezepte, Einstellungen und andere scrollbare UI-Bereiche",
-        "Hotbar-Cycling: D-Pad links/rechts wechselt durch 4 Hotbar-Slots",
-        "Nahtlose Eingabeumschaltung: Erkennt automatisch Tastatur/Maus vs. Controller"
+    "overlordLightNovel": {
+      "title": "Anime Overlord Light Novel Lese-Leitfaden",
+      "intro": "Die Overlord Light Novels umfassen derzeit 16 veröffentlichte Bände. Der beste Leseweg hängt davon ab, ob man das komplette Erlebnis, die schnellste Fortsetzung nach dem Anime oder eine saubere Brücke vom Anime zum Roman inklusive des Filmmaterials wünscht.",
+      "faqs": [
+        {
+          "question": "Was ist der beste Startpunkt für die Anime Overlord Light Novels?",
+          "answer": "Der beste Einstiegspunkt ist Band 1. Dies bietet den vollen internen Monolog, World-Building, ausgelassene Details und ein viel klareres Bild davon, wie Ainz und Nazarick tatsächlich denken. Es ist der am meisten empfohlene Weg für reine Anime-Zuschauer."
+        },
+        {
+          "question": "Was ist die Haupt-Lesereihenfolge für die Overlord Romane?",
+          "answer": "Lies die Hauptgeschichte in der Reihenfolge der Bände: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16. Band 8 kann auch jederzeit nach Band 4 und vor Band 9 gelesen werden, aber die einfache numerische Reihenfolge ist für die meisten Leser der einfachste Weg."
+        },
+        {
+          "question": "Wie lassen sich die Anime Overlord Staffeln den Light Novel Bänden zuordnen?",
+          "answer": "Staffel 1 = Bände 1–3. Staffel 2 = Bände 4–6. Staffel 3 = Bände 7–9 (Material aus Band 8 wird vor dem Inhalt von Band 7 ausgestrahlt). Staffel 4 TV = Bände 10, 11 und 14. Der Sacred Kingdom Film = Bände 12–13."
+        },
+        {
+          "question": "Was ist der schnellste Weg, nach dem Ende des Anime Overlord Anime fortzufahren?",
+          "answer": "Wenn du alle vier TV-Staffeln beendet hast und zuerst ungesehenes Story-Material möchtest, schau den Film oder lies die Bände 12–13 (Sacred Kingdom), und fahre dann mit den Bänden 15–16 für komplett neues Material jenseits des aktuellen Anime fort."
+        },
+        {
+          "question": "Welche Lesewege gibt es für die Anime Overlord Romane?",
+          "answer": "Komplette Route: Beginne bei Band 1 und lies direkt durch. Brücken-Route: Nutze die Anime-zu-Band-Zuordnung und lies dann die Bände 12–16. Schnellste Route für neue Inhalte: Zuerst Sacred Kingdom (Bände 12–13), dann Bände 15–16."
+        }
       ]
     },
-    "playerCount": {
-      "title": "Lucid Blocks Spielerzahl & Trend",
-      "subtitle": "Live-Popularitäts-Schnappschuss",
-      "stats": {
-        "now": {
-          "value": "6.047",
-          "label": "Spieler gerade jetzt"
+    "overlordAnimeVsNovel": {
+      "title": "Anime Overlord: Was sich vom Anime zur Light Novel ändert",
+      "intro": "Der Overlord Anime ist eine originalgetreue Umsetzung der Romane, aber auch eine komprimierte. Die Romane enthalten viel mehr interne Monologe, Lore und Kontext auf Fraktionsebene. Dieser Leitfaden hilft Zuschauern zu sehen, was adaptiert wurde, was komprimiert wurde und wo das Lesen den größten Mehrwert bietet.",
+      "faqs": [
+        {
+          "question": "Was hat die Anime Overlord Adaption bereits abgedeckt?",
+          "answer": "Der Großteil der Hauptgeschichte bis Band 14 wurde animiert. Staffel 1 = Bände 1–3. Staffel 2 = Bände 4–6. Staffel 3 = Bände 7–9. Staffel 4 = Bände 10, 11, 14. Der Sacred Kingdom Film = Bände 12–13. Der Holy Kingdom Arc wurde als Film statt als TV-Staffel umgesetzt."
         },
-        "peak24h": {
-          "value": "13.859",
-          "label": "24-Stunden-Peak"
+        {
+          "question": "Was erklären die Anime Overlord Romane ausführlicher?",
+          "answer": "Die Romane widmen YGGDRASIL-Mechaniken, Item-Logik, Rassenfähigkeiten und dem Magiesystem mehr Zeit. Sie fügen viel mehr Geschichte der Neuen Welt, Staatskunst und Perspektiven zwischen den Fraktionen hinzu. Viele Nebencharaktere erhalten längere interne Monologe, Motivationen und Szenenübergänge. Dialoglastige Strategieabschnitte sind auf dem Papier im Allgemeinen reichhaltiger."
         },
-        "allTimePeak": {
-          "value": "15.272",
-          "label": "Allzeit-Peak"
+        {
+          "question": "Wo spüren Anime Overlord Zuschauer die Komprimierung der Adaption am meisten?",
+          "answer": "Politisches Manövrieren und diplomatische Einsätze sind in den Romanen breiter gefächert. Mehrere Arcs verlieren kleinere Perspektivszenen, die Königreiche, Abenteurer und Seitenfraktionen lebendiger wirken lassen. Die Gedanken der Charaktere sind einer der größten Verluste — besonders wenn Overlord zwischen öffentlichem Handeln und privater Absicht wechselt."
+        },
+        {
+          "question": "Was sind die besten Lesewege nach dem Ende des Anime Overlord Anime?",
+          "answer": "Für das umfassendste Erlebnis beginne bei Band 1 und lies der Reihe nach. Für eine direkte Fortsetzung nach dem aktuell animierten Material fahre mit den Bänden 15–16 fort. Wenn dein Ziel darin besteht, ausgelassene Details nachzuholen, anstatt fortzufahren, ist das Lesen der Romanversion des gerade gesehenen Arcs die beste mittlere Option."
         }
-      },
-      "milestones": [
+      ]
+    },
+    "overlordVoiceCast": {
+      "title": "Wichtigste japanische und englische Synchronsprecher von Anime Overlord",
+      "intro": "Overlord hat über die gesamte Laufzeit des Haupt-Anime einen erkennbaren Kern-Cast beibehalten, während Sacred Kingdom mehrere wichtige Rollen für das Holy Kingdom hinzugefügt hat. Dieser Cast-Leitfaden kombiniert das TV-Anime-Lineup mit den wichtigsten Ergänzungen aus Sacred Kingdom, organisiert für eine schnelle Suche von Charakter zu Schauspieler.",
+      "settings": [
         {
-          "date": "30. Jan. 2026",
-          "title": "Demo auf Steam veröffentlicht",
-          "detail": "Öffentliche Demo wurde auf PC (Steam) verfügbar."
+          "name": "Ainz Ooal Gown / Momon",
+          "type": "JP: Satoshi Hino | EN: Chris Guerrero",
+          "description": "Hauptserie und Sacred Kingdom. Hino verkörpert sowohl Ainz' gebieterische öffentliche Präsenz als auch die leisen internen Monologe des ehemaligen Momonga über alle vier Staffeln und den Film hinweg."
         },
         {
-          "date": "8. Feb. 2026",
-          "title": "Allzeit-Peak erreicht",
-          "detail": "Die Demo erreichte ihre höchste aufgezeichnete Anzahl gleichzeitiger Spieler."
+          "name": "Albedo",
+          "type": "JP: Yumi Hara | EN: Elizabeth Maxwell",
+          "description": "Hauptserie und Sacred Kingdom. Haras Darbietung balanciert Albedos leidenschaftliche Loyalität als Aufseherin der Wächter, administrative Präzision und Momente komödiantischer Intensität."
+        },
+        {
+          "name": "Demiurge",
+          "type": "JP: Masayuki Kato | EN: Jeff Johnson",
+          "description": "Hauptserie und Sacred Kingdom. Katos Stimme verleiht Demiurge eine geschmeidige, theatralische Qualität, die seiner Rolle als Nazaricks primärer strategischer Vordenker entspricht."
+        },
+        {
+          "name": "Shalltear Bloodfallen",
+          "type": "JP: Sumire Uesaka | EN: Felecia Angelle",
+          "description": "Hauptserie. Uesaka fängt sowohl Shalltears beunruhigende vampirische Eleganz als auch ihre gelegentlich kindlichen Reaktionen ein, was den Duell-Arc in Staffel 1 besonders denkwürdig macht."
+        },
+        {
+          "name": "Aura Bella Fiora & Mare Bello Fiore",
+          "type": "JP: Emiri Kato & Yumi Uchiyama | EN: Jill Harris & Megan Shipman",
+          "description": "Hauptserie. Die Zwillings-Dunkelelfen und Stockwerkswächter der 6. Ebene. Kato und Uchiyama liefern kontrastierende energetische gegenüber gedämpften Darbietungen für die Geschwister."
+        },
+        {
+          "name": "Cocytus & Sebas Tian",
+          "type": "JP: Kenta Miyake & Shigeru Chiba",
+          "description": "Hauptserie. Miyakes tiefe, imposante Stimme verankert den eisigen Krieger Cocytus, während Chibas besonnene Art Sebas die Gelassenheit eines Butlers verleiht, die zentral für die Arcs im Königreich ist."
+        },
+        {
+          "name": "Neia Baraja",
+          "type": "JP: Yoshino Aoyama | EN: Sarah Wiedenheft",
+          "description": "Der Sacred Kingdom Film. Neuzugang, der die Perspektive des Holy Kingdom als Hauptfigur verankert und Ainz' Eingreifen durch die Augen einer menschlichen Paladin verfolgt."
+        },
+        {
+          "name": "Remedios Custodio & Calca Bessarez",
+          "type": "JP: Hitomi Nabatame & Saori Hayami",
+          "description": "Der Sacred Kingdom Film. Nabatame spricht die oberste Paladin des Holy Kingdom, während Hayami die Heilige Königin verkörpert, deren Schicksal den zentralen Konflikt des Films vorantreibt."
+        }
+      ]
+    },
+    "overlordSoundtracks": {
+      "title": "Anime Overlord Openings, Endings, Insert-Songs und Film-Themes",
+      "intro": "Von OxT und MYTH & ROID bis hin zu Mayu Maeshima und speziellem In-World-Insert-Material hat Anime Overlord eine starke musikalische Identität über TV-Staffeln, Recap-Filme und den Holy Kingdom Film hinweg aufgebaut. Dieser Leitfaden ist danach geordnet, wo jeder Song in der Anime-Zeitlinie erscheint.",
+      "entries": [
+        {
+          "type": "Staffel 1 OP",
+          "title": "Clattanoia — OxT",
+          "description": "TV-Anime-Opening für Staffel 1. Hochenergetischer Hardrock, der den dunklen Action-Ton der Serie etabliert und den Aufstieg von Ainz zur Macht einleitet."
+        },
+        {
+          "type": "Staffel 1 ED",
+          "title": "L.L.L. — MYTH & ROID",
+          "description": "TV-Anime-Ending für Staffel 1. Ein langsameres, eindringliches Theme, das zu einem der bekanntesten Stücke im gesamten Overlord-Franchise wurde."
+        },
+        {
+          "type": "Recap-Film Theme",
+          "title": "Crazy Scary Holy Fantasy — MYTH & ROID",
+          "description": "Theme-Song für den Recap-Film The Undead King (Teil 1 der Kino-Kompilationen von 2017)."
+        },
+        {
+          "type": "Recap-Film Theme",
+          "title": "Laughter Slaughter — OxT",
+          "description": "Theme-Song für den Recap-Film The Dark Hero (Teil 2 der Kino-Kompilationen von 2017)."
+        },
+        {
+          "type": "Staffel 2 OP",
+          "title": "GO CRY GO — OxT",
+          "description": "TV-Anime-Opening für Staffel 2. Aggressive Energie, passend zur Echsenmenschen-Kampagne, den Sebas-Operationen und dem Jaldabaoth-Chaos von Staffel 2."
+        },
+        {
+          "type": "Staffel 2 ED",
+          "title": "HYDRA — MYTH & ROID",
+          "description": "TV-Anime-Ending für Staffel 2. Ein spannungsgeladener, atmosphärischer Track, der die politische Anspannung und moralische Komplexität der Handlungsstränge von Staffel 2 ergänzt."
+        },
+        {
+          "type": "Staffel 3 OP",
+          "title": "VORACITY — MYTH & ROID",
+          "description": "TV-Anime-Opening für Staffel 3. Betont die wachsende Macht von Nazarick und das eskalierende Ausmaß von Ainz' geopolitischer Kampagne."
+        },
+        {
+          "type": "Staffel 3 ED",
+          "title": "Silent Solitude — OxT",
+          "description": "TV-Anime-Ending für Staffel 3. Ein ruhigerer, melancholischer Kontrapunkt zu den groß angelegten Schlachten und der politischen Eskalation der Staffel."
+        },
+        {
+          "type": "Staffel 4 OP",
+          "title": "HOLLOW HUNGER — OxT",
+          "description": "TV-Anime-Opening für Staffel 4. Spiegelt den dunkleren, politisch komplexeren Ton der Sorcerer Kingdom Ära und des Re-Estize-Endspiels wider."
+        },
+        {
+          "type": "Staffel 4 ED",
+          "title": "No Man's Dawn — Mayu Maeshima",
+          "description": "TV-Anime-Ending für Staffel 4. Maeshimas markanter Gesangsstil verleiht der folgenreichsten Staffel der TV-Serie einen atmosphärischen Abschluss."
+        },
+        {
+          "type": "Staffel 4 Insert",
+          "title": "fallen — Staffel 4 Episode 13",
+          "description": "In-World-Insert-Song aus dem Finale von Staffel 4, der einem der wirkungsvollsten Abschlussmomente der Serie eine ungewöhnliche musikalische Dimension verleiht."
+        },
+        {
+          "type": "Sacred Kingdom Theme",
+          "title": "WHEELER-DEALER — OxT",
+          "description": "Offizieller Theme-Song für den Kinofilm Overlord: Sacred Kingdom (2024). Die Rückkehr von OxT für den Holy Kingdom Film passt zum gewaltigen Ausmaß der Leinwandadaption."
+        },
+        {
+          "type": "10. Jubiläum",
+          "title": "GREATEST GLORIA — OxT & MYTH & ROID",
+          "description": "Neuer Kollaborations-Song vom digitalen Jubiläumsalbum 2025, der zehn Jahre des Overlord-Anime mit einem gemeinsamen Auftritt der beiden Haupt-Theme-Künstler markiert."
+        }
+      ]
+    },
+    "overlordSeason5News": {
+      "title": "Anime Overlord Staffel 5 und Fortsetzungs-News-Tracker",
+      "intro": "Overlord bleibt als Anime-Franchise aktiv. Der beste Weg, zukünftige Fortsetzungen zu verfolgen, besteht darin, bestätigte offizielle Aktivitäten von Fan-Spekulationen zu trennen. Dieser Tracker konzentriert sich auf das, was die offiziellen Seiten und lizenzierten Stellen tatsächlich veröffentlicht haben.",
+      "steps": [
+        {
+          "title": "Aktueller Status: TV-Fortsetzung gelistet, aber kein Datum für Staffel 5 veröffentlicht",
+          "description": "Die offizielle Overlord-Anime-Seite enthält derzeit Hinweise auf eine bestätigte Fortsetzung für den TV-Anime, aber der offizielle News-Feed listet mit Stand Anfang 2026 keinen separaten Titel für Staffel 5, kein Ausstrahlungsfenster oder Premierendatum auf."
+        },
+        {
+          "title": "Sacred Kingdom ist die neueste große animierte Veröffentlichung",
+          "description": "Der Holy Kingdom Arc wurde als Overlord: Sacred Kingdom adaptiert und am 20. September 2024 veröffentlicht, was dem Franchise eine animierte Fortsetzung nach Staffel 4 bescherte. Er wurde im April 2025 für das Streaming auf Crunchyroll verfügbar."
+        },
+        {
+          "title": "Sacred Kingdom Blu-ray und DVD in Japan erschienen",
+          "description": "Die offizielle News-Seite kündigte die Blu-ray- und DVD-Edition des Films für den 26. März 2025 an, mit Bonusmaterialien wie einem World Guide Booklet und einer vollständigen Soundtrack-CD."
+        },
+        {
+          "title": "Digitales Album zum 10. Jubiläum zeigte anhaltende offizielle Unterstützung",
+          "description": "Das OVERLORD 10th Anniversary ULTIMATE SOUND ALBUM wurde zwischen dem 26. März und dem 28. April 2025 veröffentlicht, einschließlich des neuen Kollaborations-Songs GREATEST GLORIA und Kommentaren der Schöpfer, was die aktive Unterstützung der Marke nach dem Film demonstriert."
+        },
+        {
+          "title": "Offizielle Kanäle für News zu Anime Overlord Staffel 5",
+          "description": "Wenn ein zukünftiger Staffeltitel, ein Teaser-Visual, ein Release-Fenster oder eine Ankündigung des Stabs veröffentlicht wird, prüfen Sie zuerst die offizielle Overlord-Anime-News-Seite (overlord-anime.com/news.html) und den offiziellen X-Account @over_lord_anime."
         }
       ]
     }
@@ -791,177 +800,217 @@
   "faq": {
     "title": "Häufig gestellte",
     "titleHighlight": "Fragen",
-    "subtitle": "Alles, was du über Lucid Blocks wissen musst",
+    "subtitle": "Häufige Fragen zum Anime Overlord Wiki und der Overlord Anime-Serie",
     "questions": [
       {
-        "question": "Wie lade ich die Lucid Blocks Demo herunter?",
-        "answer": "Besuche die Steam Store Seite und klicke auf \"Demo herunterladen\". Die Demo ist kostenlos und erfordert 2,62 GiB zum Herunterladen, 4,88 GiB Festplattenspeicher."
+        "question": "Worum geht es in Anime Overlord?",
+        "answer": "Anime Overlord behandelt die Overlord Anime-Serie – ein Dark-Fantasy-Isekai, in dem Momonga, ein YGGDRASIL-Spieler, zu Ainz Ooal Gown wird und die Große Gruft von Nazarick in der Neuen Welt durch Eroberung und politische Intrigen anführt."
       },
       {
-        "question": "Kann ich Lucid Blocks solo spielen oder brauche ich Freunde?",
-        "answer": "Lucid Blocks unterstützt sowohl Solo-Spiel als auch Koop mit bis zu 6 Spielern. Solo ist schwieriger, aber möglich."
+        "question": "Was ist die richtige Overlord Anime-Reihenfolge?",
+        "answer": "Schauen Sie zuerst alle vier TV-Staffeln und ordnen Sie dann den Sacred Kingdom Film für die chronologische Reihenfolge zwischen Staffel 4, Episode 7 und Episode 8 ein. Die beiden Recap-Filme von 2017 sind optional und können übersprungen werden, ohne neue Story-Inhalte zu verpassen."
       },
       {
-        "question": "Was sind High-Gnome-Aufgaben in Lucid Blocks?",
-        "answer": "High-Gnome ist dein Boss, der Ziele wie \"zerstöre den Fernseher\", \"überflute die Toilette\" oder \"stehle bestimmte Gegenstände\" vergibt. Erledige sie für zusätzliche Belohnungen."
+        "question": "Wie viele Staffeln hat Overlord?",
+        "answer": "Overlord hat vier TV-Anime-Staffeln mit insgesamt 52 Episoden. Außerdem gibt es drei Filme: zwei Recap-Kompilationen von 2017 und den Kanon-Film Overlord: Sacred Kingdom von 2024."
       },
       {
-        "question": "Wie installiere ich Mods für Lucid Blocks?",
-        "answer": "Installiere BepInEx 5, starte das Spiel einmal und platziere dann Mod-DLLs im Ordner BepInEx/plugins/. Alle Spieler benötigen die gleichen Mods für den Mehrspieler."
+        "question": "Ist Overlord: Sacred Kingdom ein Recap-Film?",
+        "answer": "Nein. Sacred Kingdom ist ein Kanon-Story-Film, der den Holy Kingdom Arc der Light Novels adaptiert. Es ist kein Recap und passt chronologisch zwischen Overlord IV Episode 7 und 8."
       },
       {
-        "question": "Unterstützt Lucid Blocks Controller?",
-        "answer": "Ja! Verwende die In-Game-Einstellungen für grundlegende Controller-Unterstützung oder installiere den Controller Mod von Nexus Mods für vollständige UI-Navigation."
+        "question": "Wo kann ich den Overlord Anime schauen?",
+        "answer": "Alle vier TV-Staffeln und der Sacred Kingdom Film sind auf Crunchyroll verfügbar. Die Serie ist je nach Region auch über andere lizenzierte Streaming-Plattformen erhältlich."
       },
       {
-        "question": "Wie hoch ist die Spielerzahl für Lucid Blocks?",
-        "answer": "Stand Februar 2026 verzeichnet Lucid Blocks durchschnittlich 6.000+ gleichzeitige Spieler, mit einem Peak von 15.272 am 8. Februar 2026."
+        "question": "Wird es eine Overlord Staffel 5 geben?",
+        "answer": "Stand Anfang 2026 wurde keine Staffel 5 offiziell angekündigt. Die Light Novels haben Bände, die über das hinausgehen, was der Anime adaptiert hat, und eine offizielle Produktion wurde bisher nicht bestätigt."
       }
     ]
   },
   "cta": {
-    "title": "Bereit, mit dem Raub zu beginnen?",
-    "description": "Tritt der Lucid Blocks Community auf Discord bei, um Koop-Gruppen, Updates und Mod-Diskussionen zu erhalten!",
+    "title": "Bereit, in Overlord einzutauchen?",
+    "description": "Tritt der Overlord-Community auf Discord bei für Diskussionen, Fan-Theorien und die neuesten Nachrichten!",
     "joinCommunity": "Discord beitreten",
-    "joinGame": "Demo auf Steam herunterladen"
+    "joinGame": "Auf Crunchyroll ansehen"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Dein komplettes Ressourcenzentrum für Lucid Blocks Stealth-Raubzüge, Koop-Strategien, Mods und Community-Leitfäden.",
+    "title": "Anime Overlord Wiki",
+    "description": "Dein umfassendes Ressourcen-Hub für die Overlord Anime-Reihenfolge, Charaktere, Staffeln, Episoden, Filme und Lore-Guides.",
     "resources": "Ressourcen",
     "community": "Community",
     "legal": "Rechtliches",
     "discord": "Discord",
     "twitter": "X / Twitter",
-    "steamCommunity": "Steam Community",
-    "steamStore": "Steam Store",
+    "steamCommunity": "Reddit",
+    "steamStore": "Crunchyroll",
     "about": "Über uns",
     "privacy": "Datenschutzrichtlinie",
     "terms": "Nutzungsbedingungen",
     "copyrightNotice": "Urheberrecht",
-    "copyright": "© 2026 Lucid Blocks Wiki. Nicht mit den Entwicklern von Lucid Blocks verbunden.",
-    "disclaimer": "Inoffizielle von Fans erstellte Ressourcen-Website."
+    "copyright": "© 2026 Anime Overlord Wiki. Nicht verbunden mit den Schöpfern von Overlord.",
+    "disclaimer": "Inoffizielle, von Fans erstellte Ressourcen-Website."
   },
   "pages": {
-    "guides": {
-      "title": "Lucid Blocks Leitfäden",
-      "description": "Vollständige Gameplay-Leitfäden von den Grundlagen für Anfänger bis hin zu fortgeschrittenen Apotheosis-Strategien. Meistern Sie Überleben und Handwerk.",
-      "metaTitle": "Lucid Blocks Leitfäden – Strategien für Anfänger bis Fortgeschrittene",
-      "metaDescription": "Vollständige Lucid Blocks Leitfäden mit Tipps für Anfänger, dem Apotheosis-System, Überlebensstrategien und Expertentaktiken zur Beherrschung der surrealen Sandbox.",
-      "categoryLabel": "SPIEL-LEITFÄDEN",
-      "whatIs": "Was sind Leitfäden?",
-      "whatIsDescription": "Umfassende Leitfäden zu Spielmechaniken, Überlebensstrategien und dem Apotheosis-Handwerkssystem. Lernen Sie alles von den ersten Schritten bis hin zu fortgeschrittenen Techniken.",
-      "why": "Warum Leitfäden lesen?",
+    "guide": {
+      "title": "Overlord Anime-Guides",
+      "description": "Vollständige Guides für den Overlord Anime, einschließlich Erklärungen, Zusammenfassungen, Rezensionen und Elternratgeber.",
+      "metaTitle": "Overlord Anime-Guides – Erklärungen, Zusammenfassungen, Rezensionen & Elternratgeber",
+      "metaDescription": "Umfassende Overlord Anime-Guides, die die Serie erklären, vollständige Zusammenfassungen, Rezensionen und Elternratgeber für alle Staffeln bieten.",
+      "categoryLabel": "GUIDES",
+      "whatIs": "Was sind diese Guides?",
+      "whatIsDescription": "Detaillierte Guides, die die Overlord Anime-Serie erklären und die Handlung, Themen, Charaktere sowie Schlüsselereignisse abdecken. Perfekt für neue Zuschauer oder Fans, die auf den neuesten Stand kommen wollen.",
+      "why": "Warum diese Guides lesen?",
       "whySteps": {
-        "step1Title": "Kernmechaniken lernen",
-        "step1Description": "Verstehen Sie das Apotheosis-System und vermeiden Sie häufige Anfängerfehler",
-        "step2Title": "Schneller Fortschritt",
-        "step2Description": "Folgen Sie bewährten Pfaden, um in der surrealen Welt zu überleben und erfolgreich zu sein",
-        "step3Title": "Strategien meistern",
-        "step3Description": "Entwickeln Sie fortgeschrittene Taktiken für Erkundung und Handwerk"
+        "step1Title": "Die Geschichte verstehen",
+        "step1Description": "Erhalte eine klare Erklärung der Handlung und der Welt von Overlord",
+        "step2Title": "Schnell aufholen",
+        "step2Description": "Lies Zusammenfassungen und Episoden-Recaps, um dein Gedächtnis aufzufrischen",
+        "step3Title": "Informierte Entscheidungen treffen",
+        "step3Description": "Prüfe den Elternratgeber, um zu entscheiden, ob Overlord das Richtige für deine Familie ist"
       },
-      "featured": "Hervorgehoben & Essenziell",
-      "all": "Alle Leitfäden"
+      "featured": "Wichtige Guides",
+      "all": "Alle Guides"
     },
-    "crafting": {
-      "title": "Lucid Blocks Handwerk",
-      "description": "Meistern Sie das Apotheosis-Fusionssystem mit Essenz-Mechaniken, Rezepten und Handwerksstrategien für mächtige Gegenstände.",
-      "metaTitle": "Lucid Blocks Handwerk – Apotheosis-System & Rezepte",
-      "metaDescription": "Meistern Sie das Apotheosis-Handwerkssystem von Lucid Blocks. Lernen Sie Essenz-Mechaniken, Fusionsrezepte und Strategien zur Erstellung mächtiger Werkzeuge und Waffen.",
-      "categoryLabel": "HANDWERKSSYSTEM",
-      "whatIs": "Was ist Handwerk?",
-      "whatIsDescription": "Das Apotheosis-System ist eine einzigartige, essenzgesteuerte Fusionsmechanik, bei der Sie bis zu sechs Gegenstände kombinieren, um neue Rezepte zu entdecken. Keine festen Handwerksmenüs – Experimentieren ist der Schlüssel.",
-      "why": "Warum Handwerk meistern?",
+    "watch": {
+      "title": "Overlord Reihenfolge",
+      "description": "Vollständiger Guide, um alle Overlord Anime-Staffeln und Filme in der richtigen Reihenfolge zu sehen, einschließlich chronologischer und Veröffentlichungsreihenfolge.",
+      "metaTitle": "Overlord Anime-Reihenfolge – Chronologischer & Veröffentlichungs-Guide",
+      "metaDescription": "Finde die beste Overlord Anime-Reihenfolge mit Episodenanzahl, chronologischer Abfolge und Hinweisen dazu, wo der Film von 2024 hineinpasst.",
+      "categoryLabel": "REIHENFOLGE",
+      "whatIs": "Was ist die Reihenfolge?",
+      "whatIsDescription": "Ein strukturierter Guide, um alle Overlord Anime-Inhalte in der richtigen Sequenz zu sehen, der vier TV-Staffeln und den Sacred Kingdom Film abdeckt.",
+      "why": "Warum einer Reihenfolge folgen?",
       "whySteps": {
-        "step1Title": "Mächtige Gegenstände freischalten",
-        "step1Description": "Entdecken Sie essenzielle Werkzeuge, Waffen und Mobilitätsausrüstung durch Fusion",
-        "step2Title": "Essenzen verstehen",
-        "step2Description": "Lernen Sie, wie Gegenstandsessenzen kombiniert werden, um vorhersehbare Ergebnisse zu erzielen",
-        "step3Title": "Ressourcen optimieren",
-        "step3Description": "Nutzen Sie Verdünnungsmechaniken, um den Ertrag aus günstigen Materialien zu maximieren"
+        "step1Title": "Spoiler vermeiden",
+        "step1Description": "Schau in der richtigen Reihenfolge, um Story-Enthüllungen wie beabsichtigt zu erleben",
+        "step2Title": "Den Film richtig einordnen",
+        "step2Description": "Der Sacred Kingdom Film ist Kanon und passt in den Zeitstrahl von Staffel 4",
+        "step3Title": "Wissen, was man überspringen kann",
+        "step3Description": "Identifiziere Zusammenfassungsfilme im Vergleich zu Filmen mit neuen Inhalten, bevor du sie ansiehst"
       },
-      "featured": "Hervorgehoben & Essenziell",
-      "all": "Alle Handwerks-Leitfäden"
+      "featured": "Wichtige Empfehlungen",
+      "all": "Vollständige Reihenfolge"
     },
-    "items": {
-      "title": "Lucid Blocks Gegenstände",
-      "description": "Detaillierte Leitfäden zu Gegenständen, die Werkzeuge, Waffen, Mobilitätsausrüstung und Lagerlösungen mit Handwerksrezepten und Nutzungstipps abdecken.",
-      "metaTitle": "Lucid Blocks Gegenstände – Leitfaden für Werkzeuge, Waffen & Ausrüstung",
-      "metaDescription": "Vollständige Gegenstandsdatenbank für Lucid Blocks, einschließlich Werkzeugen, Waffen, Mobilitätsausrüstung und Lagerung. Lernen Sie, wie Sie jeden Gegenstand effektiv herstellen und einsetzen.",
-      "categoryLabel": "GEGENSTÄNDE & AUSRÜSTUNG",
-      "whatIs": "Was sind Gegenstände?",
-      "whatIsDescription": "Umfassende Leitfäden für Werkzeuge, Waffen, Mobilitätsausrüstung und funktionale Gegenstände. Lernen Sie Handwerksrezepte, Nutzungsstrategien und optimale Kombinationen kennen.",
-      "why": "Warum Gegenstands-Leitfäden lesen?",
+    "season": {
+      "title": "Overlord Anime-Staffeln",
+      "description": "Vollständige Aufschlüsselung aller Overlord Anime-Staffeln, einschließlich Neuigkeiten zu Staffel 5, aktuellem Staffel-Status und Updates zu neuen Staffeln.",
+      "metaTitle": "Overlord Anime-Staffeln – Staffel 5, aktueller Status & Neuigkeiten zu neuen Staffeln",
+      "metaDescription": "Alles über die Overlord Anime-Staffeln: Gibt es eine Staffel 5, was ist die aktuelle Staffel und die neuesten Ankündigungen zu neuen Staffeln.",
+      "categoryLabel": "STAFFELN",
+      "whatIs": "Was sind die Overlord-Staffeln?",
+      "whatIsDescription": "Overlord hat von 2015 bis 2022 vier TV-Anime-Staffeln ausgestrahlt, plus den Sacred Kingdom Film von 2024. Dieser Bereich deckt alle saisonalen Infos, den Verlängerungsstatus und Neuigkeiten zu Staffel 5 ab.",
+      "why": "Warum die Staffeln verfolgen?",
       "whySteps": {
-        "step1Title": "Handwerksrezepte lernen",
-        "step1Description": "Entdecken Sie, wie Sie essenzielle Werkzeuge und Waffen mit Apotheosis herstellen",
-        "step2Title": "Ausrüstung optimieren",
-        "step2Description": "Wählen Sie die besten Gegenstände für Ihren Spielstil und Ihre Fortschrittsstufe",
-        "step3Title": "Überleben verbessern",
-        "step3Description": "Rüsten Sie Mobilitätsausrüstung und Waffen aus, um durch die gefährliche Welt zu navigieren"
+        "step1Title": "Den Veröffentlichungszeitplan kennen",
+        "step1Description": "Verstehe, wann jede Staffel ausgestrahlt wurde und was sie abdeckte",
+        "step2Title": "Neuigkeiten zu Staffel 5 verfolgen",
+        "step2Description": "Bleib auf dem Laufenden, ob Overlord über Staffel 4 hinaus fortgesetzt wird",
+        "step3Title": "Dein Seherlebnis planen",
+        "step3Description": "Entscheide basierend auf den Arc-Zusammenfassungen, welche Staffeln du priorisierst"
       },
-      "featured": "Hervorgehoben & Essenziell",
-      "all": "Alle Gegenstände"
+      "featured": "Staffel-Highlights",
+      "all": "Alle Staffel-Artikel"
     },
-    "biomes": {
-      "title": "Lucid Blocks Biome",
-      "description": "Erkunden Sie Weltregionen, Umweltmerkmale, Ressourcenstandorte und Überlebenstipps für jedes Biom.",
-      "metaTitle": "Lucid Blocks Biome – Weltregionen & Erkundung",
-      "metaDescription": "Erkunden Sie die Biome von Lucid Blocks, einschließlich Tiamana Leylines, Fog Meadow und surrealen Regionen. Finden Sie Ressourcen, vermeiden Sie Gefahren und navigieren Sie durch die unendliche Welt.",
-      "categoryLabel": "WELTREGIONEN",
-      "whatIs": "Was sind Biome?",
-      "whatIsDescription": "Leitfäden zu verschiedenen Weltregionen, Umweltmerkmalen, Ressourcenverteilung und Gefahrenzonen. Lernen Sie, was Sie erwartet und wie Sie sich auf jedes Gebiet vorbereiten.",
-      "why": "Warum Biome erkunden?",
+    "movie": {
+      "title": "Overlord Anime-Filme",
+      "description": "Vollständiger Leitfaden zu allen Overlord Anime-Filmen, einschließlich des Veröffentlichungsdatums für den Sacred Kingdom Film, der Filmliste und Trailer-Details.",
+      "metaTitle": "Overlord Anime-Filme - Sacred Kingdom, Filmliste & Veröffentlichungstermine",
+      "metaDescription": "Leitfaden zu allen Overlord Anime-Filmen, einschließlich des Veröffentlichungsdatums für den Sacred Kingdom Film 2024, der vollständigen Filmliste und offizieller Trailer.",
+      "categoryLabel": "FILME",
+      "whatIs": "Was sind die Overlord Filme?",
+      "whatIsDescription": "Overlord hat mehrere Anime-Filme: zwei Zusammenfassungsfilme, die Staffel 1 und 2 rekapitulieren, und den Kinofilm Sacred Kingdom von 2024 mit neuen Kanon-Inhalten.",
+      "why": "Warum sollte man die Filme sehen?",
       "whySteps": {
-        "step1Title": "Ressourcen finden",
-        "step1Description": "Finden Sie seltene Materialien und Essenzen, die spezifisch für jede Region sind",
-        "step2Title": "Gefahren vermeiden",
-        "step2Description": "Verstehen Sie Umweltgefahren und feindselige Kreaturen",
-        "step3Title": "Erkundung planen",
-        "step3Description": "Bereiten Sie die richtigen Werkzeuge und Ausrüstung für jeden Biom-Typ vor"
+        "step1Title": "Erlebe den Kanon-Film",
+        "step1Description": "Sacred Kingdom ist vollständig Kanon und setzt die Hauptgeschichte fort",
+        "step2Title": "Veröffentlichungstermine finden",
+        "step2Description": "Erhalte genaue Veröffentlichungstermine für Sacred Kingdom und zukünftige Filme",
+        "step3Title": "Sieh dir die Trailer an",
+        "step3Description": "Schau dir jeden Film mit offiziellen Trailern an, bevor du dich entscheidest, ihn anzusehen"
       },
-      "featured": "Hervorgehoben & Essenziell",
-      "all": "Alle Biome"
+      "featured": "Vorgestellte Filme",
+      "all": "Alle Film-Artikel"
     },
-    "building": {
-      "title": "Lucid Blocks Bauen",
-      "description": "Meistern Sie persönliche Qualia-Dimensionen, Basisbau, Lagerverwaltung und kreative Bautechniken.",
-      "metaTitle": "Lucid Blocks Bauen – Qualia & Basisbau",
-      "metaDescription": "Meistern Sie das Bauen in Lucid Blocks mit persönlichen Qualia-Dimensionen, Basisbau, Lagerlösungen und kreativen Bautechniken.",
-      "categoryLabel": "BAUEN & BASEN",
-      "whatIs": "Was ist Bauen?",
-      "whatIsDescription": "Leitfäden zum persönlichen Qualia-Dimensionssystem, Basisbau, Lagerverwaltung und kreativem Bauen. Lernen Sie, Ihren sicheren Hafen in der surrealen Welt zu erschaffen.",
-      "why": "Warum Basen bauen?",
+    "characters": {
+      "title": "Overlord Anime-Charaktere",
+      "description": "Vollständiger Charakter-Leitfaden für die Anführer von Nazarick, die Floor Guardians, Figuren der Königreiche und die Besetzung von Sacred Kingdom.",
+      "metaTitle": "Overlord Anime-Charaktere - Ainz, Albedo, Shalltear & Floor Guardians",
+      "metaDescription": "Charakter-Leitfaden für den Overlord Anime, der Ainz Ooal Gown, Albedo, Shalltear, Sebas und alle Nazarick Wächter abdeckt.",
+      "categoryLabel": "CHARAKTERE",
+      "whatIs": "Wer sind die Charaktere?",
+      "whatIsDescription": "Overlord bietet eine große Auswahl an Charakteren, von den Floor Guardians von Nazarick bis hin zu Herrschern menschlicher Königreiche. Dieser Abschnitt behandelt die wichtigsten Charaktere, ihre Rollen und ihre Handlungsbögen.",
+      "why": "Warum Charakter-Leitfäden lesen?",
       "whySteps": {
-        "step1Title": "Sichere Räume schaffen",
-        "step1Description": "Errichten Sie sichere Basen für Lagerung und Handwerksarbeiten",
-        "step2Title": "Ressourcen verwalten",
-        "step2Description": "Organisieren Sie Materialien effizient mit Lagerlösungen",
-        "step3Title": "Qualia freischalten",
-        "step3Description": "Greifen Sie auf persönliche Taschendimensionen für ultimativen Komfort zu"
+        "step1Title": "Kenne die Fraktionen",
+        "step1Description": "Verstehe, welche Charaktere zu Nazarick, den menschlichen Königreichen oder dem Sacred Kingdom gehören",
+        "step2Title": "Charakterentwicklungen verfolgen",
+        "step2Description": "Verfolge die Geschichte jedes Charakters über alle vier Staffeln und den Film hinweg",
+        "step3Title": "Bereite dich auf den Film vor",
+        "step3Description": "Erfahre mehr über die neuen Sacred Kingdom Charaktere, bevor du den Film von 2024 siehst"
       },
-      "featured": "Hervorgehoben & Essenziell",
-      "all": "Alle Bau-Leitfäden"
+      "featured": "Wichtige Charaktere",
+      "all": "Alle Charaktere"
     },
-    "support": {
-      "title": "Lucid Blocks Support",
-      "description": "Technischer Support, Plattformkompatibilität, Leistungsoptimierung und Fehlerbehebung bei häufigen Problemen.",
-      "metaTitle": "Lucid Blocks Support – Technische Hilfe & Fehlerbehebungen",
-      "metaDescription": "Erhalten Sie technischen Support für Lucid Blocks, einschließlich Steam Deck-Einrichtung, Crash-Fixes, Leistungsoptimierung und Leitfäden zur Plattformkompatibilität.",
-      "categoryLabel": "TECHNISCHER SUPPORT",
-      "whatIs": "Was ist Support?",
-      "whatIsDescription": "Technische Leitfäden zu Plattformkompatibilität, Leistungsoptimierung, Crash-Fixes und häufigen Problemen. Erhalten Sie Hilfe zu Steam Deck, Multiplayer-Fragen und Einstellungen.",
-      "why": "Warum Support prüfen?",
+    "lore": {
+      "title": "Overlord Anime-Lore",
+      "description": "Tiefere Einblicke in das World-Building des Overlord Animes, einschließlich Nazarick, der Floor Guardians, YGGDRASIL, Ländern und dem Magiesystem.",
+      "metaTitle": "Overlord Anime-Lore - Nazarick, YGGDRASIL, Floor Guardians & Länder",
+      "metaDescription": "Erkunde die Overlord Anime-Lore über die Große Gruft von Nazarick, die Floor Guardians, die Ursprünge von YGGDRASIL, die Länder der Welt und Zaubersprüche.",
+      "categoryLabel": "LORE",
+      "whatIs": "Was ist die Lore?",
+      "whatIsDescription": "Overlord besitzt ein reichhaltiges World-Building, das sich über die virtuelle Spielewelt YGGDRASIL und die Neue Welt erstreckt, einschließlich der Großen Gruft von Nazarick, ihrer Floor Guardians, Magiesysteme und politischen Fraktionen.",
+      "why": "Warum die Lore erkunden?",
       "whySteps": {
-        "step1Title": "Technische Probleme beheben",
-        "step1Description": "Beheben Sie Abstürze, Leistungsprobleme und Kompatibilitätsprobleme",
-        "step2Title": "Leistung optimieren",
-        "step2Description": "Konfigurieren Sie Einstellungen für das beste Erlebnis auf Ihrer Plattform",
-        "step3Title": "Plattformkompatibilität",
-        "step3Description": "Erfahren Sie mehr über Steam Deck, Controller-Unterstützung und Systemanforderungen"
+        "step1Title": "YGGDRASIL verstehen",
+        "step1Description": "Erfahre, wie die Spielewelt, aus der Ainz kam, die aktuelle Geschichte geprägt hat",
+        "step2Title": "Erkunde Nazarick",
+        "step2Description": "Entdecke den Aufbau, die Ebenen und die Wächter der Großen Gruft von Nazarick",
+        "step3Title": "Die Welt kartografieren",
+        "step3Description": "Verstehe die Länder, Fraktionen und die politische Landschaft der Neuen Welt"
       },
-      "featured": "Hervorgehoben & Essenziell",
-      "all": "Alle Support-Artikel"
+      "featured": "Essenzielle Lore",
+      "all": "Alle Lore-Artikel"
+    },
+    "compare": {
+      "title": "Overlord Vergleiche & Alternativen",
+      "description": "Vergleiche den Overlord Anime mit ähnlichen Serien, Manga und Light Novels und finde die besten Anime wie Overlord.",
+      "metaTitle": "Anime wie Overlord - Vergleiche, Manga vs. Anime & Light Novel Leitfaden",
+      "metaDescription": "Finde Anime ähnlich wie Overlord, vergleiche die Unterschiede zwischen Manga und Anime und erkunde die Fortsetzung der Light Novel über den Anime hinaus.",
+      "categoryLabel": "VERGLEICHEN",
+      "whatIs": "Was sind diese Vergleiche?",
+      "whatIsDescription": "Leitfäden, die Overlord mit ähnlichen Isekai-Anime vergleichen, die Unterschiede zwischen Manga und Anime erklären und die Inhalte der Light Novel abdecken, die über die Anime-Adaption hinausgehen.",
+      "why": "Warum Vergleiche lesen?",
+      "whySteps": {
+        "step1Title": "Ähnliche Anime finden",
+        "step1Description": "Entdecke Isekai- und Dark-Fantasy-Anime, die für Overlord Fans empfohlen werden",
+        "step2Title": "Die Geschichte fortsetzen",
+        "step2Description": "Erfahre, wie du die Geschichte in Form von Manga oder Light Novels weiterlesen kannst",
+        "step3Title": "Unterschiede verstehen",
+        "step3Description": "Erfahre, was der Anime im Vergleich zum Quellmaterial geändert oder übersprungen hat"
+      },
+      "featured": "Top-Empfehlungen",
+      "all": "Alle Vergleiche"
+    },
+    "media": {
+      "title": "Overlord Anime Medien",
+      "description": "Berichterstattung über Overlord Anime Medien, einschließlich Streaming-Plattformen, Animationsstudio, Opening- und Ending-Themes sowie MyAnimeList-Bewertungen.",
+      "metaTitle": "Overlord Anime auf Netflix, Studio, Opening & Ending Themes",
+      "metaDescription": "Finden Sie den Overlord Anime auf Netflix und anderen Streaming-Plattformen, erfahren Sie mehr über das Animationsstudio Madhouse und entdecken Sie Opening- und Ending-Themes.",
+      "categoryLabel": "MEDIEN",
+      "whatIs": "Welche Medien-Infos gibt es hier?",
+      "whatIsDescription": "Informationen darüber, wo man Overlord sehen kann, welches Animationsstudio ihn produziert hat, seine Bewertungen auf MyAnimeList und seine ikonischen Opening- und Ending-Songs.",
+      "why": "Warum Medien-Infos prüfen?",
+      "whySteps": {
+        "step1Title": "Wo man es sehen kann",
+        "step1Description": "Entdecken Sie, welche Streaming-Plattformen Overlord in Ihrer Region anbieten",
+        "step2Title": "Erfahren Sie mehr über das Studio",
+        "step2Description": "Erkunden Sie die Arbeit von Madhouse an Overlord und die Animationsqualität",
+        "step3Title": "Entdecken Sie die Musik",
+        "step3Description": "Finden und genießen Sie die Opening- und Ending-Themes jeder Overlord Staffel"
+      },
+      "featured": "Streaming & Studio",
+      "all": "Alle Medienartikel"
     }
   }
 }

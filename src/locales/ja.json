@@ -1,13 +1,13 @@
 {
   "seo": {
     "home": {
-      "title": "Lucid Blocks Wiki - クラフト、バイオーム、実績",
-      "description": "Lucid Blocks Wikiでは、Steamで展開される超現実的なボクセルサンドボックスアドベンチャーのクラフト、バイオーム、クリーチャー、アイテム、実績、エンディング、サバイバルのヒントについて解説しています。",
-      "keywords": "Lucid Blocks, Lucid Blocks wiki, クラフト, バイオーム, 実績, サバイバル, Steam",
-      "ogTitle": "Lucid Blocks Wiki - クラフト、バイオーム、実績",
-      "ogDescription": "Lucid Blocks Wikiでは、Steamで展開される超現実的なボクセルサンドボックスアドベンチャーのクラフト、バイオーム、クリーチャー、アイテム、実績、エンディング、サバイバルのヒントについて解説しています。",
-      "twitterTitle": "Lucid Blocks Wiki - クラフト、バイオーム、実績",
-      "twitterDescription": "Lucid Blocks Wikiでは、Steamの超現実的なボクセルサンドボックスにおけるクラフト、バイオーム、クリーチャー、アイテム、実績、サバイバルのヒントを網羅しています。"
+      "title": "Overlord Anime Wiki - 視聴順、キャラクター、シーズン",
+      "description": "Overlord Anime Wikiでは、キャラクター、視聴順、シーズン、エピソード、映画、主要な設定を網羅しており、新規視聴者や復帰ファンがすぐに内容を把握できるようサポートします。",
+      "keywords": "Overlord anime, ダークファンタジー 異世界, Ainz, Albedo, 視聴順, シーズン, エピソード, Sacred Kingdom",
+      "ogTitle": "Overlord Anime Wiki - 視聴順、キャラクター、シーズン",
+      "ogDescription": "Overlord Anime Wikiでは、キャラクター、視聴順、シーズン、エピソード、映画、主要な設定を網羅しており、新規視聴者や復帰ファンがすぐに内容を把握できるようサポートします。",
+      "twitterTitle": "Overlord Anime Wiki - 視聴順、キャラクター、シーズン",
+      "twitterDescription": "Overlord Anime Wikiでは、このダークファンタジー異世界アニメの視聴順、キャラクター、シーズン、エピソード、映画、設定を解説しています。"
     }
   },
   "nav": {
@@ -16,7 +16,7 @@
     "season": "シーズン",
     "movie": "映画",
     "characters": "キャラクター",
-    "lore": "世界観",
+    "lore": "設定・世界観",
     "compare": "比較",
     "media": "メディア"
   },
@@ -35,721 +35,764 @@
     "readMore": "続きを読む"
   },
   "hero": {
-    "badge": "__PROTECTED_c0b0161c__ ボクセル・サバイバル・サンドボックス",
-    "title": "Lucid Blocks Wiki",
-    "description": "夢のようなバイオームを探索し、Apotheosisでアイテムを融合、自由に建築を楽しみましょう。Steamで繰り広げられるこのシュールなオープンワールド・サンドボックスで、奇妙なクリーチャーから生き延びてください。",
-    "getFreeCodesCTA": "クラフトガイドを見る",
-    "playOnSteamCTA": "Steamでプレイ",
+    "badge": "ダークファンタジー異世界アニメ",
+    "title": "Overlord Anime Wiki",
+    "description": "YGGDRASILの終了後、MomongaがAinz Ooal Gownとなり、征服、政治、そしてSacred Kingdom編を通じてNazarickを率いるダークファンタジー異世界物語。",
+    "getFreeCodesCTA": "視聴順を見る",
+    "playOnSteamCTA": "Crunchyrollで視聴",
     "stats": {
       "stat1": {
-        "value": "1,325",
-        "label": "オンラインプレイヤー"
+        "value": "2015",
+        "label": "初放送"
       },
       "stat2": {
-        "value": "1,986",
-        "label": "最大同時接続数"
+        "value": "4",
+        "label": "TVシリーズ"
       },
       "stat3": {
-        "value": "97%",
-        "label": "好評"
+        "value": "52",
+        "label": "エピソード数"
       },
       "stat4": {
-        "value": "2026年3月12日",
-        "label": "リリース日"
+        "value": "3",
+        "label": "劇場版"
       }
     }
   },
   "gameFeature": {
-    "title": "Lucid Blocks ゲームプレイ",
-    "description": "超現実的なバイオームを探索し、Apotheosis でアイテムを融合。Steam で、奇妙なクリーチャーから生き延びる夢のようなボクセルサンドボックスを体験しましょう。"
+    "title": "Overlord アニメ概要",
+    "description": "MomongaがAinz Ooal Gownとなり、征服、政治的策謀、そしてHoly Kingdomキャンペーンを通じてNazarickを率いるダークファンタジー異世界物語。"
   },
   "tools": {
-    "title": "Lucid Blocks",
-    "titleHighlight": "リソース",
-    "subtitle": "Lucid Blocksでの探索、クラフト、生存に必要なすべての情報",
+    "title": "Anime Overlord",
+    "titleHighlight": "Wiki",
+    "subtitle": "Overlord アニメシリーズの完全ガイド — 視聴順、キャラクター、設定、その他すべてを網羅",
     "cards": [
       {
-        "icon": "BookOpen",
-        "title": "初心者ガイド",
-        "description": "最初のステップ、探索、序盤の進め方"
+        "icon": "ListOrdered",
+        "title": "Anime Overlord 視聴順",
+        "description": "全シーズンと映画の完全な視聴順序"
       },
       {
-        "icon": "Sparkles",
-        "title": "Apotheosis クラフト",
-        "description": "フリーフォーム・フュージョンシステムと序盤のレシピ"
+        "icon": "Users",
+        "title": "Anime Overlord キャラクター",
+        "description": "Nazarickの守護者、王国の重要人物、映画のキャスト"
       },
       {
-        "icon": "Hammer",
-        "title": "ツールと武器",
-        "description": "フロストピック、アズラエル、__PROTECTED_6a765cb2__、その他"
+        "icon": "List",
+        "title": "Anime Overlord エピソードガイド",
+        "description": "全52話をシーズンごとに整理し、あらすじと共に紹介"
       },
       {
-        "icon": "Package",
-        "title": "ストレージとインベントリ",
-        "description": "キャッシュキューブ、キャビネット、クオリアストレージ"
+        "icon": "Film",
+        "title": "Overlord: Sacred Kingdom",
+        "description": "2024年公開の正史映画が物語のどこに位置するか"
       },
       {
-        "icon": "Home",
-        "title": "クオリアと拠点建築",
-        "description": "パーソナルクオリアと拠点のセットアップ"
-      },
-      {
-        "icon": "Eye",
-        "title": "ワールドエリア",
-        "description": "Fog Meadow、エッセンスの沼地、その他"
-      },
-      {
-        "icon": "AlertTriangle",
-        "title": "クリーチャーと敵",
-        "description": "マネキン、クモ、そして生き残る方法"
-      },
-      {
-        "icon": "ArrowRight",
-        "title": "移動用装備",
-        "description": "__PROTECTED_6a765cb2__、グライダーグローブ、__PROTECTED_163b9bec__"
-      },
-      {
-        "icon": "TrendingUp",
-        "title": "農業と成長",
-        "description": "種の進行と素材集め"
-      },
-      {
-        "icon": "Star",
-        "title": "序盤のおすすめアンロック",
-        "description": "プレイ開始1時間で優先すべきアップグレード"
-      },
-      {
-        "icon": "ClipboardCheck",
-        "title": "実績トラッカー",
-        "description": "全19個のSteamの実績と解除条件"
-      },
-      {
-        "icon": "MessageCircle",
-        "title": "シングルプレイヤーFAQ",
-        "description": "プラットフォーム、価格、協力プレイ、言語に関する質問"
-      },
-      {
-        "icon": "Gamepad2",
-        "title": "Steam Deckとコントローラー",
-        "description": "Proton 9.0.4のセットアップとコントローラーのヒント"
-      },
-      {
-        "icon": "Settings",
-        "title": "設定とアクセシビリティ",
-        "description": "手の非表示、__PROTECTED_38625270__、表示オプション"
-      },
-      {
-        "icon": "Clock",
-        "title": "アップデートとパッチノート",
-        "description": "最近の修正とロードマップ"
+        "icon": "Crown",
+        "title": "Anime Overlord: Ainz Ooal Gown",
+        "description": "魔導王にして元YGGDRASILプレイヤーのMomonga"
       },
       {
         "icon": "Shield",
-        "title": "クラッシュ修正",
-        "description": "__PROTECTED_38625270__の確認、ログのパス、バグ報告"
+        "title": "Anime Overlord: Albedo ガイド",
+        "description": "守護者統括の役割、能力、そして物語における重要性"
+      },
+      {
+        "icon": "Swords",
+        "title": "Anime Overlord: Shalltear ガイド",
+        "description": "吸血鬼の階層守護者と第1期の対立エピソード"
+      },
+      {
+        "icon": "Trophy",
+        "title": "Anime Overlord 階層守護者ランキング",
+        "description": "役割と戦闘の専門性による全階層守護者の紹介"
+      },
+      {
+        "icon": "Landmark",
+        "title": "Anime Overlord: Nazarick ガイド",
+        "description": "ナザリック地下大墳墓の各階層構造、派閥、レイアウト"
+      },
+      {
+        "icon": "BookOpen",
+        "title": "Anime Overlord ストーリーアーク",
+        "description": "主要なエピソードをシーズンと話数ごとに分類"
+      },
+      {
+        "icon": "Clock",
+        "title": "Anime Overlord 年表",
+        "description": "すべての主要な出来事とエピソードの時系列順"
+      },
+      {
+        "icon": "BookMarked",
+        "title": "Anime Overlord ライトノベルガイド",
+        "description": "読む順番とアニメの続きをどこから読むべきか"
+      },
+      {
+        "icon": "Scale",
+        "title": "Anime Overlord: アニメ vs 原作小説",
+        "description": "主な違いとアニメ化で省略された内容"
+      },
+      {
+        "icon": "Mic2",
+        "title": "Anime Overlord 声優キャスト",
+        "description": "全シーズンと映画の日本語および英語キャスト"
+      },
+      {
+        "icon": "Music",
+        "title": "Anime Overlord サウンドトラック",
+        "description": "すべてのOP、ED、挿入歌、映画主題歌"
+      },
+      {
+        "icon": "Radio",
+        "title": "Anime Overlord 第5期ニュース",
+        "description": "公式発表と原作の進行状況"
       }
     ]
   },
   "modules": {
-    "lucidBlocksBeginnerGuide": {
-      "title": "Lucid Blocks 初心者ガイド",
-      "displayType": "steps",
-      "intro": "まずは探索、融合、そして進行がどのように繋がっているかを学ぶことから始めましょう。Lucid Blocks では試行錯誤が報われます。序盤の進行は、珍しい素材を集め、組み合わせを試し、自分だけのクオリアを解放することから始まります。",
+    "overlordWatchOrder": {
+      "title": "Anime Overlord 視聴順",
+      "intro": "全4シーズンのTVシリーズから視聴を開始し、Sacred Kingdom を Season 4 の第7話と第8話の間に配置してください。2017年の2つの総集編映画は任意であり、新しいストーリーを見逃すことなくスキップ可能です。",
       "steps": [
         {
-          "title": "本格的に動く前に探索する",
-          "description": "外へ歩き出し、一般的なブロックを採掘し、見つけた奇妙なドロップアイテムはすべて取っておきましょう。序盤の進行は、決まったクエストをこなすことよりも、素材が何に変化するかを発見することに重点が置かれています。"
+          "title": "Overlord Season 1 — ここから開始",
+          "description": "Momonga、Nazarick、カルネ村、モモンの正体、そして Shalltear との葛藤を描きます。全13話、2015年7月〜9月放送。"
         },
         {
-          "title": "早めに自分専用のクオリアを解放する",
-          "description": "自分専用のクオリアは、序盤で最も重要なマイルストーンの一つです。体制を立て直し、拠点を構築するための信頼できる場所となります。"
+          "title": "Overlord 不死者の王（任意・総集編）",
+          "description": "Season 1 前半部分の劇場総集編です。映画形式で楽しみたい場合のみ視聴してください。本編シリーズの代わりにはなりません。"
         },
         {
-          "title": "序盤の素早い進行にオスミウムを活用する",
-          "description": "オスミウムは序盤で最も役立つ素材の一つです。オスミウムと棒を組み合わせて、素早い採掘が可能な「フロストピック」を作るのが人気の序盤ルートです。"
+          "title": "Overlord 漆黒の戦士（任意・総集編）",
+          "description": "Season 1 の内容を網羅した総集編映画の第2弾。基本ストーリーを把握した後のボーナス映像として扱うのが最適です。"
         },
         {
-          "title": "優れた融合を記録する",
-          "description": "成功した組み合わせはジャーナルに記録しておきましょう。Lucid Blocks には膨大な融合パターンがあるため、有用な結果を書き留めておくことで大幅な時間の節約になります。"
+          "title": "Overlord II — 物語の続き",
+          "description": "リザードマン編、王都でのセバス、そして Nazarick と人間世界の衝突の激化を描きます。第14話〜第26話。"
+        },
+        {
+          "title": "Overlord III — 帝国と戦争",
+          "description": "帝国との同盟、ワーカーの侵入、そしてカッツェ平原での決戦を網羅。第27話〜第39話、2018年7月〜10月放送。"
+        },
+        {
+          "title": "Overlord IV 第1話〜第7話 — 映画の前に",
+          "description": "まずは Sorcerer Kingdom 建国編とドワーフの王国編を視聴してください。映画を正しい位置で見るために、第7話（通算第46話）で一度止めてください。"
+        },
+        {
+          "title": "Overlord: Sacred Kingdom — 正史映画",
+          "description": "これは総集編ではなく、正史のストーリーを描く映画です。Holy Kingdom 編を映像化しており、時系列では Overlord IV の第7話と第8話の間に位置します。2024年9月公開、2025年4月から Crunchyroll で配信。"
+        },
+        {
+          "title": "Overlord IV 第8話〜第13話 — Season 4 を完結させる",
+          "description": "TVシリーズに戻り、リ・エスティーゼ王国の終焉と Season 4 のクライマックスを視聴します。第47話〜第52話。"
         }
       ],
       "quickTips": [
-        "Apotheosis には固定のレシピリストは必要ありません。",
-        "無限に生成される世界では、より高く、あるいはより深く移動することで、全く異なる素材が見つかることがあります。",
-        "移動ツールやユーティリティ装備を解放し始めると、プレイの快適さが劇的に向上します。",
-        "序盤に迷うのは普通のことですが、最初の優れた融合が成功すれば、便利なツール、ストレージ、移動手段が次々と手に入るようになります。"
+        "2017年の2つの映画（不死者の王、漆黒の戦士）は Season 1 の総集編に過ぎません。純粋にストーリーを進めたい場合はスキップしてください。",
+        "Sacred Kingdom は正史のストーリー映画であり、総集編ではありません。新作コンテンツとして扱い、正しい時系列で視聴する必要があります。",
+        "先に Season 4 を最後まで見終えてから Sacred Kingdom を視聴することも可能ですが、Ainz Ooal Gown の動機が少し前後して見える点に注意してください。",
+        "TVシリーズ全4シーズンと Sacred Kingdom は Crunchyroll で視聴可能です。"
       ]
     },
-    "lucidBlocksApotheosisCrafting": {
-      "title": "Lucid Blocks Apotheosis クラフト",
-      "displayType": "cards",
-      "intro": "Apotheosis は、このゲームの制限のない融合システムです。従来のレシピ本を暗記する代わりに、素材を組み合わせ、結果を観察し、時間をかけて自分だけのクラフト知識を築き上げていきます。",
+    "overlordCharacters": {
+      "title": "Anime Overlord 主要キャラクター",
+      "intro": "これらは Nazarick の主要メンバー、各国の重要人物、および映画のキャストです。各キャラクターがどの勢力に属しているかを知ることで、ストーリー展開が非常に追いやすくなります。",
       "cards": [
         {
-          "name": "フリーフォームな融合",
-          "description": "Apotheosis では、固定のレシピリストに従うことなく、さまざまなアイテムを融合させることができます。"
+          "name": "Ainz Ooal Gown",
+          "description": "元 Momonga であり、現在は Sorcerer Kingdom の統治者。あらゆる主要な政治的・軍事的エピソードは、彼の決断と戦略を中心に展開します。"
         },
         {
-          "name": "複数の有用な結果",
-          "description": "素材によって、特定の結果に繋がりやすい傾向があります。コミュニティの発見によれば、似たような投入素材からでも、実用的なツール、ストレージ、あるいは戦闘用のアップグレードを作成可能です。"
+          "name": "Albedo",
+          "description": "守護者統括であり、Ainz Ooal Gown の最高管理責任者。Nazarick の内部指揮構造を管理し、Ainz Ooal Gown に対して絶対的な忠誠を誓っています。"
         },
         {
-          "name": "ジャーナル優先のクラフト",
-          "description": "Apotheosis を学ぶ最良の方法は、成功した組み合わせを記録することです。ジャーナルはすぐにあなた専用のクラフトリファレンスになります。"
+          "name": "Demiurge",
+          "description": "第七階層の階層守護者であり、Nazarick の戦略的知恵袋。シリーズの多くの大規模な計画の背後にいる影の立役者です。"
         },
         {
-          "name": "コミュニティ検証済みの序盤の融合",
-          "description": "序盤の代表例としては、オスミウム＋棒で「フロストピック」、棒＋タングステンの付属肢で「アズラエル」、アズラエル＋磁鉄鉱で「触手レイピア」などが挙げられます。"
+          "name": "Shalltear Bloodfallen",
+          "description": "第一から第三階層の守護者。アニメ初期の最も印象的な紛争の一つを引き起こし、Nazarick 最強の戦士の一人であり続けています。"
+        },
+        {
+          "name": "Neia Baraja",
+          "description": "映画 Sacred Kingdom における聖騎士従者であり、中心的な視点キャラクター。その重要な役割から、映画関連で最も検索されるキャラクターの一人です。"
+        },
+        {
+          "name": "Remedios Custodio",
+          "description": "Holy Kingdom 聖騎士団の団長。映画 Sacred Kingdom において、ヤルダバオトに対する決死の抵抗軍を率います。"
+        },
+        {
+          "name": "Renner",
+          "description": "リ・エスティーゼ王国の王女。隠された知性と目的は、物語後半の政治的展開、特に王国の崩壊において重要性を増していきます。"
+        },
+        {
+          "name": "Climb",
+          "description": "Renner に忠誠を誓う衛兵。人間側の視点から物語を最も身近に感じさせる存在であり、Renner の運命と密接に結びついています。"
         }
       ],
       "milestones": [
-        "アイテムを融合させる",
-        "害獣を融合させる",
-        "神聖なアーティファクトを融合させる"
+        "Nazarick リーダー",
+        "王国キャラクター",
+        "Sacred Kingdom キャスト"
       ]
     },
-    "lucidBlocksToolsAndWeapons": {
-      "title": "Lucid Blocks ツールと武器",
-      "displayType": "itemCards",
-      "intro": "Lucid Blocks では、公式のユーティリティ装備とコミュニティが発見した序盤の武器が混在しています。最適なセットアップは通常、素早い採掘、安全な移動、そして信頼できる戦闘手段を組み合わせたものです。",
+    "overlordEpisodeGuide": {
+      "title": "Anime Overlord シーズン別エピソードガイド",
+      "intro": "Overlord は各13話のTVシリーズが4シーズンあり、計52話で構成されています。以下に各ブロックのエピソード範囲、放送時期、および主なストーリーの焦点をまとめました。",
       "items": [
         {
-          "name": "フロストピック",
-          "type": "採掘ツール",
-          "description": "オスミウムと棒から作られる、高速で安価な序盤用ピッケル。プレイヤーはこれを使って序盤の素材集めを加速させます。"
+          "name": "Overlord Season 1",
+          "type": "第1話〜第13話",
+          "description": "Momonga が Ainz Ooal Gown となり、Nazarick が異世界へ転移。カルネ村を救い、モモンとしての地位を確立し、Shalltear との決戦でシーズンを締めくくります。2015年7月〜9月放送。"
         },
         {
-          "name": "アズラエル",
-          "type": "初期武器",
-          "description": "棒とタングステンの付属肢からクラフトできる、実用的な序盤の武器ルートです。"
+          "name": "Overlord II",
+          "type": "第14話〜第26話",
+          "description": "リザードマン編、王都でのセバス、そして Nazarick、冒険者、人間勢力の間の対立が拡大します。2018年1月〜4月放送。"
         },
         {
-          "name": "触手レイピア",
-          "type": "強化武器",
-          "description": "アズラエルと磁鉄鉱を組み合わせて作る強力な発展武器。プレイヤー間で共有されている、序盤から中盤にかけて最も有用な戦闘ルートの一つです。"
+          "name": "Overlord III",
+          "type": "第27話〜第39話",
+          "description": "帝国とワーカーの侵入、カルネ村の大きな進展、そして異世界の勢力図を塗り替えるカッツェ平原での大虐殺が描かれます。2018年7月〜10月放送。"
         },
         {
-          "name": "__PROTECTED_6a765cb2__",
-          "type": "移動ツール",
-          "description": "移動能力と垂直方向の探索を大幅に向上させる公式の移動アイテムです。"
-        },
-        {
-          "name": "__PROTECTED_163b9bec__",
-          "type": "移動ツール",
-          "description": "より安全かつ効率的に距離を移動するのに役立つ公式の移動アイテムです。"
-        },
-        {
-          "name": "ボールワンド",
-          "type": "ユーティリティ武器",
-          "description": "戦闘やパズルの選択肢を広げる公式の遠距離ユーティリティアイテムです。"
-        },
-        {
-          "name": "スキューバダイビングギア",
-          "type": "移動装備",
-          "description": "通常は探索が困難な場所へ到達するための公式ユーティリティアイテムです。"
-        },
-        {
-          "name": "爆発物",
-          "type": "ユーティリティ・ダメージ",
-          "description": "中核となるツールセットの一部として公式に推奨されており、脅威や障害物を突破するのに役立ちます。"
+          "name": "Overlord IV",
+          "type": "第40話〜第52話",
+          "description": "外交を通じた Sorcerer Kingdom 時代、ドワーフの王国編、そしてリ・エスティーゼ王国の最終的な滅亡。時系列では、Sacred Kingdom は第46話と第47話の間に位置します。2022年7月〜9月放送。"
         }
       ]
     },
-    "lucidBlocksStorageAndInventory": {
-      "title": "Lucid Blocks ストレージとインベントリ",
-      "displayType": "solutionCards",
-      "intro": "Lucid Blocks では早い段階からインベントリが圧迫されるため、ストレージの構築を優先目標にすべきです。実際のプレイヤーによって検証されたいくつかの解決策がすでに確立されています。",
+    "overlordSacredKingdom": {
+      "title": "Anime Overlord: Sacred Kingdom ガイド",
+      "intro": "Sacred Kingdom は、TVシリーズの総集編ではなく、正史の新しい主要ストーリーを描く唯一の Overlord 映画です。包囲された Holy Kingdom に焦点を当てることで、Nazarick やリ・エスティーゼ王国を超えて世界観を広げています。",
       "solutions": [
         {
-          "name": "キャッシュキューブ",
-          "role": "チェスト型ストレージ",
-          "description": "キャッシュキューブは最も初期に利用可能な実用的なストレージであり、プレイヤーの間ではゲーム内の主要なチェスト型コンテナとして扱われています。"
+          "name": "視聴順における位置付け",
+          "role": "正史の配置",
+          "description": "時系列順では、この映画を Overlord IV の第7話の後、第8話の前に配置してください。日本では2024年9月20日に公開され、2025年4月から Crunchyroll で配信が開始されました。"
         },
         {
-          "name": "キャビネット",
-          "role": "簡易拠点ストレージ",
-          "description": "キャビネットも確認されているストレージの選択肢です。共有されている序盤のレシピでは、カットウッド1つと紐1つを使用します。"
+          "name": "基本設定",
+          "role": "ストーリー概要",
+          "description": "ローブル Holy Kingdom は、ヤルダバオトと亜人連合によって崩壊の危機に直面します。Remedios Custodio と Neia Baraja は、Ainz Ooal Gown と Sorcerer Kingdom に助けを求めるために旅立ちます。"
         },
         {
-          "name": "個人用クオリア",
-          "role": "長期ストレージハブ",
-          "description": "解放されると、個人用クオリアは素材を整理し、落ち着いてクラフトを行い、拠点を拡張するための自然な拠点となります。"
+          "name": "主要な新キャラクター",
+          "role": "映画キャスト",
+          "description": "Neia Baraja（視点キャラクター）、Remedios Custodio（聖騎士団長）、カルカ・ベサーレス（聖王女）、ケラルト・カストディオ（最高神官）、そして出番が増えたシズ・デルタ。"
         },
         {
-          "name": "ジャーナルによる追跡",
-          "role": "インベントリの効率化",
-          "description": "有用な組み合わせをジャーナルに記録することで、素材の無駄を減らし、インベントリ管理を大幅に楽にすることができます。"
+          "name": "なぜ重要なのか",
+          "role": "物語上の意義",
+          "description": "Holy Kingdom 編を完全に映像化しており、リ・エスティーゼ王国以外への Ainz Ooal Gown の影響力に文脈を与えます。Season 4 以降の視聴ガイドを求めるファンにとって不可欠な内容です。"
         }
       ],
       "managementTips": [
-        "レアなドロップ品を溜め込む前に、信頼できるストレージを一つ確保することを優先しましょう。",
-        "個人用クオリアが利用可能になったら、そこを中心に構築を進めましょう。",
-        "クラフト素材、戦闘ツール、移動装備を分けて保管することで、アップグレードの計画が立てやすくなります。",
-        "ジャーナルを単なるクラフトの発見用ではなく、インベントリ管理の一部として活用しましょう。"
+        "この映画は正史のストーリーであり、総集編ではありません。Holy Kingdom 編のファンには必須の内容です。",
+        "Holy Kingdom の物語の完結編として、シリーズ全編を視聴した後に独立して見ることも可能です。",
+        "TVシリーズ本編とともに Crunchyroll で配信されています。",
+        "Neia Baraja は、映画化によって導入されたキャラクターの中で最もファンに愛される一人となりました。"
       ]
     },
-    "lucidBlocksQualiaAndBaseBuilding": {
-      "title": "Lucid Blocks クオリアと拠点建築",
-      "displayType": "cards",
-      "intro": "クオリアは Lucid Blocks における最も重要な進行マイルストーンの一つです。体制を整え、素材を保管し、探索の成果を徐々に本格的な拠点へと変えていくための個人空間を提供します。",
+    "overlordAinz": {
+      "title": "Anime Overlord: Ainz Ooal Gown",
+      "intro": "Ainz Ooal GownはOverlordの顔であり、かつてのプレイヤーMomongaであり、現在はNazarickの魔導王です。彼の正体、称号、魔法、そしてアニメや映画『Sacred Kingdom』を通じたストーリーアークは、シリーズのあらゆる主要な出来事を決定づけています。",
       "cards": [
         {
-          "name": "個人用クオリア",
-          "description": "クオリアの解放は序盤のマイルストーンであり、広い世界を探索する中で戻ってくるための信頼できる場所となります。"
+          "icon": "User",
+          "name": "基本的な正体",
+          "description": "かつてはMomongaと呼ばれ、現実世界では鈴木悟として知られる熱心なYGGDRASILプレイヤーでした。サーバー終了時までログインし続け、異世界で不死者のOverlord Ainz Ooal Gownとして目覚めます。"
         },
         {
-          "name": "ストレージ優先の建築",
-          "description": "多くのプレイヤーは、整理されたクラフトスペースや建築スペースを持つ大きな拠点にする前に、まずクオリアをストレージハブとして使い始めます。"
+          "icon": "Crown",
+          "name": "称号と表の顔",
+          "description": "Ainzは、至高の御方、魔導王、闇の王、漆黒の英雄モモンなど、複数の称号を持っています。それぞれの顔は、異なるエピソードにおいて明確な政治的または戦略的な役割を果たします。"
         },
         {
-          "name": "クリエイティブな自宅建築",
-          "description": "Lucid Blocks はクリエイティブな建築をサポートしており、プレイヤーはすでにクオリアの空間を利用して家やパーソナライズされたレイアウトを作成しています。"
+          "icon": "Eye",
+          "name": "種族と外見",
+          "description": "彼は不死者のOverlordとして登場します。金と紫の縁取りがある黒い学術衣を纏った骸骨の姿で、肋骨の下には赤い宝玉が浮いています。かつての種族は人間でした。"
         },
         {
-          "name": "進行のハブ",
-          "description": "強力な拠点は、探索で得た戦利品、クラフト素材、種、ツール、移動装備を分類するのに役立ち、次のアップグレード計画を容易にします。"
+          "icon": "Zap",
+          "name": "魔法のプロフィール",
+          "description": "死霊魔術と即死魔法に特化しており、700以上の魔法を使用可能です。超位魔法には「フォールン・ダウン」や「イア・シュブ＝ニグラス」などがあり、時間停止のタイミングを利用して壊滅的なコンボを繰り出します。"
+        },
+        {
+          "icon": "Landmark",
+          "name": "Nazarickと世界における立場",
+          "description": "NazarickのNPCたちからは、41人の至高の御方の最高位として崇拝されています。外の世界では魔導王となり、異世界全体を塗り替えるほどの影響力を持つ主要な政治勢力となります。"
+        },
+        {
+          "icon": "Clock",
+          "name": "ストーリーの進行",
+          "description": "YGGDRASILのサービス終了時に残った最後のプレイヤーとして始まり、NazarickからSorcerer Kingdomを建国し、映画『Sacred Kingdom』で描かれるHoly Kingdom編では世界を形作る力となります。"
         }
       ],
       "highlights": [
-        "クオリアに入る",
-        "素材を安全に保管する",
-        "実用性から装飾へと拡張する",
-        "拠点のスペースを活用してクラフトや農業を支援する"
+        "NazarickのOverlord",
+        "魔導王",
+        "不死者のマジックキャスター",
+        "かつてのMomonga"
       ]
     },
-    "lucidBlocksWorldRegions": {
-      "title": "Lucid Blocks 世界の地域",
-      "displayType": "regionCards",
-      "intro": "Lucid Blocks は無限の世界生成を採用しているため、プレイヤーは常に新しい環境や構造物を発見し続けています。実績やコミュニティの議論には、すでにいくつかの地名が登場しています。",
+    "overlordAlbedo": {
+      "title": "Anime Overlord: Albedo キャラクターガイド",
+      "intro": "Albedoはナザリック地下大墳墓の守護者統括であり、7人の階層守護者全員を監督しています。彼女のデザイン、Ainzへの揺るぎない忠誠心、そして政治的な役割により、Overlordシリーズで最も検索されるキャラクターの一人となっています。",
       "regions": [
         {
-          "name": "Fog Meadow",
-          "type": "コミュニティ注目エリア",
-          "description": "Fog Meadow は、隠れた脅威や危険な遭遇に関連する緊張感のあるエリアとして、プレイヤーの間ですでに知られています。"
+          "icon": "Shield",
+          "name": "主な役割",
+          "type": "守護者統括",
+          "description": "Albedoは7人の階層守護者を監督し、他のすべてのNazarick NPCの上に位置します。また、宰相としても活動し、Ainzの不在時には内政や管理を担当します。"
         },
         {
-          "name": "ティアマナ・レイライン",
-          "type": "発見ランドマーク",
-          "description": "ティアマナ・レイラインは独自の実績マイルストーンを持つほど重要であり、これまでに判明している中で最も明確な名前付きの発見場所の一つです。"
+          "icon": "Users",
+          "name": "種族、家族、創造主",
+          "type": "背景",
+          "description": "タブラ・スマラグディナによって創造された悪魔（サキュバス）です。三姉妹の次女であり、姉にニグレド、妹にルベドがいます。"
         },
         {
-          "name": "クロナクオリア",
-          "type": "建築スペース",
-          "description": "プレイヤーはすでにクロナクオリアを、家を建てたり、素材を保管したり、より永続的なレイアウトを試したりする場所として利用しています。"
+          "icon": "Sparkles",
+          "name": "デザインと存在感",
+          "type": "ビジュアル",
+          "description": "漆黒の髪、縦に割れた瞳孔を持つ金色の瞳、黒い翼、そして湾曲した角が特徴です。通常時の白いドレスは、戦闘時には重厚な黒いフルプレートアーマーへと変化します。"
         },
         {
-          "name": "エッセンスの沼地",
-          "type": "ファーミングエリア",
-          "description": "エッセンスの沼地は、特にスライムとの戦闘や経験値稼ぎに役立つファーミング場所としてプレイヤー間で共有されています。"
+          "icon": "Heart",
+          "name": "性格と忠誠心",
+          "type": "キャラクター",
+          "description": "Ainzに対して強烈な忠誠心を持ち、独占欲や時折見せる嫉妬心も特徴です。執着心と事務的な有能さを併せ持つ彼女は、シリーズで最も魅力的なキャラクターの一人です。"
+        },
+        {
+          "icon": "Swords",
+          "name": "能力プロフィール",
+          "type": "戦闘",
+          "description": "Nazarickの全NPCの中で最高の防御力を誇り、特に「ヘルメス・トリスメギストス」を装備した際は鉄壁です。受けたダメージを鎧に転嫁することができ、防御スキルによって超位魔法にも耐えることが可能です。"
+        },
+        {
+          "icon": "Settings",
+          "name": "管理と装備",
+          "type": "ユーティリティ",
+          "description": "知能においてはNPCの中でもトップ3に入ります。Nazarickの内部運営を管理し、ワールドアイテム「ギヌンガガップ」や3F武器などの重要なシステムに関わっています。"
         }
       ]
     },
-    "lucidBlocksCreaturesAndEnemies": {
-      "title": "Lucid Blocks クリーチャーと敵",
-      "displayType": "creatureCards",
-      "intro": "Lucid Blocks は超現実的なクリーチャーと現実的な危険が混ざり合っています。公式の説明やコミュニティの投稿は、奇妙な生命、敵対的な脅威、そしてプレイヤーがすぐに覚えるような印象的な遭遇に満ちた世界を指し示しています。",
+    "overlordShalltear": {
+      "title": "Anime Overlord: Shalltear Bloodfallen",
+      "intro": "Shalltear BloodfallenはNazarickの第1から第3階層の守護者であり、シリーズ屈指の強者です。第1期でのAinzとの象徴的な対決は、Overlordアニメにおいて今なお最も検索されるエピソードの一つです。",
       "creatures": [
         {
-          "name": "マネキン",
-          "role": "敵対的な敵",
-          "description": "マネキンはこの世界における公式な名前を持つ敵の一つであり、ゲームの超現実的な脅威リストの一部です。"
+          "icon": "Star",
+          "name": "基本的な正体",
+          "role": "階層守護者",
+          "description": "ペロロンチーノによって創造された真祖（トゥルー・ヴァンパイア）であり、第1〜3階層の守護者です。居住地は大墳墓第2階層の「死蝋の部屋」とされています。"
         },
         {
-          "name": "ぷにぷにジェル",
-          "role": "敵対的な敵",
-          "description": "ぷにぷにジェルも公式な名前を持つ敵タイプであり、ゲームの奇妙な生物学的スタイルを象徴しています。"
+          "icon": "Eye",
+          "name": "デザインとビジュアル",
+          "role": "ビジュアル",
+          "description": "銀髪、緋色の瞳、青白い肌、そして通常時は黒いドレスを纏っています。戦闘態勢に入ると、血のように赤いフルプレートアーマーに切り替わります。"
         },
         {
-          "name": "高次元の存在",
-          "role": "敵対的な敵",
-          "description": "これらの存在は、世界のより抽象的で不安をかき立てる敵ラインナップの一部として登場します。"
+          "icon": "MessageCircle",
+          "name": "性格",
+          "role": "キャラクター",
+          "description": "誇り高く、思わせぶりな態度をとりますが、物事がうまくいかないと激昂しやすい一面もあります。守護者としての任務には非常に真剣ですが、その不安定な自信がアニメの劇的なシーンを生み出します。"
         },
         {
-          "name": "巨大クモ",
-          "role": "主要な脅威",
-          "description": "クモはコミュニティの議論で最も即座に恐れられている敵の一つであり、明らかに記憶に残る危険な存在です。"
+          "icon": "Trophy",
+          "name": "戦闘の評価",
+          "role": "能力",
+          "description": "ガルガンチュアを除けば最強の階層守護者であり、通常の守護者の中では最高の総合ステータスを誇ります。Ainz自身も、彼女をNazarickで最高の対人戦闘員と認めています。"
         },
         {
-          "name": "__PROTECTED_26ee183b__",
-          "role": "名前付きクリーチャー",
-          "description": "__PROTECTED_26ee183b__ は独自の実績を持つほど注目に値し、ゲーム内で最も明確な名前付きクリーチャーとの遭遇の一つです。"
+          "icon": "CheckCircle",
+          "name": "戦闘の有用性",
+          "role": "特技",
+          "description": "生命維持能力、階層守護者の中で最も豊富な実戦経験、信仰系魔法の行使、そして特定のマジックキャスターに対して特に有効なクラス構成を兼ね備えています。"
         },
         {
-          "name": "可愛い害獣",
-          "role": "インタラクティブな生物",
-          "description": "害獣は融合の進行に関わるだけでなく、名前を付けることもでき、標準的な敵よりも個人的な役割を持ちます。"
-        },
-        {
-          "name": "冒涜的なクリーチャー",
-          "role": "エリートの脅威",
-          "description": "冒涜的なクリーチャーは専用の戦闘実績に関連付けられており、重要な敵との遭遇として位置づけられています。"
+          "icon": "BookOpen",
+          "name": "決定的なストーリー",
+          "role": "主要エピソード",
+          "description": "ワールドアイテムによって洗脳されNazarickに反旗を翻しますが、アニメ屈指の名勝負の末にAinzに敗北します。その後復活し、主要な階層守護者として活動を続けています。"
         }
       ]
     },
-    "lucidBlocksMobilityGear": {
-      "title": "Lucid Blocks 移動装備",
-      "displayType": "itemCards",
-      "intro": "移動手段のアップグレードは、Lucid Blocks におけるプレイの快適さを最も大きく向上させる要素の一つです。最初の移動ツールを解放すれば、探索はより速く、より安全に、そしてより実りあるものになります。",
+    "overlordFloorGuardians": {
+      "title": "Anime Overlord Floor Guardians Ranked",
+      "intro": "The Floor Guardians are the most powerful defenders of the Great Tomb of Nazarick. This overview ranks them by role, combat specialty, and commonly discussed strength order — from raw dueling power to strategic command value.",
       "items": [
         {
-          "name": "__PROTECTED_6a765cb2__",
-          "type": "移動ツール",
-          "description": "フックショットはゲーム内で最も明確な移動のマイルストーンの一つであり、専用の実績も用意されています。"
+          "icon": "Swords",
+          "name": "Shalltear Bloodfallen",
+          "type": "Floors 1–3 — Top Duelist",
+          "description": "Widely regarded as the strongest Floor Guardian in direct one-on-one combat, with the highest overall stats among standard Guardians. Ainz considers her the best single-target fighter."
         },
         {
-          "name": "グライダーグローブ",
-          "type": "空中移動",
-          "description": "グライダーグローブはよりスムーズな移動を可能にし、独自の実績を持つもう一つの主要な進行マイルストーンです。"
+          "icon": "Shield",
+          "name": "Mare Bello Fiore",
+          "type": "Floor 6 — Top AoE Caster",
+          "description": "Strongest area-of-effect caster in Nazarick, built for army-scale destruction and long-range magic pressure. A top-two combat contender alongside Shalltear."
         },
         {
-          "name": "__PROTECTED_163b9bec__",
-          "type": "移動ツール",
-          "description": "ビィ・グライダーは、効率的に距離を移動するための移動ツールキットの一部として公式に推奨されています。"
+          "icon": "Hammer",
+          "name": "Cocytus",
+          "type": "Floor 5 — Weapon Master",
+          "description": "Four-armed insectoid warrior with the greatest attack power when using weapons. His strict honor code makes him one of Nazarick's premier warrior-types."
         },
         {
-          "name": "ボールワンド",
-          "type": "ユーティリティ装備",
-          "description": "ボールワンドは公式に推奨されている特殊ツールの一つで、世界を移動したり干渉したりする方法を広げてくれます。"
+          "icon": "Brain",
+          "name": "Demiurge",
+          "type": "Floor 7 — Strategic Commander",
+          "description": "The strategic mastermind of Nazarick with a jack-of-all-trades combat toolkit. His deception, administration, and planning make him irreplaceable in large-scale operations."
         },
         {
-          "name": "スキューバダイビングギア",
-          "type": "探索装備",
-          "description": "スキューバダイビングギアは、通常では探索が困難なエリアに到達するための中核的なユーティリティセットとして公式にリストされています。"
+          "icon": "TrendingUp",
+          "name": "Aura Bella Fiora",
+          "type": "Floor 6 — Ranger and Beast Tamer",
+          "description": "Excels in speed, beast taming, and guerrilla warfare. She becomes significantly more dangerous when operating with summons, terrain advantages, and team support."
         },
         {
-          "name": "爆発物",
-          "type": "ユーティリティ・ダメージ",
-          "description": "爆発物は公式に推奨されていると同時に実績マイルストーンにも関連付けられており、ゲームの中核的なユーティリティ進行の一部となっています。"
+          "icon": "Landmark",
+          "name": "Albedo",
+          "type": "Overseer — Defensive Wall",
+          "description": "Highest defensive power among Nazarick NPCs. Her value comes from absurd defense, control, and survivability, making her a top-tier pick in sustained engagements."
         }
       ],
       "unlockMilestones": [
-        "フックショットを使いこなす",
-        "グライダーグローブで空を飛ぶ",
-        "投射物ワンドを構える",
-        "爆発物を構える"
+        "All 7 Floors Defended",
+        "Guardian Council Assembled",
+        "Supreme Beings Serve Ainz"
       ]
     },
-    "lucidBlocksFarmingAndGrowth": {
-      "title": "Lucid Blocks 農業と成長",
-      "displayType": "mixedCards",
-      "intro": "成長は Lucid Blocks における真の進行の一部です。農業は単に植えて収穫するだけでなく、ツール、武器、クラフトの選択肢を維持するための反復可能な素材ルートを確立することでもあります。",
+    "overlordNazarick": {
+      "title": "Anime Overlord: Inside the Great Tomb of Nazarick",
+      "intro": "The Great Tomb of Nazarick is the power center of Overlord. It functions as Ainz's home base, war room, political court, prison network, and final line of defense — understanding its structure makes the entire franchise much easier to follow.",
       "sections": [
         {
-          "name": "種の進行",
-          "description": "種を植えて肥料を与えることはゲーム内の重要なマイルストーンであり、完全に成長したナッツを収穫することも同じ成長パスの一部です。"
+          "name": "Fortress Overview",
+          "description": "Originally a high-level dungeon in YGGDRASIL, Nazarick was conquered and rebuilt by Ainz Ooal Gown. After reconstruction it expanded to more than ten floors with layered defenses, teleport gates, and custom NPC infrastructure. It survived the famous 1,500-man assault without the attackers breaching the deepest defenses."
         },
         {
-          "name": "素材ファーミング",
-          "description": "実用的な序盤のファーミングループは「水銀カプセル」を作成することです。これにより、反復可能なクラフト素材となる触手やグーをドロップする小さなスライムが出現します。"
+          "name": "Leadership and Command",
+          "description": "Nazarick runs on a strict top-down command structure. Ainz Ooal Gown issues all final strategic decisions. Albedo serves as Overseer Guardian and acts as the overall commander of the Floor Guardians. Each Floor Guardian controls a major defense domain and commands powerful subordinates within that space."
         },
         {
-          "name": "ツールの維持",
-          "description": "オスミウム、ガラスの破片、植物、スライム素材を安定して集められるようになると、その後のクラフトのための資源ファーミングがより強力になります。"
+          "name": "Floor-by-Floor Map",
+          "description": "1st–3rd Floors: Grave / Catacombs (Guardian: Shalltear). 4th Floor: Underground Lake (Gargantua). 5th Floor: Glacier (Cocytus). 6th Floor: Jungle (Aura and Mare). 7th Floor: Lava (Demiurge). 8th Floor: Wilderness (Victim — final defense line). 9th Floor: Royal Suite with service facilities. 10th Floor: Throne Room — Ainz's command chamber. Treasury: a separate spatial vault accessed via the Rings of Ainz Ooal Gown."
         },
         {
-          "name": "拠点のルーチン",
-          "description": "最適な農業セットアップは食料以上のものを支えます。ストレージ、移動ツール、武器のアップグレード、そして将来の融合実験に供給されるべきです。"
+          "name": "Key Military and Support Groups",
+          "description": "Beyond the Floor Guardians, Nazarick operates through elite units and specialized NPCs. The Pleiades are Nazarick's battle maids and one of its best-known elite service and combat groups. The 8th Floor Hierarchy and Aureole Omega represent Nazarick's deepest reserve power. Area Guardians such as Kyouhukou and Neuronist Painkill reinforce individual zones."
+        },
+        {
+          "name": "Why Nazarick Matters to Every Arc",
+          "description": "The Throne Room is where Ainz gathers the guardians, assigns missions, monitors threats, and announces policy. Nazarick functions as home, government center, prison system, laboratory, and symbol of overwhelming power. Most of the series' turning points begin with decisions made inside Nazarick, even when the action happens far away."
         }
       ],
       "growthMilestones": [
-        "種に肥料を与える",
-        "完全に成長したナッツを収穫する",
-        "反復可能な素材ループを作成する",
-        "農業を長期的な進行に組み込む"
+        "Built by Guild of 41 Players",
+        "10+ Floors of Layered Defense",
+        "Survived 1,500-Man Assault",
+        "Capital of the Sorcerer Kingdom"
       ]
     },
-    "lucidBlocksBestEarlyUnlocks": {
-      "title": "Lucid Blocks おすすめの序盤解放要素",
-      "displayType": "priorityCards",
-      "intro": "最強の序盤解放要素は、安全性、ストレージ、そして移動能力を向上させるものです。Lucid Blocks では、いくつかの実用的なアップグレードがその後のゲームプレイ全体を非常にスムーズにします。",
+    "overlordStoryArcs": {
+      "title": "Anime Overlord Story Arcs by Season and Light Novel",
+      "intro": "This map links each major Anime Overlord arc to its anime season, episode range, and source light novel volume, making it easy to locate any arc and understand where it fits in the full timeline.",
       "priorities": [
         {
-          "name": "個人用クオリア",
-          "priority": "必須",
-          "description": "個人用クオリアにアクセスできるようになると、プレイが格段に安定します。ストレージ、建築、体制の立て直しのための信頼できるハブとして機能します。"
+          "name": "The Undead King / Dark Warrior Arcs",
+          "priority": "Season 1 Ep 1–9",
+          "description": "Ainz awakens in the New World, establishes the Momon identity, and begins testing the rules of the new reality. Source: Volumes 1–2."
         },
         {
-          "name": "フロストピック",
-          "priority": "極めて高い",
-          "description": "オスミウムと棒で作れる、高速で安価な序盤の採掘ツール。序盤の資源収集を加速させるために最も有用なアップグレードの一つです。"
+          "name": "The Bloody Valkyrie Arc",
+          "priority": "Season 1 Ep 10–13",
+          "description": "Ainz confronts a brainwashed Shalltear in a solo duel, proving that Nazarick can survive a crisis from within. Source: Volume 3."
         },
         {
-          "name": "キャッシュキューブ",
-          "priority": "極めて高い",
-          "description": "インベントリの圧迫は早くから始まるため、最初の信頼できるチェスト型コンテナを手に入れることは、プレイの快適さを大きく向上させます。"
+          "name": "Lizard Man Heroes / Men in the Kingdom",
+          "priority": "Season 2 Ep 1–13",
+          "description": "The lizardman tribes unite against Cocytus while Sebas, Climb, and Brain navigate criminal corruption and political tension in Re-Estize. Source: Volumes 4–6."
         },
         {
-          "name": "__PROTECTED_6a765cb2__",
-          "priority": "高い",
-          "description": "フックショットはゲーム内で最も明確な移動のマイルストーンの一つであり、探索をより速く、より安全にします。"
+          "name": "Invaders of the Large Tomb Arc",
+          "priority": "Season 3 Ep 6–8",
+          "description": "Worker teams invade Nazarick and discover why the tomb is treated as a death trap — the gap between Nazarick and even elite human fighters is absolute. Source: Volume 7."
         },
         {
-          "name": "グライダーグローブ",
-          "priority": "高い",
-          "description": "グライダーグローブはもう一つの大きな機動力ブーストをもたらし、長距離の移動をはるかに効率的にします。"
+          "name": "The Magic Caster of Destruction Arc",
+          "priority": "Season 3 Ep 9–13",
+          "description": "Ainz intervenes in the annual war at Katze Plains with overwhelming force, establishing the terrifying scale of the Sorcerer Kingdom. Source: Volume 9."
         },
         {
-          "name": "投射物ワンドまたは爆弾",
-          "priority": "高い",
-          "description": "遠距離ツールや爆発物の選択肢を持つことで、危険な敵や試練形式の遭遇に対してより安全に対処できるようになります。"
+          "name": "The Paladin of the Holy Kingdom Arc",
+          "priority": "The Sacred Kingdom Film",
+          "description": "Jaldabaoth's campaign forces the Holy Kingdom to seek Ainz, turning a rescue effort into a major political and military turning point. Source: Volumes 12–13."
+        },
+        {
+          "name": "The Witch of the Falling Kingdom Arc",
+          "priority": "Season 4 Ep 8–13",
+          "description": "The conflict with Re-Estize reaches full war, showing the most destructive consequences of opposing the Sorcerer Kingdom. Source: Volume 14."
+        },
+        {
+          "name": "The Half Elf God-kin Arc",
+          "priority": "Not Yet Adapted",
+          "description": "The story moves toward the Elf Country and Slane Theocracy, pushing beyond the currently animated material. Source: Volumes 15–16."
         }
       ]
     },
-    "lucidBlocksAchievementTracker": {
-      "title": "Lucid Blocks 実績トラッカー",
-      "displayType": "achievementGrid",
-      "intro": "Lucid Blocks には現在 19 個の Steam 実績があり、それらは探索、クラフト、移動、戦闘、成長の進行に自然に分類されます。",
+    "overlordTimeline": {
+      "title": "Anime Overlord Timeline in Chronological Order",
+      "intro": "Overlord is a franchise where release order, watch order, and story chronology can feel different. This timeline shows the clean sequence of major events and clarifies exactly where The Sacred Kingdom film belongs relative to Season 4.",
       "groups": [
         {
-          "name": "探索",
+          "name": "Starting Point — Season 1 / Volume 1",
           "achievements": [
             {
-              "title": "__PROTECTED_c973d4a3__ α",
-              "description": "クオリアに入る。"
+              "title": "YGGDRASIL Ends and Nazarick Arrives",
+              "description": "Satoru Suzuki remains logged in for the final moments of YGGDRASIL, but instead of logging out he finds himself in the New World inside Nazarick as Ainz Ooal Gown."
             },
             {
-              "title": "__PROTECTED_c973d4a3__ γ",
-              "description": "ティアマナ・レイラインを発見する。"
-            },
-            {
-              "title": "__PROTECTED_c973d4a3__ δ",
-              "description": "ティアマナの試練を乗り越える。"
-            },
-            {
-              "title": "__PROTECTED_c973d4a3__ ε",
-              "description": "隠し実績。"
+              "title": "Ainz Builds His First Foothold",
+              "description": "Ainz confirms Nazarick is real, learns the local rules, establishes the Momon identity, and stabilizes the tomb from within. Covers Season 1 / Volumes 1–3."
             }
           ]
         },
         {
-          "name": "クラフトと召喚",
+          "name": "Regional Consolidation — Seasons 2 & 3",
           "achievements": [
             {
-              "title": "Apotheosis α",
-              "description": "アイテムを融合させる。"
+              "title": "Lizardmen, Sebas, and Jaldabaoth's Operations",
+              "description": "The lizardman campaign, Sebas's Kingdom storyline, and Jaldabaoth's chaos widen the scale from local experiments to deliberate power projection. Season 2 / Volumes 4–6."
             },
             {
-              "title": "Apotheosis β",
-              "description": "害獣を融合させる。"
-            },
-            {
-              "title": "Apotheosis γ",
-              "description": "神聖なアーティファクトを融合させる。"
-            },
-            {
-              "title": "Archangel β",
-              "description": "信仰を召喚する。"
+              "title": "Katze Plains and Worker Invasion",
+              "description": "The Katze Plains massacre turns Ainz into an undeniable geopolitical force, while the Worker invasion exposes Nazarick's full terror. Season 3 / Volumes 7–9."
             }
           ]
         },
         {
-          "name": "移動とユーティリティ",
+          "name": "Sorcerer Kingdom Era — Season 4 Episodes 1–7",
           "achievements": [
             {
-              "title": "Virtue α",
-              "description": "グライダーグローブで空を飛ぶ。"
+              "title": "Rule and Expansion — Before the Movie",
+              "description": "Ainz focuses on governing the Sorcerer Kingdom, handling foreign rulers, and extending influence through the Dwarf Kingdom arc. Season 4 Ep 1–7 / Volumes 10–11."
             },
             {
-              "title": "Virtue β",
-              "description": "フックショットを使いこなす。"
-            },
-            {
-              "title": "Archangel α",
-              "description": "投射物ワンドを構える。"
-            },
-            {
-              "title": "Archangel γ",
-              "description": "爆発物を構える。"
+              "title": "The Sacred Kingdom Fits Here",
+              "description": "The Holy Kingdom campaign happens after Season 4 Episode 7 and before Episode 8. Watch Overlord: The Sacred Kingdom at this point for correct chronological order. Volumes 12–13."
             }
           ]
         },
         {
-          "name": "戦闘とクリーチャー",
+          "name": "Final Chapter — Season 4 Episodes 8–13 and Beyond",
           "achievements": [
             {
-              "title": "__PROTECTED_26ee183b__ の虐殺",
-              "description": "罪のないバブルベアを倒す。"
+              "title": "The Re-Estize War and Season 4 Ending",
+              "description": "The Witch of the Falling Kingdom arc resolves the Re-Estize conflict with crushing finality. Season 4 Ep 8–13 / Volume 14."
             },
             {
-              "title": "Archangel δ",
-              "description": "冒涜的なクリーチャーを排除する。"
-            },
-            {
-              "title": "__PROTECTED_c973d4a3__ β",
-              "description": "死亡する。"
-            },
-            {
-              "title": "Dominion γ",
-              "description": "可愛い害獣に名前を付ける。"
-            }
-          ]
-        },
-        {
-          "name": "成長と農業",
-          "achievements": [
-            {
-              "title": "Dominion α",
-              "description": "種に肥料を与える。"
-            },
-            {
-              "title": "Dominion β",
-              "description": "完全に成長したナッツを収穫する。"
-            },
-            {
-              "title": "Dominion δ",
-              "description": "隠し実績。"
+              "title": "Story Continues Beyond the Anime",
+              "description": "The Half Elf God-kin arc moves into the Elf Country and deeper Slane Theocracy developments, beyond currently adapted material. Volumes 15–16."
             }
           ]
         }
       ]
     },
-    "lucidBlocksSingleplayerAndPlatformFAQ": {
-      "title": "Lucid Blocks シングルプレイヤーおよびプラットフォーム FAQ",
-      "displayType": "accordion",
-      "intro": "これらは、Lucid Blocks を購入する前にプレイヤーからよく寄せられる、プラットフォームとアクセスに関する核心的な質問です。",
+    "overlordLightNovel": {
+      "title": "Anime Overlord Light Novel Reading Order Guide",
+      "intro": "The Overlord light novels currently have 16 released volumes. The best reading path depends on whether you want the complete experience, the fastest continuation after the anime, or a clean anime-to-novel bridge that includes the movie material.",
       "faqs": [
         {
-          "question": "Lucid Blocks はシングルプレイヤーですか？",
-          "answer": "はい。Lucid Blocks はシングルプレイヤー専用ゲームです。"
+          "question": "What is the best starting point for Anime Overlord light novels?",
+          "answer": "The strongest entry point is Volume 1. This gives you the full internal monologue, world-building, skipped details, and a much clearer picture of how Ainz and Nazarick actually think. It is the most recommended path for anime-only viewers."
         },
         {
-          "question": "マルチプレイヤーや協力プレイの予定はありますか？",
-          "answer": "いいえ。リリース時および将来のアップデートにおいて、マルチプレイヤーの予定はありません。"
+          "question": "What is the main reading order for the Overlord novels?",
+          "answer": "Read the main story in volume order: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16. Volume 8 can also be read any time after Volume 4 and before Volume 9, but simple numeric order is the easiest path for most readers."
         },
         {
-          "question": "Lucid Blocks はどこでプレイできますか？",
-          "answer": "現在は Windows 用に Steam で配信されています。"
+          "question": "How do Anime Overlord seasons map to the light novel volumes?",
+          "answer": "Season 1 = Volumes 1–3. Season 2 = Volumes 4–6. Season 3 = Volumes 7–9 (Volume 8 material airs before Volume 7 content). Season 4 TV = Volumes 10, 11, and 14. The Sacred Kingdom movie = Volumes 12–13."
         },
         {
-          "question": "Lucid Blocks の価格はいくらですか？",
-          "answer": "Steam で 9.99 ドルです。"
+          "question": "What is the fastest way to continue after finishing the Anime Overlord anime?",
+          "answer": "If you finished all four TV seasons and want unseen story material first, watch the movie or read Volumes 12–13 (The Sacred Kingdom), then continue with Volumes 15–16 for completely new material beyond the current anime."
         },
         {
-          "question": "Lucid Blocks はコントローラーに対応していますか？",
-          "answer": "はい。ただし、メニューがコントローラー操作を前提に設計されていないため、コントローラーでのプレイは推奨されません。"
-        },
-        {
-          "question": "Lucid Blocks は Steam Deck で動作しますか？",
-          "answer": "はい。Steam Deck では、Proton 9.0 または 9.0.4 の使用が一般的に推奨されています。"
-        },
-        {
-          "question": "Lucid Blocks は Linux で動作しますか？",
-          "answer": "はい。Linux および Steam Deck において、Proton 9.0 で良好に動作することが報告されています。"
-        },
-        {
-          "question": "Mac や Android はサポートされますか？",
-          "answer": "将来的にサポートされる可能性はありますが、現時点でのローンチプラットフォームではありません。"
-        },
-        {
-          "question": "Lucid Blocks に翻訳はありますか？",
-          "answer": "いいえ。現在、翻訳の予定はありません。"
-        },
-        {
-          "question": "Lucid Blocks はアップデートされ続けますか？",
-          "answer": "はい。リリース後にいくつかのコンテンツアップデートが予定されていますが、無期限に定期的なスケジュールで継続することを意図したものではありません。"
+          "question": "What reading routes are available for Anime Overlord novels?",
+          "answer": "Complete route: start at Volume 1 and read straight through. Bridge route: use the anime-to-volume map, then read Volumes 12–16. Fastest new-content route: The Sacred Kingdom first (Vols 12–13), then Volumes 15–16."
         }
       ]
     },
-    "lucidBlocksSteamDeckAndController": {
-      "title": "Lucid Blocks Steam Deck とコントローラー",
-      "displayType": "accordion",
-      "intro": "Lucid Blocks は Steam Deck で動作しますが、デフォルト設定では調整が必要な場合があります。メニュー操作や一般的なプレイにおいては、キーボードとマウスの方がスムーズです。",
+    "overlordAnimeVsNovel": {
+      "title": "Anime Overlord: What Changes from Anime to Light Novel",
+      "intro": "The Overlord anime is a faithful story path version of the novels, but it is also a compressed one. The novels carry much more internal monologue, lore, and faction-level context. This guide helps viewers see what was adapted, what was compressed, and where reading adds the most value.",
       "faqs": [
         {
-          "question": "Lucid Blocks は Steam Deck で動作しますか？",
-          "answer": "はい。Proton 9.0 で良好に動作します。また、Proton 9.0.4 は Steam Deck の問題に対する一般的な修正方法として共有されています。"
+          "question": "What has the Anime Overlord adaptation already covered?",
+          "answer": "Most of the main storyline through Volume 14 has been animated. Season 1 = Vols 1–3. Season 2 = Vols 4–6. Season 3 = Vols 7–9. Season 4 = Vols 10, 11, 14. The Sacred Kingdom film = Vols 12–13. The Holy Kingdom arc was handled as a film rather than a TV season."
         },
         {
-          "question": "Steam Deck の操作が効かない場合はどうすればよいですか？",
-          "answer": "互換性設定を強制し、ゲームを Proton 9.0.4 に切り替えてください。デフォルト設定ではコントローラー入力が正しく受け付けられない場合があります。"
+          "question": "What do the Anime Overlord novels explain in more depth?",
+          "answer": "The novels spend more time on Yggdrasil mechanics, item logic, racial abilities, and magic-system framing. They add much more New World history, statecraft, and inter-faction perspective. Many side characters receive longer internal monologues, motivations, and scene transitions. Dialogue-heavy strategy sections are generally richer on the page."
         },
         {
-          "question": "Lucid Blocks はコントローラーに対応していますか？",
-          "answer": "はい。ただし、ゲームのメニューがコントローラー操作を前提に設計されていないため、コントローラーでのプレイは推奨されません。"
+          "question": "Where do Anime Overlord viewers usually feel the adaptation compression most?",
+          "answer": "Political maneuvering and diplomatic stakes are broader in the novels. Several arcs lose smaller perspective scenes that make kingdoms, adventurers, and side factions feel more alive. Character thoughts are one of the biggest losses — especially when Overlord shifts between public action and private intent."
         },
         {
-          "question": "Linux のサポートは可能ですか？",
-          "answer": "はい。Linux および Steam Deck において、Proton 9.0 で良好に動作することが報告されています。"
-        },
-        {
-          "question": "最適な入力設定は何ですか？",
-          "answer": "メニューのナビゲーションや一般的なプレイにおいては、キーボードとマウスが最もスムーズな選択肢です。"
+          "question": "What are the best reading paths after finishing the Anime Overlord anime?",
+          "answer": "For the fullest experience, start from Volume 1 and read in order. For direct continuation after currently animated material, continue with Volumes 15–16. If your goal is to recover skipped detail rather than continue forward, reading the novel version of the arc you just watched is the best middle-ground option."
         }
       ]
     },
-    "lucidBlocksSettingsAndAccessibility": {
-      "title": "Lucid Blocks 設定とアクセシビリティ",
-      "displayType": "settingCards",
-      "intro": "Lucid Blocks には、プレイヤーが最初にゲームを起動した際に重要となる、いくつかの実用的な設定と互換性に関する注意点があります。",
+    "overlordVoiceCast": {
+      "title": "Anime Overlord Major Japanese and English Voice Cast",
+      "intro": "Overlord has kept a recognizable core cast across its main anime run, while The Sacred Kingdom added several important Holy Kingdom roles. This cast guide combines the TV anime lineup with the key Sacred Kingdom additions, organized for quick character-to-actor lookups.",
       "settings": [
         {
-          "name": "ディスプレイ設定",
-          "type": "快適性オプション",
-          "description": "ディスプレイ設定には、画面上の手を表示しないようにするオプションが含まれています。"
+          "name": "Ainz Ooal Gown / Momon",
+          "type": "JP: Satoshi Hino | EN: Chris Guerrero",
+          "description": "Main series and The Sacred Kingdom. Hino portrays both Ainz's commanding public presence and the quiet internal monologues of the former Momonga across all four seasons and the film."
         },
         {
-          "name": "グラフィックスの互換性",
-          "type": "システム要件",
-          "description": "グラフィックスを正しくレンダリングするには __PROTECTED_38625270__ のサポートが必要です。__PROTECTED_38625270__ に対応していないシステムでは、クラッシュや深刻なグラフィックの不具合が発生する可能性があります。"
+          "name": "Albedo",
+          "type": "JP: Yumi Hara | EN: Elizabeth Maxwell",
+          "description": "Main series and The Sacred Kingdom. Hara's performance balances Albedo's fierce loyalty as Overseer Guardian, administrative precision, and moments of comedic intensity."
         },
         {
-          "name": "入力の好み",
-          "type": "操作設定",
-          "description": "コントローラーのサポートは存在しますが、メニューがコントローラー操作向けに構築されていないため、キーボードとマウスの方がスムーズな体験が得られます。"
+          "name": "Demiurge",
+          "type": "JP: Masayuki Kato | EN: Jeff Johnson",
+          "description": "Main series and The Sacred Kingdom. Katou's voice gives Demiurge a smooth, theatrical quality that matches his role as Nazarick's primary strategic mastermind."
         },
         {
-          "name": "言語サポート",
-          "type": "ローカライズ",
-          "description": "現在の設定は英語のみであり、現時点では翻訳の予定はありません。"
+          "name": "Shalltear Bloodfallen",
+          "type": "JP: Sumire Uesaka | EN: Felecia Angelle",
+          "description": "Main series. Uesaka captures both Shalltear's unsettling vampiric elegance and her occasionally childlike reactions, making the Season 1 duel arc particularly memorable."
+        },
+        {
+          "name": "Aura Bella Fiora & Mare Bello Fiore",
+          "type": "JP: Emiri Kato & Yumi Uchiyama | EN: Jill Harris & Megan Shipman",
+          "description": "Main series. The twin dark elf Floor Guardians of the 6th Floor. Kato and Uchiyama provide contrasting energetic versus subdued performances for the siblings."
+        },
+        {
+          "name": "Cocytus & Sebas Tian",
+          "type": "JP: Kenta Miyake & Shigeru Chiba",
+          "description": "Main series. Miyake's deep imposing voice anchors the glacial warrior Cocytus, while Chiba's measured delivery gives Sebas the butler composure central to the Kingdom arcs."
+        },
+        {
+          "name": "Neia Baraja",
+          "type": "JP: Yoshino Aoyama | EN: Sarah Wiedenheft",
+          "description": "The Sacred Kingdom film. New addition anchoring the Holy Kingdom perspective as the main viewpoint character, tracking Ainz's intervention through a human paladin's eyes."
+        },
+        {
+          "name": "Remedios Custodio & Calca Bessarez",
+          "type": "JP: Hitomi Nabatame & Saori Hayami",
+          "description": "The Sacred Kingdom film. Nabatame voices the Holy Kingdom's lead paladin, while Hayami portrays the Sacred Queen whose fate drives the film's central conflict."
         }
       ]
     },
-    "lucidBlocksUpdatesAndPatchNotes": {
-      "title": "Lucid Blocks アップデートとパッチノート",
-      "displayType": "timeline",
-      "intro": "Lucid Blocks では、リリース直後の迅速な修正や小規模なユーザビリティのアップデートがすでに行われています。",
+    "overlordSoundtracks": {
+      "title": "Anime Overlord オープニング、エンディング、挿入歌、劇場版主題歌",
+      "intro": "OxTやMYTH & ROIDから前島麻由、そして特別な劇中挿入歌に至るまで、Anime OverlordはTVシリーズ、総集編、そしてHoly Kingdomの映画を通じて強力な音楽的アイデンティティを築いてきました。このガイドでは、各楽曲がアニメのタイムラインのどこに登場するかに基づいて整理されています。",
       "entries": [
         {
-          "title": "アップデート 2.8.2",
-          "type": "UI アップデート",
-          "description": "メインメニューの「awaken（目覚める）」を「exit（終了）」に変更しました。"
+          "type": "第1期 OP",
+          "title": "Clattanoia — OxT",
+          "description": "第1期のTVアニメオープニング。シリーズのダークなアクションのトーンを確立し、Ainzの覇道への始まりを告げるエネルギッシュなハードロック。"
         },
         {
-          "title": "起動時のクラッシュに関する小規模パッチ",
-          "type": "ホットフィックス",
-          "description": "起動時にゲームがクラッシュしていたプレイヤー向けに、専用のパッチがリリースされました。"
+          "type": "第1期 ED",
+          "title": "L.L.L. — MYTH & ROID",
+          "description": "第1期のTVアニメエンディング。Overlordシリーズ全体で最も認知されている楽曲の一つとなった、スローで耳に残るテーマ曲。"
         },
         {
-          "title": "リリース後のコンテンツサポート",
-          "type": "ロードマップ注記",
-          "description": "リリース後にいくつかのコンテンツアップデートが予定されていますが、無期限に定期的なスケジュールで継続することを意図したものではありません。"
+          "type": "総集編劇場版主題歌",
+          "title": "Crazy Scary Holy Fantasy — MYTH & ROID",
+          "description": "総集編劇場版『不死者の王』（2017年の劇場版総集編前編）の主題歌。"
+        },
+        {
+          "type": "総集編劇場版主題歌",
+          "title": "Laughter Slaughter — OxT",
+          "description": "総集編劇場版『漆黒の英雄』（2017年の劇場版総集編後編）の主題歌。"
+        },
+        {
+          "type": "第2期 OP",
+          "title": "GO CRY GO — OxT",
+          "description": "第2期のTVアニメオープニング。リザードマン編、セバスの暗躍、そしてヤルダバオトによる騒乱といった第2期の展開にマッチした攻撃的なエネルギー。"
+        },
+        {
+          "type": "第2期 ED",
+          "title": "HYDRA — MYTH & ROID",
+          "description": "第2期のTVアニメエンディング。第2期のストーリーラインにおける政治的緊張感や道徳的な複雑さを補完する、緊張感のある雰囲気の楽曲。"
+        },
+        {
+          "type": "第3期 OP",
+          "title": "VORACITY — MYTH & ROID",
+          "description": "第3期のTVアニメオープニング。拡大するNazarickの勢力と、激化するAinzの地政学的な戦略のスケールを強調している。"
+        },
+        {
+          "type": "第3期 ED",
+          "title": "Silent Solitude — OxT",
+          "description": "第3期のTVアニメエンディング。今期の激しい戦闘や政治的激化とは対照的な、静かで哀愁漂う楽曲。"
+        },
+        {
+          "type": "第4期 OP",
+          "title": "HOLLOW HUNGER — OxT",
+          "description": "第4期のTVアニメオープニング。Sorcerer Kingdom時代とリ・エスティーゼ王国の終焉に向けた、よりダークで政治的に複雑なトーンを反映している。"
+        },
+        {
+          "type": "第4期 ED",
+          "title": "No Man's Dawn — Mayu Maeshima",
+          "description": "第4期のTVアニメエンディング。前島麻由の独特なボーカルスタイルが、TVシリーズの中で最も重大な局面を迎える今期に情緒的な締めくくりを添える。"
+        },
+        {
+          "type": "第4期 挿入歌",
+          "title": "fallen — 第4期 第13話",
+          "description": "第4期最終話で使用された劇中挿入歌。シリーズで最も衝撃的な結末の一つに、独特な音楽的広がりを加えている。"
+        },
+        {
+          "type": "Sacred Kingdom 主題歌",
+          "title": "WHEELER-DEALER — OxT",
+          "description": "劇場版『Overlord: Sacred Kingdom』（2024年）の公式主題歌。Holy Kingdomの映画でのOxTの再起用は、大スクリーンでの映像化にふさわしい壮大なスケールに合致している。"
+        },
+        {
+          "type": "10周年記念",
+          "title": "GREATEST GLORIA — OxT & MYTH & ROID",
+          "description": "2025年のデジタルアニバーサリーアルバムに収録された新コラボ曲。主要アーティスト2組による共演で、Overlordアニメの10周年を祝う。"
         }
       ]
     },
-    "lucidBlocksCrashFixAndTroubleshooting": {
-      "title": "Lucid Blocks クラッシュ修正とトラブルシューティング",
-      "displayType": "steps",
-      "intro": "起動時やクラッシュに関する差し迫った問題は、パッチレベル、グラフィックスサポート、プラットフォームの互換性、ログの順に確認してください。",
+    "overlordSeason5News": {
+      "title": "Anime Overlord 第5期および続報ニューストラッカー",
+      "intro": "Overlordはアニメフランチャイズとして活動を続けています。今後の続編を追う最も確実な方法は、ファンの憶測と公式の活動を分けることです。このトラッカーでは、公式サイトやライセンスを受けたメディアが実際に発表した内容に焦点を当てています。",
       "steps": [
         {
-          "title": "最新のクラッシュホットフィックスをインストールする",
-          "description": "起動時にゲームがクラッシュする場合は、まずアップデートを行い、最新の起動クラッシュ用パッチで再度テストしてください。"
+          "title": "現在の状況：TVシリーズ続編制作決定、ただし第5期の詳細日程は未発表",
+          "description": "Overlordアニメ公式サイトでは現在、TVアニメの続編制作決定が掲げられていますが、2026年初頭の時点で、公式ニュースフィードには「第5期」という具体的なタイトル、放送時期、または公開日は掲載されていません。"
         },
         {
-          "title": "__PROTECTED_38625270__ のサポートを確認する",
-          "description": "Lucid Blocks には __PROTECTED_38625270__ のサポートが必要です。__PROTECTED_38625270__ に対応していないシステムでは、クラッシュや重大なレンダリングの問題が発生する可能性があります。"
+          "title": "最新のアニメ化作品は『Sacred Kingdom』",
+          "description": "Holy Kingdom編は『Overlord: Sacred Kingdom』としてアニメ化され、2024年9月20日に公開されました。これにより、第4期以降の物語がアニメで継続されました。2025年4月にはCrunchyrollでの配信も開始されました。"
         },
         {
-          "title": "Steam Deck で Proton 9.0.4 を使用する",
-          "description": "Steam Deck で入力や起動の挙動に問題がある場合は、互換性設定を強制し、Proton 9.0.4 に切り替えてください。"
+          "title": "『Sacred Kingdom』のBlu-ray＆DVDが日本で発売",
+          "description": "公式ニュースページにて、2025年3月26日に映画のBlu-rayおよびDVDが発売されることが発表されました。特典にはワールドガイドのブックレットやサウンドトラックCDが含まれています。"
         },
         {
-          "title": "クラッシュログを収集する",
-          "description": "Windows の「ファイル名を指定して実行」を開き、「%APPDATA%」を貼り付けて、lucid blocks/logs フォルダに移動し、トラブルシューティング用の .txt ファイルを収集してください。"
+          "title": "10周年記念デジタルアルバムが公式の継続的なサポートを証明",
+          "description": "『OVERLORD 10th Anniversary ULTIMATE SOUND ALBUM』が2025年3月26日から4月28日にかけてリリースされました。新曲「GREATEST GLORIA」やクリエイターのコメンタリーが収録されており、映画公開後もブランドが活発に展開されていることを示しています。"
         },
         {
-          "title": "問題を正しく報告する",
-          "description": "公式 Discord の bug-reports フォーラム、または Steam コミュニティページで、ログとデバイスの詳細を共有してください。"
+          "title": "Anime Overlord 第5期のニュースを追うための公式チャンネル",
+          "description": "将来的に新シーズンのタイトル、ティザービジュアル、公開時期、またはスタッフ発表が行われる際は、まずOverlordアニメ公式ニュースページ（overlord-anime.com/news.html）および公式Xアカウント（@over_lord_anime）を確認してください。"
         }
       ]
     }
@@ -757,177 +800,217 @@
   "faq": {
     "title": "よくある",
     "titleHighlight": "質問",
-    "subtitle": "Lucid Blocks に関するすべての情報",
+    "subtitle": "Anime Overlord WikiおよびOverlordアニメシリーズに関するよくある質問",
     "questions": [
       {
-        "question": "Lucid Blocks はシングルプレイヤーゲームですか？",
-        "answer": "はい。Lucid Blocks はシングルプレイヤー専用のゲームであり、マルチプレイヤーや協力プレイの予定はありません。"
+        "question": "Anime Overlordとはどのような作品ですか？",
+        "answer": "Anime Overlordは、Overlordアニメシリーズを扱っています。YGGDRASILのプレイヤーであるMomongaがAinz Ooal Gownとなり、異世界でナザリック地下大墳墓を率いて征服と政治的策略を繰り広げるダークファンタジー異世界作品です。"
       },
       {
-        "question": "Lucid Blocks における Apotheosis システムとは何ですか？",
-        "answer": "Apotheosis は Lucid Blocks のフリーフォーム・フュージョン・クラフトシステムです。決まったレシピに従うのではなく、素材を組み合わせて独自のクラフトパスを発見していきます。"
+        "question": "Overlordアニメの正しい視聴順序は？",
+        "answer": "まずTVシリーズ全4期を視聴してください。時系列順では、劇場版『Sacred Kingdom』は第4期の第7話と第8話の間に位置します。2017年の総集編映画2作品は任意であり、新しいストーリー内容を見逃すことなくスキップ可能です。"
       },
       {
-        "question": "Lucid Blocks はどこでプレイできますか？",
-        "answer": "Lucid Blocks は現在、Windows向けに Steam で配信されています。Linuxおよび Steam Deckへの対応は、Proton 9.0を通じて提供されています。"
+        "question": "Overlordは何シーズンありますか？",
+        "answer": "OverlordはTVアニメが全4期（計52話）あります。また、映画が3作品あり、2017年の総集編2作と、2024年の本編ストーリーである劇場版『Overlord: Sacred Kingdom』が存在します。"
       },
       {
-        "question": "Lucid Blocks の価格はいくらですか？",
-        "answer": "Lucid Blocks は Steam で9.99ドルです。"
+        "question": "『Overlord: Sacred Kingdom』は総集編ですか？",
+        "answer": "いいえ。Sacred KingdomはライトノベルのHoly Kingdom編を映像化した本編ストーリーの映画です。総集編ではなく、時系列的には『オーバーロードIV』の第7話と第8話の間に位置します。"
       },
       {
-        "question": "Lucid Blocks はコントローラーに対応していますか？",
-        "answer": "はい。ただし、メニューがコントローラー操作を前提に設計されていないため、コントローラーでのプレイは推奨されません。キーボードとマウスの方がスムーズに操作できます。"
+        "question": "Overlordアニメはどこで視聴できますか？",
+        "answer": "TVシリーズ全4期と劇場版『Sacred Kingdom』はCrunchyrollで視聴可能です。また、お住まいの地域によっては、他のライセンス配信プラットフォームでも視聴いただけます。"
       },
       {
-        "question": "Lucid Blocks のアップデートはありますか？",
-        "answer": "はい。リリース後にいくつかのコンテンツアップデートを予定していますが、無期限に定期的なスケジュールで継続することを意図したものではありません。"
+        "question": "Overlordの第5期はありますか？",
+        "answer": "2026年初頭の時点で、第5期は公式に発表されていません。ライトノベルにはアニメ化された先のエピソードが存在しますが、現時点で公式な制作発表は確認されていません。"
       }
     ]
   },
   "cta": {
-    "title": "Lucid Blocksを探索する準備はできましたか？",
-    "description": "DiscordのLucid Blocksコミュニティに参加して、ガイドや最新情報、ディスカッションをチェックしましょう！",
+    "title": "Overlordの世界に飛び込む準備はいいですか？",
+    "description": "DiscordのOverlordコミュニティに参加して、議論やファンの考察、最新ニュースをチェックしましょう！",
     "joinCommunity": "Discordに参加",
-    "joinGame": "Steamでプレイ"
+    "joinGame": "Crunchyrollで視聴する"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Lucid Blocksのクラフト、バイオーム、クリーチャー、実績、サバイバルガイドに関する完全なリソースハブです。",
+    "title": "Anime Overlord Wiki",
+    "description": "Overlordのアニメ視聴順、キャラクター、シーズン、エピソード、映画、そして設定ガイドを網羅したリソースハブです。",
     "resources": "リソース",
     "community": "コミュニティ",
     "legal": "法的情報",
     "discord": "Discord",
     "twitter": "X / Twitter",
-    "steamCommunity": "Steam コミュニティ",
-    "steamStore": "Steam ストア",
-    "about": "このサイトについて",
+    "steamCommunity": "Reddit",
+    "steamStore": "Crunchyroll",
+    "about": "サイトについて",
     "privacy": "プライバシーポリシー",
     "terms": "利用規約",
     "copyrightNotice": "著作権",
-    "copyright": "© 2026 Lucid Blocks Wiki. Lucid Blocksの開発元とは提携していません。",
-    "disclaimer": "非公式のファン作成リソースサイトです。"
+    "copyright": "© 2026 Anime Overlord Wiki. Not affiliated with the creators of Overlord.",
+    "disclaimer": "非公式のファンによるリソースサイトです。"
   },
   "pages": {
-    "guides": {
-      "title": "Lucid Blocks 攻略ガイド",
-      "description": "初心者向けの基本から、高度な Apotheosis 戦略まで網羅した完全攻略ガイド。サバイバルとクラフトを極めましょう。",
-      "metaTitle": "Lucid Blocks 攻略ガイド - 初心者から上級者向けの戦略",
-      "metaDescription": "初心者向けのヒント、Apotheosis システム、サバイバル戦略、そしてシュールなサンドボックスの世界を攻略するための専門的な戦術を網羅した Lucid Blocks 完全ガイド。",
-      "categoryLabel": "ゲームガイド",
-      "whatIs": "ガイドとは？",
-      "whatIsDescription": "ゲームの仕組み、サバイバル戦略、Apotheosis クラフトシステムを網羅した包括的なガイド。最初の一歩から高度なテクニックまで、すべてを学びましょう。",
-      "why": "なぜガイドを読むのか？",
+    "guide": {
+      "title": "Overlord アニメガイド",
+      "description": "解説、あらすじ、レビュー、ペアレンタルガイドを含む、Overlordアニメの完全ガイド。",
+      "metaTitle": "Overlord アニメガイド - 解説、あらすじ、レビュー、ペアレンタルガイド",
+      "metaDescription": "全シーズンの解説、完全なあらすじ、レビュー、ペアレンタルガイドを網羅した包括的なOverlordアニメガイド。",
+      "categoryLabel": "ガイド",
+      "whatIs": "これらのガイドについて",
+      "whatIsDescription": "ストーリー、テーマ、キャラクター、主要な出来事を網羅し、Overlordアニメシリーズを解説する詳細ガイド。新規視聴者や復習したいファンに最適です。",
+      "why": "なぜこれらのガイドを読むのか？",
       "whySteps": {
-        "step1Title": "基本システムを学ぶ",
-        "step1Description": "Apotheosis システムを理解し、初心者が陥りやすいミスを回避しましょう",
-        "step2Title": "素早い進行",
-        "step2Description": "シュールな世界で生き残り、繁栄するための実証済みの道筋を辿りましょう",
-        "step3Title": "戦略を極める",
-        "step3Description": "探索とクラフトのための高度な戦術を身につけましょう"
+        "step1Title": "ストーリーを理解する",
+        "step1Description": "Overlordのプロットと世界観を明確に解説",
+        "step2Title": "素早く追いつく",
+        "step2Description": "あらすじやエピソード要約を読んで記憶をリフレッシュ",
+        "step3Title": "適切な選択をする",
+        "step3Description": "ペアレンタルガイドを確認して、Overlordが家族に適しているか判断する"
       },
-      "featured": "注目・必須ガイド",
+      "featured": "必須ガイド",
       "all": "すべてのガイド"
     },
-    "crafting": {
-      "title": "Lucid Blocks クラフト",
-      "description": "エッセンスの仕組み、レシピ、強力なアイテムを作るためのクラフト戦略など、Apotheosis 合成システムをマスターしましょう。",
-      "metaTitle": "Lucid Blocks クラフト - Apotheosis システムとレシピ",
-      "metaDescription": "Lucid Blocks の Apotheosis クラフトシステムを極める。エッセンスの仕組み、合成レシピ、強力な道具や武器を作るための戦略を学びましょう。",
-      "categoryLabel": "クラフトシステム",
-      "whatIs": "クラフトとは？",
-      "whatIsDescription": "Apotheosis システムは、最大6つのアイテムを組み合わせて新しいレシピを発見する、独自のエッセンス駆動型合成メカニズムです。固定されたクラフトメニューはなく、実験が鍵となります。",
-      "why": "なぜクラフトを極めるのか？",
+    "watch": {
+      "title": "Overlord 視聴順",
+      "description": "時系列順や公開順を含む、すべてのOverlordアニメシーズンと映画を正しい順序で視聴するための完全ガイド。",
+      "metaTitle": "Overlord アニメ視聴順 - 時系列順＆公開順ガイド",
+      "metaDescription": "エピソード数、時系列順、2024年の映画がどこに位置するかなど、最適なOverlordアニメ視聴順をご紹介。",
+      "categoryLabel": "視聴順",
+      "whatIs": "視聴順とは？",
+      "whatIsDescription": "4つのTVシーズンとSacred Kingdomの映画を網羅し、すべてのOverlordアニメコンテンツを正しい順序で視聴するための構成されたガイド。",
+      "why": "なぜ視聴順に従うのか？",
       "whySteps": {
-        "step1Title": "強力なアイテムをアンロック",
-        "step1Description": "合成を通じて、不可欠な道具、武器、移動用装備を発見しましょう",
-        "step2Title": "エッセンスを理解する",
-        "step2Description": "アイテムのエッセンスがどのように組み合わさり、予測可能な結果を生み出すかを学びましょう",
-        "step3Title": "リソースを最適化",
-        "step3Description": "希釈メカニズムを使用して、安価な材料から出力を最大化しましょう"
+        "step1Title": "ネタバレを避ける",
+        "step1Description": "意図された通りにストーリーの展開を体験するために、正しい順序で視聴する",
+        "step2Title": "映画を正しく位置づける",
+        "step2Description": "Sacred Kingdomの映画は正史（カノン）であり、第4期のタイムライン内に位置します",
+        "step3Title": "何を飛ばすべきか知る",
+        "step3Description": "視聴前に、総集編映画と新規コンテンツ映画を識別する"
       },
-      "featured": "注目・必須ガイド",
-      "all": "すべてのクラフトガイド"
+      "featured": "必見コンテンツ",
+      "all": "完全な視聴順"
     },
-    "items": {
-      "title": "Lucid Blocks アイテム",
-      "description": "道具、武器、移動用装備、収納ソリューションを網羅した詳細なアイテムガイド。クラフトレシピや使い方のヒントも掲載。",
-      "metaTitle": "Lucid Blocks アイテム - 道具、武器、装備ガイド",
-      "metaDescription": "道具、武器、移動用装備、収納を含む Lucid Blocks の完全アイテムデータベース。各アイテムを効果的に作り、使用する方法を学びましょう。",
-      "categoryLabel": "アイテム＆装備",
-      "whatIs": "アイテムとは？",
-      "whatIsDescription": "道具、武器、移動用装備、機能的なアイテムに関する包括的なガイド。クラフトレシピ、使用戦略、最適な組み合わせを学びましょう。",
-      "why": "なぜアイテムガイドをチェックするのか？",
+    "season": {
+      "title": "Overlord アニメシーズン",
+      "description": "第5期のニュース、現在のシーズンの状況、新シーズンのアップデートを含む、すべてのOverlordアニメシーズンの詳細な内訳。",
+      "metaTitle": "Overlord アニメシーズン - 第5期、現在の状況＆新シーズンニュース",
+      "metaDescription": "Overlordアニメシーズンに関するすべて：第5期はあるのか、現在のシーズンは何か、最新の新シーズン発表など。",
+      "categoryLabel": "シーズン",
+      "whatIs": "Overlordのシーズンとは？",
+      "whatIsDescription": "Overlordは2015年から2022年までに4つのTVアニメシーズンが放送され、さらに2024年にはSacred Kingdomの映画が公開されました。このセクションでは、すべてのシーズン情報、更新状況、第5期のニュースを扱います。",
+      "why": "なぜシーズンを追うのか？",
       "whySteps": {
-        "step1Title": "クラフトレシピを学ぶ",
-        "step1Description": "Apotheosis を使用して、不可欠な道具や武器をクラフトする方法を発見しましょう",
-        "step2Title": "装備を最適化",
-        "step2Description": "プレイスタイルや進行状況に合わせて最適なアイテムを選びましょう",
-        "step3Title": "生存率を高める",
-        "step3Description": "移動用装備や武器を装備して、危険な世界を探索しましょう"
+        "step1Title": "公開タイムラインを知る",
+        "step1Description": "各シーズンがいつ放送され、何をカバーしていたかを理解する",
+        "step2Title": "第5期のニュースを追う",
+        "step2Description": "Overlordが第4期以降も続くかどうか、最新情報を入手する",
+        "step3Title": "視聴計画を立てる",
+        "step3Description": "エピソードの要約に基づいて、どのシーズンを優先するか決定する"
       },
-      "featured": "注目・必須ガイド",
-      "all": "すべてのアイテム"
+      "featured": "シーズンのハイライト",
+      "all": "すべてのシーズン記事"
     },
-    "biomes": {
-      "title": "Lucid Blocks バイオーム",
-      "description": "世界の各地域、環境の特徴、リソースの場所、各バイオームでのサバイバルのヒントを探索しましょう。",
-      "metaTitle": "Lucid Blocks バイオーム - 世界の地域と探索",
-      "metaDescription": "ティアマナ・レイライン、Fog Meadow、シュールな地域を含む Lucid Blocks のバイオームを探索。リソースを見つけ、危険を回避し、無限の世界を旅しましょう。",
-      "categoryLabel": "世界の地域",
-      "whatIs": "バイオームとは？",
-      "whatIsDescription": "世界のさまざまな地域、環境の特徴、リソースの分布、危険地帯に関するガイド。各エリアで何が待ち受けているか、どのように準備すべきかを学びましょう。",
-      "why": "なぜバイオームを探索するのか？",
+    "movie": {
+      "title": "Overlord アニメ映画",
+      "description": "Sacred Kingdomの公開日、映画リスト、予告編の詳細を含む、すべての Overlord アニメ映画の完全ガイド。",
+      "metaTitle": "Overlord アニメ映画 - Sacred Kingdom、映画リスト、公開日",
+      "metaDescription": "2024年の Sacred Kingdom の公開日、全映画リスト、公式予告編を含む、すべての Overlord アニメ映画のガイド。",
+      "categoryLabel": "映画",
+      "whatIs": "Overlord の映画とは？",
+      "whatIsDescription": "Overlord には複数のアニメ映画があります。シーズン1と2を振り返る2つの総集編映画と、新しい正史のストーリーを含む2024年の劇場版 Sacred Kingdom です。",
+      "why": "なぜ映画を見るべきなのか？",
       "whySteps": {
-        "step1Title": "リソースを見つける",
-        "step1Description": "各地域特有の希少な材料やエッセンスの場所を特定しましょう",
-        "step2Title": "危険を回避",
-        "step2Description": "環境の危険や敵対的な生物について理解しましょう",
-        "step3Title": "探索を計画",
-        "step3Description": "各バイオームのタイプに合わせて、適切な道具と装備を準備しましょう"
+        "step1Title": "正史の映画を体験する",
+        "step1Description": "Sacred Kingdom は完全な正史であり、メインストーリーの続きです。",
+        "step2Title": "公開日を確認する",
+        "step2Description": "Sacred Kingdom や将来の映画の正確な公開日を確認できます。",
+        "step3Title": "予告編を見る",
+        "step3Description": "視聴する前に、公式予告編で各映画をプレビューできます。"
       },
-      "featured": "注目・必須ガイド",
-      "all": "すべてのバイオーム"
+      "featured": "注目の映画",
+      "all": "すべての映画記事"
     },
-    "building": {
-      "title": "Lucid Blocks 建築",
-      "description": "クオリア個人次元、拠点建築、収納管理、クリエイティブな建設テクニックをマスターしましょう。",
-      "metaTitle": "Lucid Blocks 建築 - クオリアと拠点建設",
-      "metaDescription": "クオリア個人次元、拠点建設、収納ソリューション、クリエイティブな建築テクニックなど、Lucid Blocks の建築を極めましょう。",
-      "categoryLabel": "建築＆拠点",
-      "whatIs": "建築とは？",
-      "whatIsDescription": "クオリア個人次元システム、拠点建設、収納管理、クリエイティブな建築に関するガイド。シュールな世界の中に自分だけの安息の地を作る方法を学びましょう。",
-      "why": "なぜ拠点を建てるのか？",
+    "characters": {
+      "title": "Overlord アニメキャラクター",
+      "description": "Nazarick のリーダー、階層守護者、王国の人物、Sacred Kingdom のキャストを含む完全なキャラクターガイド。",
+      "metaTitle": "Overlord アニメキャラクター - Ainz Ooal Gown, Albedo, Shalltear & 階層守護者",
+      "metaDescription": "Ainz Ooal Gown, Albedo, Shalltear、セバス、およびすべての Nazarick 守護者を網羅した Overlord アニメのキャラクターガイド。",
+      "categoryLabel": "キャラクター",
+      "whatIs": "どんなキャラクターがいるのか？",
+      "whatIsDescription": "Overlord には、Nazarick の階層守護者から人間の王国の統治者まで、多くのキャラクターが登場します。このセクションでは、主要なキャラクター、その役割、そして彼らの物語について解説します。",
+      "why": "なぜキャラクターガイドを読むべきなのか？",
       "whySteps": {
-        "step1Title": "安全な場所を作る",
-        "step1Description": "収納やクラフト作業のための安全な拠点を確立しましょう",
-        "step2Title": "リソースを管理",
-        "step2Description": "収納ソリューションを使用して、材料を効率的に整理しましょう",
-        "step3Title": "クオリアをアンロック",
-        "step3Description": "究極の利便性を備えた個人のポケット次元にアクセスしましょう"
+        "step1Title": "勢力を知る",
+        "step1Description": "どのキャラクターが Nazarick、人間の王国、または Sacred Kingdom に属しているかを理解できます。",
+        "step2Title": "キャラクターの成長を追う",
+        "step2Description": "全4シーズンと映画を通じて、各キャラクターのストーリーを追うことができます。",
+        "step3Title": "映画に備える",
+        "step3Description": "2024年の映画を観る前に、新しい Sacred Kingdom のキャラクターについて学べます。"
       },
-      "featured": "注目・必須ガイド",
-      "all": "すべての建築ガイド"
+      "featured": "主要キャラクター",
+      "all": "すべてのキャラクター"
     },
-    "support": {
-      "title": "Lucid Blocks サポート",
-      "description": "テクニカルサポート、プラットフォームの互換性、パフォーマンスの最適化、一般的な問題のトラブルシューティング。",
-      "metaTitle": "Lucid Blocks サポート - テクニカルヘルプと修正",
-      "metaDescription": "Steam Deck のセットアップ、クラッシュの修正、パフォーマンスの最適化、プラットフォームの互換性ガイドなど、Lucid Blocks のテクニカルサポートを受けられます。",
-      "categoryLabel": "テクニカルサポート",
-      "whatIs": "サポートとは？",
-      "whatIsDescription": "プラットフォームの互換性、パフォーマンスの最適化、クラッシュの修正、一般的な問題を網羅したテクニカルガイド。Steam Deck、マルチプレイヤーに関する質問、設定などのヘルプ。",
-      "why": "なぜサポートをチェックするのか？",
+    "lore": {
+      "title": "Overlord アニメ設定・世界観",
+      "description": "Nazarick、階層守護者、YGGDRASIL、諸国、魔法体系など、Overlord アニメの世界観を深く掘り下げます。",
+      "metaTitle": "Overlord アニメ設定 - Nazarick, YGGDRASIL, 階層守護者 & 諸国",
+      "metaDescription": "ナザリック地下大墳墓、階層守護者、YGGDRASIL の起源、世界の諸国、呪文など、Overlord アニメの設定を探索します。",
+      "categoryLabel": "設定・世界観",
+      "whatIs": "設定・世界観とは？",
+      "whatIsDescription": "Overlord には、仮想ゲーム世界 YGGDRASIL から新世界にわたる豊かな世界観があり、ナザリック地下大墳墓、その階層守護者、魔法体系、政治勢力が含まれます。",
+      "why": "なぜ設定を探索するのか？",
       "whySteps": {
-        "step1Title": "技術的な問題を解決",
-        "step1Description": "クラッシュ、パフォーマンスの問題、互換性の問題を解決しましょう",
-        "step2Title": "パフォーマンスを最適化",
-        "step2Description": "お使いのプラットフォームで最高の体験を得るために設定を構成しましょう",
-        "step3Title": "プラットフォームの互換性",
-        "step3Description": "Steam Deck、コントローラーのサポート、システム要件について学びましょう"
+        "step1Title": "YGGDRASIL を理解する",
+        "step1Description": "Ainz Ooal Gown がいたゲーム世界がどのように現在の物語を形作ったかを学びます。",
+        "step2Title": "Nazarick を探索する",
+        "step2Description": "ナザリック地下大墳墓の構造、階層、守護者について発見できます。",
+        "step3Title": "世界地図を知る",
+        "step3Description": "新世界の国々、勢力、政治情勢を理解できます。"
       },
-      "featured": "注目・必須ガイド",
-      "all": "すべてのサポート記事"
+      "featured": "重要な設定",
+      "all": "すべての設定記事"
+    },
+    "compare": {
+      "title": "Overlord 比較とおすすめ作品",
+      "description": "Overlord アニメを似た作品、漫画、ライトノベルと比較し、Overlord に似た最高のアニメを見つけます。",
+      "metaTitle": "Overlord に似たアニメ - 比較、漫画対アニメ & ライトノベルガイド",
+      "metaDescription": "Overlord に似たアニメを探し、漫画とアニメの違いを比較し、アニメの先にあるライトノベルの続きを探索します。",
+      "categoryLabel": "比較",
+      "whatIs": "これらの比較とは？",
+      "whatIsDescription": "Overlord を似た異世界アニメと比較し、漫画とアニメの違いを説明し、アニメ化された範囲を超えるライトノベルの内容を網羅したガイドです。",
+      "why": "なぜ比較を読むべきなのか？",
+      "whySteps": {
+        "step1Title": "似たアニメを見つける",
+        "step1Description": "Overlord ファンにおすすめの異世界やダークファンタジーアニメを発見できます。",
+        "step2Title": "物語の続きを知る",
+        "step2Description": "漫画やライトノベルで物語を読み続ける方法を学べます。",
+        "step3Title": "違いを理解する",
+        "step3Description": "原作と比較してアニメで変更または省略された内容を知ることができます。"
+      },
+      "featured": "おすすめ作品",
+      "all": "すべての比較"
+    },
+    "media": {
+      "title": "Overlord アニメメディア",
+      "description": "ストリーミングプラットフォーム、制作スタジオ、オープニング・エンディングテーマ、MyAnimeListの評価など、Overlord アニメのメディア情報を網羅しています。",
+      "metaTitle": "Overlord アニメのNetflix配信、制作スタジオ、オープニング＆エンディングテーマ",
+      "metaDescription": "Netflixやその他のストリーミングプラットフォームで Overlord アニメを見つけ、制作スタジオであるマッドハウスについて学び、オープニングやエンディングテーマをチェックしましょう。",
+      "categoryLabel": "メディア",
+      "whatIs": "ここにはどのようなメディア情報がありますか？",
+      "whatIsDescription": "Overlord の視聴方法、制作スタジオ、MyAnimeListでの評価、そして象徴的なオープニング・エンディングテーマ曲に関する情報です。",
+      "why": "なぜメディア情報をチェックするのですか？",
+      "whySteps": {
+        "step1Title": "視聴場所を見つける",
+        "step1Description": "お住まいの地域で Overlord を配信しているストリーミングプラットフォームを確認できます",
+        "step2Title": "スタジオについて知る",
+        "step2Description": "Overlord におけるマッドハウスの仕事と、そのアニメーションの質を探索します",
+        "step3Title": "音楽を発見する",
+        "step3Description": "Overlord の各シーズンのオープニング・エンディングテーマを見つけて楽しみましょう"
+      },
+      "featured": "ストリーミング＆スタジオ",
+      "all": "すべてのメディア記事"
     }
   }
 }
