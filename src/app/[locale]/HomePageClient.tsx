@@ -466,14 +466,19 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
             <h2 className="text-4xl md:text-5xl font-bold mb-4"><LinkedTitle linkData={moduleLinkMap['overlordAinz']} locale={locale}>{t.modules.overlordAinz.title}</LinkedTitle></h2>
             <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.overlordAinz.intro}</p>
           </div>
-          <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
+          <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mb-8">
             {t.modules.overlordAinz.cards.map((card: any, index: number) => (
               <div key={index} className="p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
-                <h3 className="font-bold text-lg mb-2 text-[hsl(var(--nav-theme-light))]">
-                  <LinkedTitle linkData={moduleLinkMap[`overlordAinz::cards::${index}`]} locale={locale}>
-                    {card.name}
-                  </LinkedTitle>
-                </h3>
+                <div className="flex items-center gap-3 mb-3">
+                  <div className="w-9 h-9 rounded-lg bg-[hsl(var(--nav-theme)/0.1)] flex items-center justify-center flex-shrink-0">
+                    <DynamicIcon name={card.icon || 'Crown'} className="w-5 h-5 text-[hsl(var(--nav-theme-light))]" />
+                  </div>
+                  <h3 className="font-bold text-base text-[hsl(var(--nav-theme-light))]">
+                    <LinkedTitle linkData={moduleLinkMap[`overlordAinz::cards::${index}`]} locale={locale}>
+                      {card.name}
+                    </LinkedTitle>
+                  </h3>
+                </div>
                 <p className="text-muted-foreground text-sm">{card.description}</p>
               </div>
             ))}
@@ -496,17 +501,21 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
             <h2 className="text-4xl md:text-5xl font-bold mb-4"><LinkedTitle linkData={moduleLinkMap['overlordAlbedo']} locale={locale}>{t.modules.overlordAlbedo.title}</LinkedTitle></h2>
             <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.overlordAlbedo.intro}</p>
           </div>
-          <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 gap-4">
+          <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
             {t.modules.overlordAlbedo.regions.map((region: any, index: number) => (
               <div key={index} className="p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
                 <div className="flex items-center gap-3 mb-3">
-                  <Shield className="w-5 h-5 text-[hsl(var(--nav-theme-light))]" />
-                  <h3 className="font-bold">
-                    <LinkedTitle linkData={moduleLinkMap[`overlordAlbedo::regions::${index}`]} locale={locale}>
-                      {region.name}
-                    </LinkedTitle>
-                  </h3>
-                  <span className="text-xs px-2 py-1 rounded-full bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)]">{region.type}</span>
+                  <div className="w-9 h-9 rounded-lg bg-[hsl(var(--nav-theme)/0.1)] flex items-center justify-center flex-shrink-0">
+                    <DynamicIcon name={region.icon || 'Shield'} className="w-5 h-5 text-[hsl(var(--nav-theme-light))]" />
+                  </div>
+                  <div className="flex flex-col min-w-0">
+                    <h3 className="font-bold text-sm leading-tight">
+                      <LinkedTitle linkData={moduleLinkMap[`overlordAlbedo::regions::${index}`]} locale={locale}>
+                        {region.name}
+                      </LinkedTitle>
+                    </h3>
+                    <span className="text-xs text-[hsl(var(--nav-theme-light))/0.7] mt-0.5">{region.type}</span>
+                  </div>
                 </div>
                 <p className="text-muted-foreground text-sm">{region.description}</p>
               </div>
@@ -525,8 +534,11 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
           <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
             {t.modules.overlordShalltear.creatures.map((c: any, index: number) => (
               <div key={index} className="p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
-                <div className="mb-3">
-                  <span className={`text-xs px-2 py-1 rounded-full border ${["Key Arc"].includes(c.role) ? "bg-red-500/10 border-red-500/30 text-red-400" : "bg-[hsl(var(--nav-theme)/0.1)] border-[hsl(var(--nav-theme)/0.3)]"}`}>{c.role}</span>
+                <div className="flex items-center gap-3 mb-3">
+                  <div className="w-9 h-9 rounded-lg bg-[hsl(var(--nav-theme)/0.1)] flex items-center justify-center flex-shrink-0">
+                    <DynamicIcon name={c.icon || 'Star'} className="w-5 h-5 text-[hsl(var(--nav-theme-light))]" />
+                  </div>
+                  <span className={`text-xs px-2 py-1 rounded-full border ${c.role === "Key Arc" ? "bg-red-500/10 border-red-500/30 text-red-400" : "bg-[hsl(var(--nav-theme)/0.1)] border-[hsl(var(--nav-theme)/0.3)]"}`}>{c.role}</span>
                 </div>
                 <h3 className="font-bold mb-2">
                   <LinkedTitle linkData={moduleLinkMap[`overlordShalltear::creatures::${index}`]} locale={locale}>
@@ -550,9 +562,11 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
           <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mb-8">
             {t.modules.overlordFloorGuardians.items.map((item: any, index: number) => (
               <div key={index} className="p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
-                <div className="flex items-center gap-2 mb-3">
-                  <Trophy className="w-5 h-5 text-[hsl(var(--nav-theme-light))]" />
-                  <span className="text-xs px-2 py-1 rounded-full bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)]">{item.type}</span>
+                <div className="flex items-center gap-3 mb-3">
+                  <div className="w-9 h-9 rounded-lg bg-[hsl(var(--nav-theme)/0.1)] flex items-center justify-center flex-shrink-0">
+                    <DynamicIcon name={item.icon || 'Trophy'} className="w-5 h-5 text-[hsl(var(--nav-theme-light))]" />
+                  </div>
+                  <span className="text-xs px-2 py-1 rounded-full bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)] leading-tight">{item.type}</span>
                 </div>
                 <h3 className="font-bold mb-2">
                   <LinkedTitle linkData={moduleLinkMap[`overlordFloorGuardians::items::${index}`]} locale={locale}>

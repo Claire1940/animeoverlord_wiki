@@ -40,6 +40,12 @@ export const iconRegistry: Record<string, LucideIcon> = {
   Mic2: LucideIcons.Mic2,
   Music: LucideIcons.Music,
   Radio: LucideIcons.Radio,
+  // Character module icons
+  User: LucideIcons.User,
+  Zap: LucideIcons.Zap,
+  Heart: LucideIcons.Heart,
+  Brain: LucideIcons.Brain,
+  CheckCircle: LucideIcons.CheckCircle,
 
   // UI 交互图标
   Sparkles: LucideIcons.Sparkles,

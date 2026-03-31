@@ -81,22 +81,22 @@
       },
       {
         "icon": "Crown",
-        "title": "Ainz Ooal Gown Profile",
+        "title": "Anime Overlord: Ainz Ooal Gown",
         "description": "The Sorcerer King and former YGGDRASIL player Momonga"
       },
       {
         "icon": "Shield",
-        "title": "Albedo Character Guide",
+        "title": "Anime Overlord: Albedo Guide",
         "description": "Guardian Overseer's role, powers, and story significance"
       },
       {
         "icon": "Swords",
-        "title": "Shalltear Bloodfallen Guide",
+        "title": "Anime Overlord: Shalltear Guide",
         "description": "Vampire Floor Guardian and Season 1 conflict arc"
       },
       {
         "icon": "Trophy",
-        "title": "Floor Guardians Ranked",
+        "title": "Anime Overlord Floor Guardians Ranked",
         "description": "All Floor Guardians by role and combat specialty"
       },
       {
@@ -289,23 +289,37 @@
     },
     "overlordAinz": {
       "title": "Anime Overlord: Ainz Ooal Gown",
-      "intro": "Formerly the human player Momonga, Ainz is the Sorcerer King of the Sorcerer Kingdom and master of the Great Tomb of Nazarick. His motives and strategy drive every major arc in the series.",
+      "intro": "Ainz Ooal Gown is the face of Overlord — former player Momonga, now the Sorcerer King of Nazarick. His identity, titles, magic, and story arc across the anime and The Sacred Kingdom film define every major event in the series.",
       "cards": [
         {
-          "name": "Origin and Identity",
-          "description": "Momonga was a dedicated YGGDRASIL player who stayed logged in as the servers shut down, awakening in the game world as his skeleton avatar Ainz Ooal Gown."
+          "icon": "User",
+          "name": "Core Identity",
+          "description": "Formerly Momonga, a dedicated YGGDRASIL player known as Suzuki Satoru in the real world. He remains logged in as servers shut down and awakens in the New World as the undead Overlord Ainz Ooal Gown."
         },
         {
-          "name": "The Sorcerer King Persona",
-          "description": "As Ainz Ooal Gown he builds the Sorcerer Kingdom and projects absolute power while managing inner doubts and human emotions that slowly change over time."
+          "icon": "Crown",
+          "name": "Titles and Public Personas",
+          "description": "Ainz carries multiple titles: Supreme One, Sorcerer King, King of Darkness, and Momon the Dark Hero. Each persona serves a distinct political or strategic role across different arcs."
         },
         {
-          "name": "Magic and Combat",
-          "description": "An undead magic caster of supreme tier with access to over 700 spells, including world-class abilities that can reshape battlefield outcomes entirely."
+          "icon": "Eye",
+          "name": "Race and On-Screen Presence",
+          "description": "He appears as an undead Overlord — a skeletal figure in a black academic robe with gold and violet trim and a floating red orb beneath his ribs. His former race was human."
         },
         {
-          "name": "Momon the Adventurer",
-          "description": "His human-facing alias as an adventurer allows Ainz to gather intelligence and manage public perception without revealing Nazarick's full capabilities."
+          "icon": "Zap",
+          "name": "Magic Profile",
+          "description": "Specialized in necromancy and instant-death magic with over 700 spells available. Super-tier abilities include Fallen Down and Iä Shub-Niggurath, and he exploits time-stop timing for devastating combinations."
+        },
+        {
+          "icon": "Landmark",
+          "name": "Position in Nazarick and the World",
+          "description": "Revered as the highest of the Forty-One Supreme Beings by Nazarick's NPCs. Outside, he becomes the Sorcerer King and a major political force whose influence reshapes the entire New World."
+        },
+        {
+          "icon": "Clock",
+          "name": "Story Progression",
+          "description": "Begins as the last player at YGGDRASIL's shutdown, establishes the Sorcerer Kingdom from Nazarick, and becomes a world-shaping power in the Holy Kingdom arc covered in The Sacred Kingdom film."
         }
       ],
       "highlights": [
@@ -317,89 +331,127 @@
     },
     "overlordAlbedo": {
       "title": "Anime Overlord: Albedo Character Guide",
-      "intro": "Albedo serves as Guardian Overseer of the Great Tomb of Nazarick. She is one of the most recognizable Overlord characters and plays a central administrative and emotional role throughout the series.",
+      "intro": "Albedo is Guardian Overseer of the Great Tomb of Nazarick, supervising all seven Floor Guardians. Her design, unwavering loyalty to Ainz, and political role make her one of the most searched characters in the Overlord series.",
       "regions": [
         {
-          "name": "Role in Nazarick",
+          "icon": "Shield",
+          "name": "Core Role",
           "type": "Guardian Overseer",
-          "description": "Albedo manages all Floor Guardians and serves as the highest administrative authority below Ainz, coordinating Nazarick's internal operations and external deployments."
+          "description": "Albedo supervises the seven Floor Guardians and ranks above all other Nazarick NPCs. She also serves as Prime Minister, handling internal affairs and management during Ainz's absence."
         },
         {
+          "icon": "Users",
+          "name": "Race, Family, and Creator",
+          "type": "Background",
+          "description": "A demon succubus created by Tabula Smaragdina. She is the middle sister — Nigredo is her older sister, Rubedo is her younger sister."
+        },
+        {
+          "icon": "Sparkles",
+          "name": "Design and Presence",
+          "type": "Visuals",
+          "description": "Jet-black hair, golden eyes with vertically split pupils, black wings, and curved horns. Her white dress in standard scenes transforms into heavy black full plate armor when she enters battle."
+        },
+        {
+          "icon": "Heart",
           "name": "Personality and Loyalty",
-          "type": "Character trait",
-          "description": "Her unwavering devotion to Ainz Ooal Gown was written into her character settings by Momonga before the server transfer, making her completely dedicated to his success."
+          "type": "Character",
+          "description": "Intensely loyal to Ainz with emotional possessiveness and occasional jealousy. Her mix of obsession and administrative competence makes her one of the most compelling characters in the series."
         },
         {
-          "name": "Combat Capabilities",
-          "type": "Battle role",
-          "description": "Albedo is a full-plate warrior type with exceptional defense and offensive power, considered one of the strongest combat assets in Nazarick alongside Shalltear."
+          "icon": "Swords",
+          "name": "Power Profile",
+          "type": "Combat",
+          "description": "Highest defensive power among all Nazarick NPCs, especially when wearing Hermes Trismegistus. She can transfer received damage to her armor and withstand a Super-Tier Magic spell with her defensive skill."
         },
         {
-          "name": "Political Significance",
-          "type": "Story role",
-          "description": "She drives much of Nazarick's internal political tension and is central to later story developments around the Sorcerer Kingdom's expansion strategy."
+          "icon": "Settings",
+          "name": "Administration and Equipment",
+          "type": "Utility",
+          "description": "Among the top three NPCs in intelligence. Manages Nazarick's internal operations and is connected to key systems including the World Item Ginnungagap and the 3F weapon."
         }
       ]
     },
     "overlordShalltear": {
       "title": "Anime Overlord: Shalltear Bloodfallen",
-      "intro": "Shalltear Bloodfallen is the Floor Guardian of the first three floors and one of the most powerful individual combatants in Nazarick. Her conflict in Season 1 remains one of the most memorable moments in the anime.",
+      "intro": "Shalltear Bloodfallen is the Floor Guardian of Nazarick's first through third floors and one of the series' strongest combatants. Her iconic Season 1 conflict against Ainz remains one of the most searched arcs in the Overlord anime.",
       "creatures": [
         {
-          "name": "Floor Guardian of Floors 1–3",
-          "role": "Nazarick Guardian",
-          "description": "Shalltear oversees the first three floors of the Great Tomb and commands the area's undead forces and vampire servants."
+          "icon": "Star",
+          "name": "Core Identity",
+          "role": "Floor Guardian",
+          "description": "A true vampire and Floor Guardian of floors 1–3, created by Peroroncino. Her residence is listed as the Adipocere Chamber on the 2nd floor of the Great Tomb."
         },
         {
-          "name": "True Vampire Noble",
-          "role": "Race and Powers",
-          "description": "As a true vampire of noble lineage, she wields blood magic, regeneration, and physical combat capabilities that place her among Nazarick's absolute peak fighters."
+          "icon": "Eye",
+          "name": "Design and Visual Hook",
+          "role": "Visuals",
+          "description": "Silver hair, crimson eyes, pale skin, and a black dress in standard appearance — switching to blood-red full plate armor when fully equipped for combat."
         },
         {
-          "name": "The Season 1 Conflict",
-          "role": "Key Arc",
-          "description": "Shalltear is mind-controlled by an outside power and turned against Nazarick, forcing Ainz to fight her directly in one of the series' most intense and personal confrontations."
-        },
-        {
+          "icon": "MessageCircle",
           "name": "Personality",
-          "role": "Character trait",
-          "description": "Despite her terrifying combat ability, Shalltear's prideful and sometimes naive personality provides both dramatic tension and comic relief across the series."
+          "role": "Character",
+          "description": "Proud and flirtatious with a short fuse when things go wrong. She takes her Guardian duty with full seriousness while her volatile confidence drives some of the anime's most dramatic scenes."
+        },
+        {
+          "icon": "Trophy",
+          "name": "Combat Reputation",
+          "role": "Power",
+          "description": "The strongest Floor Guardian excluding Gargantua, with the highest overall stats among standard Guardians. Ainz himself considers her the best one-on-one fighter in Nazarick."
+        },
+        {
+          "icon": "CheckCircle",
+          "name": "Battle Utility",
+          "role": "Specialties",
+          "description": "Combines life-sustaining abilities, the most actual combat experience of any Floor Guardian, confirmed divine magic casting, and a class build especially effective against certain magic-caster types."
+        },
+        {
+          "icon": "BookOpen",
+          "name": "Defining Story Arc",
+          "role": "Key Arc",
+          "description": "Brainwashed by a World Item and turned against Nazarick, she is defeated by Ainz in one of the anime's signature battles. She is then resurrected and continues as a key Floor Guardian."
         }
       ]
     },
     "overlordFloorGuardians": {
       "title": "Anime Overlord Floor Guardians Ranked",
-      "intro": "The Floor Guardians are the most powerful defenders of the Great Tomb of Nazarick, each assigned to a specific floor tier. This overview covers their roles, combat specialties, and commonly discussed strength rankings.",
+      "intro": "The Floor Guardians are the most powerful defenders of the Great Tomb of Nazarick. This overview ranks them by role, combat specialty, and commonly discussed strength order — from raw dueling power to strategic command value.",
       "items": [
         {
+          "icon": "Swords",
           "name": "Shalltear Bloodfallen",
-          "type": "Floors 1–3",
-          "description": "Widely regarded as the most powerful Floor Guardian in direct one-on-one combat, with true vampire powers, complete regeneration, and world-class offensive ability."
+          "type": "Floors 1–3 — Top Duelist",
+          "description": "Widely regarded as the strongest Floor Guardian in direct one-on-one combat, with the highest overall stats among standard Guardians. Ainz considers her the best single-target fighter."
         },
         {
-          "name": "Albedo",
-          "type": "Overseer",
-          "description": "Guardian Overseer who ranks among the top in raw combat despite her administrative role. Her defense is considered exceptional even within Nazarick."
-        },
-        {
-          "name": "Demiurge",
-          "type": "Floor 7",
-          "description": "The strategic genius of Nazarick with powerful demon abilities. His tactical mind makes him arguably the most dangerous Guardian in large-scale operations."
-        },
-        {
-          "name": "Cocytus",
-          "type": "Floor 5",
-          "description": "An insectoid warrior with immense physical combat ability and a strict honor code that sometimes sets him apart from the other Guardians in approach."
-        },
-        {
+          "icon": "Shield",
           "name": "Mare Bello Fiore",
-          "type": "Floor 6",
-          "description": "A male dark elf who controls nature and earth magic. Despite a shy personality, he is one of the more powerful spell-type Guardians in Nazarick."
+          "type": "Floor 6 — Top AoE Caster",
+          "description": "Strongest area-of-effect caster in Nazarick, built for army-scale destruction and long-range magic pressure. A top-two combat contender alongside Shalltear."
         },
         {
+          "icon": "Hammer",
+          "name": "Cocytus",
+          "type": "Floor 5 — Weapon Master",
+          "description": "Four-armed insectoid warrior with the greatest attack power when using weapons. His strict honor code makes him one of Nazarick's premier warrior-types."
+        },
+        {
+          "icon": "Brain",
+          "name": "Demiurge",
+          "type": "Floor 7 — Strategic Commander",
+          "description": "The strategic mastermind of Nazarick with a jack-of-all-trades combat toolkit. His deception, administration, and planning make him irreplaceable in large-scale operations."
+        },
+        {
+          "icon": "TrendingUp",
           "name": "Aura Bella Fiora",
-          "type": "Floor 6",
-          "description": "Mare's twin sister, a ranger-type Guardian who excels in speed, beast taming, and ranged combat in open environments outside the tomb."
+          "type": "Floor 6 — Ranger and Beast Tamer",
+          "description": "Excels in speed, beast taming, and guerrilla warfare. She becomes significantly more dangerous when operating with summons, terrain advantages, and team support."
+        },
+        {
+          "icon": "Landmark",
+          "name": "Albedo",
+          "type": "Overseer — Defensive Wall",
+          "description": "Highest defensive power among Nazarick NPCs. Her value comes from absurd defense, control, and survivability, making her a top-tier pick in sustained engagements."
         }
       ],
       "unlockMilestones": [
