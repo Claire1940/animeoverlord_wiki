@@ -51,696 +51,602 @@
     }
   },
   "gameFeature": {
-    "title": "Lucid Blocks Gameplay",
-    "description": "Explore surreal biomes, fuse items with Apotheosis, and survive strange creatures in this dreamlike voxel sandbox on Steam."
+    "title": "Overlord Anime Overview",
+    "description": "Dark fantasy isekai following Momonga as he becomes Ainz Ooal Gown, leading Nazarick through conquest, political intrigue, and the Holy Kingdom campaign."
   },
   "tools": {
-    "title": "Lucid Blocks",
-    "titleHighlight": "Resources",
-    "subtitle": "Everything you need to explore, craft, and survive in Lucid Blocks",
+    "title": "Anime Overlord",
+    "titleHighlight": "Wiki",
+    "subtitle": "Complete guide to the Overlord anime series — watch order, characters, lore, and everything in between",
     "cards": [
       {
-        "icon": "BookOpen",
-        "title": "Beginner Guide",
-        "description": "First steps, exploration, and early progression"
+        "icon": "ListOrdered",
+        "title": "Anime Overlord Watch Order",
+        "description": "Complete viewing sequence for all seasons and films"
       },
       {
-        "icon": "Sparkles",
-        "title": "Apotheosis Crafting",
-        "description": "Freeform fusion system and early recipes"
+        "icon": "Users",
+        "title": "Anime Overlord Characters",
+        "description": "Nazarick guardians, kingdom figures, and movie cast"
       },
       {
-        "icon": "Hammer",
-        "title": "Tools and Weapons",
-        "description": "Frost Pick, Azrael, Hookshot, and more"
+        "icon": "List",
+        "title": "Anime Overlord Episode Guide",
+        "description": "All 52 episodes organized by season with summaries"
       },
       {
-        "icon": "Package",
-        "title": "Storage and Inventory",
-        "description": "Cache Cubes, Cabinets, and Qualia storage"
+        "icon": "Film",
+        "title": "Overlord: The Sacred Kingdom",
+        "description": "Where the 2024 canon movie fits in the story"
       },
       {
-        "icon": "Home",
-        "title": "Qualia and Base Building",
-        "description": "Personal Qualia and home base setup"
-      },
-      {
-        "icon": "Eye",
-        "title": "World Regions",
-        "description": "Fog Meadow, Essence Morass, and more"
-      },
-      {
-        "icon": "AlertTriangle",
-        "title": "Creatures and Enemies",
-        "description": "Manikins, spiders, and how to survive"
-      },
-      {
-        "icon": "ArrowRight",
-        "title": "Mobility Gear",
-        "description": "Hookshot, Glider Glove, Bee Glider"
-      },
-      {
-        "icon": "TrendingUp",
-        "title": "Farming and Growth",
-        "description": "Seed progression and material farming"
-      },
-      {
-        "icon": "Star",
-        "title": "Best Early Unlocks",
-        "description": "Priority upgrades for the first hour"
-      },
-      {
-        "icon": "ClipboardCheck",
-        "title": "Achievement Tracker",
-        "description": "All 19 Steam achievements and conditions"
-      },
-      {
-        "icon": "MessageCircle",
-        "title": "Singleplayer FAQ",
-        "description": "Platform, price, co-op, and language questions"
-      },
-      {
-        "icon": "Gamepad2",
-        "title": "Steam Deck and Controller",
-        "description": "Proton 9.0.4 setup and controller tips"
-      },
-      {
-        "icon": "Settings",
-        "title": "Settings and Accessibility",
-        "description": "Hide hands, Vulkan, and display options"
-      },
-      {
-        "icon": "Clock",
-        "title": "Updates and Patch Notes",
-        "description": "Recent fixes and roadmap notes"
+        "icon": "Crown",
+        "title": "Ainz Ooal Gown Profile",
+        "description": "The Sorcerer King and former YGGDRASIL player Momonga"
       },
       {
         "icon": "Shield",
-        "title": "Crash Fix",
-        "description": "Vulkan check, logs path, and bug reporting"
+        "title": "Albedo Character Guide",
+        "description": "Guardian Overseer's role, powers, and story significance"
+      },
+      {
+        "icon": "Swords",
+        "title": "Shalltear Bloodfallen Guide",
+        "description": "Vampire Floor Guardian and Season 1 conflict arc"
+      },
+      {
+        "icon": "Trophy",
+        "title": "Floor Guardians Ranked",
+        "description": "All Floor Guardians by role and combat specialty"
+      },
+      {
+        "icon": "Landmark",
+        "title": "Nazarick Explained",
+        "description": "Structure, factions, and layout of the Great Tomb"
+      },
+      {
+        "icon": "BookOpen",
+        "title": "Overlord Story Arcs",
+        "description": "Major arcs mapped to seasons and episode ranges"
+      },
+      {
+        "icon": "Clock",
+        "title": "Overlord Timeline",
+        "description": "Chronological order of all major events and arcs"
+      },
+      {
+        "icon": "BookMarked",
+        "title": "Light Novel Reading Order",
+        "description": "Where to start after finishing the anime"
+      },
+      {
+        "icon": "Scale",
+        "title": "Anime vs Light Novel",
+        "description": "Key differences and what the anime adaptation skips"
+      },
+      {
+        "icon": "Mic2",
+        "title": "Overlord Voice Cast",
+        "description": "Japanese and English cast for all seasons and films"
+      },
+      {
+        "icon": "Music",
+        "title": "Overlord Soundtracks",
+        "description": "All openings, endings, and theatrical film score themes"
+      },
+      {
+        "icon": "Radio",
+        "title": "Overlord Season 5 News",
+        "description": "Latest official announcements and source material status"
       }
     ]
   },
   "modules": {
-    "lucidBlocksBeginnerGuide": {
-      "title": "Lucid Blocks Beginner Guide",
-      "displayType": "steps",
-      "intro": "Start by learning how exploration, fusion, and progression connect. Lucid Blocks rewards experimentation, so early progress comes from gathering unusual materials, testing combinations, and unlocking your personal Qualia.",
+    "overlordWatchOrder": {
+      "title": "Anime Overlord Watch Order",
+      "intro": "Start with all four TV seasons, then place The Sacred Kingdom between Season 4 Episodes 7 and 8. The two 2017 recap films are optional and can be skipped without missing any new story.",
       "steps": [
         {
-          "title": "Explore Before You Commit",
-          "description": "Walk outward, mine common blocks, and keep any strange drops you find. Early progress is less about fixed quests and more about discovering what materials can become."
+          "title": "Overlord Season 1 — Start Here",
+          "description": "Introduces Momonga, Nazarick, Carne Village, the Momon identity, and the Shalltear conflict. 13 episodes, aired July–September 2015."
         },
         {
-          "title": "Unlock Your Personal Qualia Early",
-          "description": "Your personal Qualia is one of the most important early milestones. It gives you a reliable place to regroup and build around."
+          "title": "Overlord: The Undead King (Optional Recap)",
+          "description": "A theatrical recap of the first part of Season 1. Watch only if you want the movie format. Not a replacement for the full series."
         },
         {
-          "title": "Use Osmium for Fast Early Progress",
-          "description": "Osmium is one of the most useful early materials. A popular early route is combining Osmium with sticks to make a Frost Pick for fast mining."
+          "title": "Overlord: The Dark Warrior (Optional Recap)",
+          "description": "Second recap film covering Season 1 material. Best treated as bonus viewing after you already know the core story."
         },
         {
-          "title": "Record Good Fusions",
-          "description": "Keep track of successful combinations in your journal. Lucid Blocks has many possible fusion paths, so writing down useful results saves a lot of time."
+          "title": "Overlord II — Continue the Story",
+          "description": "The Lizardmen campaign, Sebas in the capital, and the growing clash between Nazarick and the human world. Episodes 14–26."
+        },
+        {
+          "title": "Overlord III — Empire and War",
+          "description": "Covers the Empire alliance, Workers invasion, and the decisive battle at Katze Plains. Episodes 27–39, aired July–October 2018."
+        },
+        {
+          "title": "Overlord IV Episodes 1–7 — Before the Movie",
+          "description": "Watch the Sorcerous Nation opening arc and Dwarven Kingdom material first. Stop after episode 7 (episode 46 overall) to place the movie correctly."
+        },
+        {
+          "title": "Overlord: The Sacred Kingdom — Canon Movie",
+          "description": "This is a canon story film, not a recap. It adapts the Holy Kingdom arc and fits chronologically between Overlord IV Episode 7 and Episode 8. Released September 2024, streaming on Crunchyroll from April 2025."
+        },
+        {
+          "title": "Overlord IV Episodes 8–13 — Finish Season 4",
+          "description": "Return to the TV run for the Re-Estize Kingdom endgame and the closing events of Season 4. Episodes 47–52."
         }
       ],
       "quickTips": [
-        "Apotheosis does not require a fixed recipe list.",
-        "Infinite world generation means moving higher or deeper can reveal completely different materials.",
-        "Movement tools and utility gear become a major quality-of-life boost once you start unlocking them.",
-        "Getting lost early is normal, but useful tools, storage, and movement options snowball fast once your first good fusions start working."
+        "The two 2017 films (The Undead King, The Dark Warrior) only recap Season 1 — skip them if you want pure story progress.",
+        "The Sacred Kingdom is a canon story film, not a recap — it counts as new content and should be watched in its correct chronological position.",
+        "If you finish Season 4 first, you can still watch The Sacred Kingdom after — just note you will see Ainz's motivation slightly out of order.",
+        "All four TV seasons and The Sacred Kingdom are available on Crunchyroll."
       ]
     },
-    "lucidBlocksApotheosisCrafting": {
-      "title": "Lucid Blocks Apotheosis Crafting",
-      "displayType": "cards",
-      "intro": "Apotheosis is the game's unrestricted fusion system. Instead of memorizing a traditional recipe book, you combine materials, watch the result, and build your own crafting knowledge over time.",
+    "overlordCharacters": {
+      "title": "Anime Overlord Main Characters",
+      "intro": "These are the core Nazarick members, major kingdom figures, and movie cast that appear most often in searches. Knowing which faction each character belongs to makes the story arcs far easier to follow.",
       "cards": [
         {
-          "name": "Freeform Fusion",
-          "description": "Apotheosis lets you fuse together different items without needing to follow a fixed recipe list."
+          "name": "Ainz Ooal Gown",
+          "description": "Formerly Momonga, now ruler of the Sorcerer Kingdom. Every major political and military arc centers on his decisions and strategy."
         },
         {
-          "name": "Multiple Useful Outcomes",
-          "description": "Different materials often push toward certain results. Community discoveries show that similar inputs can still lead to practical tools, storage, or combat upgrades."
+          "name": "Albedo",
+          "description": "Guardian Overseer and Ainz's chief administrator. She manages Nazarick's internal command structure and is fiercely loyal to Ainz."
         },
         {
-          "name": "Journal-First Crafting",
-          "description": "The best way to learn Apotheosis is to track your successful combinations. Your journal quickly becomes your own crafting reference."
+          "name": "Demiurge",
+          "description": "Floor Guardian of the seventh floor and Nazarick's strategic mastermind. A hidden force behind many of the series' largest plot movements."
         },
         {
-          "name": "Community-Tested Early Fusions",
-          "description": "Popular early examples include Osmium plus Stick for a Frost Pick, Stick plus Tungsten Appendage for Azrael, and Azrael plus Magnetite for the Tendril Rapier."
+          "name": "Shalltear Bloodfallen",
+          "description": "Guardian of the first to third floors. She drives one of the anime's most memorable early conflicts and remains one of Nazarick's strongest fighters."
+        },
+        {
+          "name": "Neia Baraja",
+          "description": "Squire and core viewpoint character in The Sacred Kingdom film. One of the most searched movie-era characters due to her pivotal role."
+        },
+        {
+          "name": "Remedios Custodio",
+          "description": "Grandmaster of the Holy Kingdom Paladin Order. She leads the desperate resistance against Jaldabaoth in The Sacred Kingdom film."
+        },
+        {
+          "name": "Renner",
+          "description": "Princess of Re-Estize whose hidden intelligence and agenda become increasingly important in later political arcs, especially around the kingdom's fall."
+        },
+        {
+          "name": "Climb",
+          "description": "Renner's loyal bodyguard who gives the kingdom side of the story its most personal viewpoint and is tightly tied to Renner's fate."
         }
       ],
       "milestones": [
-        "Fuse an item",
-        "Fuse a vermin",
-        "Fuse a divine artifact"
+        "Nazarick Leaders",
+        "Kingdom Characters",
+        "Sacred Kingdom Cast"
       ]
     },
-    "lucidBlocksToolsAndWeapons": {
-      "title": "Lucid Blocks Tools and Weapons",
-      "displayType": "itemCards",
-      "intro": "Lucid Blocks mixes official utility gear with community-discovered early weapons. The best setup is usually a blend of fast mining, safe traversal, and one dependable combat option.",
+    "overlordEpisodeGuide": {
+      "title": "Anime Overlord Episode Guide by Season",
+      "intro": "Overlord has four TV seasons with 13 episodes each, totaling 52 episodes. Each entry below shows the episode range, release window, and main story focus for that block.",
       "items": [
         {
-          "name": "Frost Pick",
-          "type": "Mining Tool",
-          "description": "A fast and affordable early pick made from Osmium and Stick. Players use it to speed up early material gathering."
+          "name": "Overlord Season 1",
+          "type": "Episodes 1–13",
+          "description": "Momonga becomes Ainz Ooal Gown, Nazarick enters the New World, Carne Village is saved, Momon is established, and the Shalltear showdown closes the season. Aired Jul–Sep 2015."
         },
         {
-          "name": "Azrael",
-          "type": "Starter Weapon",
-          "description": "A practical early weapon route crafted from Stick and Tungsten Appendage."
+          "name": "Overlord II",
+          "type": "Episodes 14–26",
+          "description": "The Lizardmen campaign, Sebas in the capital, and the widening conflict between Nazarick, adventurers, and human factions. Aired Jan–Apr 2018."
         },
         {
-          "name": "Tendril Rapier",
-          "type": "Upgraded Weapon",
-          "description": "A stronger follow-up made by combining Azrael with Magnetite. It is one of the most useful early-mid combat paths shared by players."
+          "name": "Overlord III",
+          "type": "Episodes 27–39",
+          "description": "Empire and Workers invasion material, major Carne Village developments, and the catastrophic battle at Katze Plains that reshapes the New World. Aired Jul–Oct 2018."
         },
         {
-          "name": "Hookshot",
-          "type": "Mobility Tool",
-          "description": "An official traversal item that greatly improves movement and vertical exploration."
-        },
-        {
-          "name": "Bee Glider",
-          "type": "Mobility Tool",
-          "description": "An official movement item that helps cover space more safely and efficiently."
-        },
-        {
-          "name": "Ball Wand",
-          "type": "Utility Weapon",
-          "description": "An official ranged utility item that expands your combat and puzzle options."
-        },
-        {
-          "name": "Scuba Diving Gear",
-          "type": "Traversal Gear",
-          "description": "An official utility item for reaching areas that would otherwise slow down exploration."
-        },
-        {
-          "name": "Explosives",
-          "type": "Utility Damage",
-          "description": "Officially highlighted as part of the core toolset and useful for breaking through threats or obstacles."
+          "name": "Overlord IV",
+          "type": "Episodes 40–52",
+          "description": "The Sorcerer Kingdom era through diplomacy, the Dwarven Kingdom arc, and the final destruction of Re-Estize. In chronological order, The Sacred Kingdom fits between episodes 46 and 47. Aired Jul–Sep 2022."
         }
       ]
     },
-    "lucidBlocksStorageAndInventory": {
-      "title": "Lucid Blocks Storage and Inventory",
-      "displayType": "solutionCards",
-      "intro": "Inventory pressure starts early in Lucid Blocks, so building storage should be one of your first goals. Several real player-tested solutions already stand out.",
+    "overlordSacredKingdom": {
+      "title": "Anime Overlord: The Sacred Kingdom Guide",
+      "intro": "The Sacred Kingdom is the only Overlord film that tells a major new canon story instead of recapping TV material. It expands the world beyond Nazarick and Re-Estize by focusing on the Holy Kingdom under siege.",
       "solutions": [
         {
-          "name": "Cache Cube",
-          "role": "Chest-Like Storage",
-          "description": "Cache Cubes are one of the earliest practical storage answers and are treated by players as the game's main chest-style container."
+          "name": "Where It Fits in the Watch Order",
+          "role": "Canon placement",
+          "description": "Place this film after Overlord IV Episode 7 and before Episode 8 for chronological order. It released in Japan on September 20, 2024 and began streaming on Crunchyroll in April 2025."
         },
         {
-          "name": "Cabinet",
-          "role": "Simple Base Storage",
-          "description": "Cabinets are another confirmed storage option. A shared early recipe uses 1 Cut Wood and 1 String."
+          "name": "Main Setup",
+          "role": "Story overview",
+          "description": "The Roble Holy Kingdom faces collapse from Jaldabaoth and a demi-human alliance. Remedios Custodio and Neia Baraja travel to request help from Ainz and the Sorcerer Kingdom."
         },
         {
-          "name": "Personal Qualia",
-          "role": "Long-Term Storage Hub",
-          "description": "Once unlocked, your personal Qualia becomes a natural place to organize materials, craft in peace, and expand your base setup."
+          "name": "Key New Characters",
+          "role": "Movie cast",
+          "description": "Neia Baraja (viewpoint character), Remedios Custodio (paladin leader), Calca Bessarez (Holy Queen), Kelart Custodio (high priestess), and CZ2128 Delta with an expanded role."
         },
         {
-          "name": "Journal Tracking",
-          "role": "Inventory Efficiency",
-          "description": "Recording useful combinations in your journal reduces wasted materials and makes inventory management much easier."
+          "name": "Why It Matters",
+          "role": "Story significance",
+          "description": "It gives the Holy Kingdom arc its own full adaptation and adds context to Ainz's reach beyond Re-Estize, making it essential for post-Season-4 watch guidance seekers."
         }
       ],
       "managementTips": [
-        "Prioritize one dependable storage option before hoarding rare drops.",
-        "Build around your personal Qualia once it becomes available.",
-        "Keep crafting materials, combat tools, and movement gear separated so upgrades are easier to plan.",
-        "Use your journal as part of inventory management, not just crafting discovery."
+        "This film is a canon story, not a recap — it is essential for Holy Kingdom arc fans.",
+        "Can also be watched after the full series as a standalone conclusion to the Holy Kingdom story.",
+        "Streaming on Crunchyroll alongside the main TV series.",
+        "Neia Baraja becomes one of the fan-favorite characters introduced in the film era."
       ]
     },
-    "lucidBlocksQualiaAndBaseBuilding": {
-      "title": "Lucid Blocks Qualia and Base Building",
-      "displayType": "cards",
-      "intro": "Qualia is one of the most important progression milestones in Lucid Blocks. It gives you a personal space to regroup, store materials, and gradually turn exploration progress into a real home base.",
+    "overlordAinz": {
+      "title": "Anime Overlord: Ainz Ooal Gown",
+      "intro": "Formerly the human player Momonga, Ainz is the Sorcerer King of the Sorcerer Kingdom and master of the Great Tomb of Nazarick. His motives and strategy drive every major arc in the series.",
       "cards": [
         {
-          "name": "Personal Qualia",
-          "description": "Unlocking a Qualia is an early milestone that gives you a more reliable place to return to while exploring the wider world."
+          "name": "Origin and Identity",
+          "description": "Momonga was a dedicated YGGDRASIL player who stayed logged in as the servers shut down, awakening in the game world as his skeleton avatar Ainz Ooal Gown."
         },
         {
-          "name": "Storage-First Building",
-          "description": "Many players start using their Qualia as a storage hub before turning it into a larger base with organized crafting and building space."
+          "name": "The Sorcerer King Persona",
+          "description": "As Ainz Ooal Gown he builds the Sorcerer Kingdom and projects absolute power while managing inner doubts and human emotions that slowly change over time."
         },
         {
-          "name": "Creative Home Building",
-          "description": "Lucid Blocks supports creative building, and players are already using Qualia spaces to make houses and personalized layouts."
+          "name": "Magic and Combat",
+          "description": "An undead magic caster of supreme tier with access to over 700 spells, including world-class abilities that can reshape battlefield outcomes entirely."
         },
         {
-          "name": "Progression Hub",
-          "description": "A strong base helps you separate exploration loot, crafting materials, seeds, tools, and mobility gear so your next upgrades are easier to plan."
+          "name": "Momon the Adventurer",
+          "description": "His human-facing alias as an adventurer allows Ainz to gather intelligence and manage public perception without revealing Nazarick's full capabilities."
         }
       ],
       "highlights": [
-        "Enter a qualia",
-        "Store materials safely",
-        "Expand from utility to decoration",
-        "Use base space to support crafting and farming"
+        "Overlord of Nazarick",
+        "Sorcerer King",
+        "Undead Magic Caster",
+        "Former Momonga"
       ]
     },
-    "lucidBlocksWorldRegions": {
-      "title": "Lucid Blocks World Regions",
-      "displayType": "regionCards",
-      "intro": "Lucid Blocks uses infinite world generation, so players keep discovering new environments and structures. A few named places are already showing up in achievements and community discussions.",
+    "overlordAlbedo": {
+      "title": "Anime Overlord: Albedo Character Guide",
+      "intro": "Albedo serves as Guardian Overseer of the Great Tomb of Nazarick. She is one of the most recognizable Overlord characters and plays a central administrative and emotional role throughout the series.",
       "regions": [
         {
-          "name": "Fog Meadow",
-          "type": "Community-Noted Area",
-          "description": "Fog Meadow is already known among players as a tense area associated with hidden threats and dangerous encounters."
+          "name": "Role in Nazarick",
+          "type": "Guardian Overseer",
+          "description": "Albedo manages all Floor Guardians and serves as the highest administrative authority below Ainz, coordinating Nazarick's internal operations and external deployments."
         },
         {
-          "name": "Tiamana Leyline",
-          "type": "Discovery Landmark",
-          "description": "The tiamana leyline is important enough to have its own achievement milestone, making it one of the clearest named world discoveries so far."
+          "name": "Personality and Loyalty",
+          "type": "Character trait",
+          "description": "Her unwavering devotion to Ainz Ooal Gown was written into her character settings by Momonga before the server transfer, making her completely dedicated to his success."
         },
         {
-          "name": "Clonaqualia",
-          "type": "Build Space",
-          "description": "Players are already using Clonaqualia as a place to build houses, store materials, and experiment with more permanent layouts."
+          "name": "Combat Capabilities",
+          "type": "Battle role",
+          "description": "Albedo is a full-plate warrior type with exceptional defense and offensive power, considered one of the strongest combat assets in Nazarick alongside Shalltear."
         },
         {
-          "name": "Essence Morass",
-          "type": "Farming Area",
-          "description": "Essence Morass is being shared by players as a useful farming location, especially for fighting slimes and gaining experience."
+          "name": "Political Significance",
+          "type": "Story role",
+          "description": "She drives much of Nazarick's internal political tension and is central to later story developments around the Sorcerer Kingdom's expansion strategy."
         }
       ]
     },
-    "lucidBlocksCreaturesAndEnemies": {
-      "title": "Lucid Blocks Creatures and Enemies",
-      "displayType": "creatureCards",
-      "intro": "Lucid Blocks mixes surreal creatures with real danger. Official descriptions and community posts point to a world full of strange life, hostile threats, and a few standout encounters players remember quickly.",
+    "overlordShalltear": {
+      "title": "Anime Overlord: Shalltear Bloodfallen",
+      "intro": "Shalltear Bloodfallen is the Floor Guardian of the first three floors and one of the most powerful individual combatants in Nazarick. Her conflict in Season 1 remains one of the most memorable moments in the anime.",
       "creatures": [
         {
-          "name": "Manikins",
-          "role": "Hostile Enemy",
-          "description": "Manikins are one of the officially named foes in the world and part of the game's surreal threat roster."
+          "name": "Floor Guardian of Floors 1–3",
+          "role": "Nazarick Guardian",
+          "description": "Shalltear oversees the first three floors of the Great Tomb and commands the area's undead forces and vampire servants."
         },
         {
-          "name": "Squishy Gels",
-          "role": "Hostile Enemy",
-          "description": "Squishy gels are another officially named enemy type and help define the game's strange biological style."
+          "name": "True Vampire Noble",
+          "role": "Race and Powers",
+          "description": "As a true vampire of noble lineage, she wields blood magic, regeneration, and physical combat capabilities that place her among Nazarick's absolute peak fighters."
         },
         {
-          "name": "Higher-Dimensional Beings",
-          "role": "Hostile Enemy",
-          "description": "These beings are presented as part of the world's more abstract and unsettling enemy lineup."
+          "name": "The Season 1 Conflict",
+          "role": "Key Arc",
+          "description": "Shalltear is mind-controlled by an outside power and turned against Nazarick, forcing Ainz to fight her directly in one of the series' most intense and personal confrontations."
         },
         {
-          "name": "Colossal Spiders",
-          "role": "Major Threat",
-          "description": "Spiders are one of the most immediately feared enemies in community discussions and are clearly a memorable danger."
-        },
-        {
-          "name": "Bubblebear",
-          "role": "Named Creature",
-          "description": "Bubblebear is notable enough to have its own achievement, which makes it one of the clearest named creature encounters in the game."
-        },
-        {
-          "name": "Cute Vermin",
-          "role": "Interactable Creature",
-          "description": "Vermin are not only part of fusion progression, they can also be renamed, giving them a more personal role than standard enemies."
-        },
-        {
-          "name": "Blasphemous Creature",
-          "role": "Elite Threat",
-          "description": "The blasphemous creature is tied to a dedicated combat achievement, marking it as a significant enemy encounter."
+          "name": "Personality",
+          "role": "Character trait",
+          "description": "Despite her terrifying combat ability, Shalltear's prideful and sometimes naive personality provides both dramatic tension and comic relief across the series."
         }
       ]
     },
-    "lucidBlocksMobilityGear": {
-      "title": "Lucid Blocks Mobility Gear",
-      "displayType": "itemCards",
-      "intro": "Movement upgrades are one of the biggest quality-of-life jumps in Lucid Blocks. Once you unlock your first traversal tools, exploration becomes faster, safer, and much more rewarding.",
+    "overlordFloorGuardians": {
+      "title": "Anime Overlord Floor Guardians Ranked",
+      "intro": "The Floor Guardians are the most powerful defenders of the Great Tomb of Nazarick, each assigned to a specific floor tier. This overview covers their roles, combat specialties, and commonly discussed strength rankings.",
       "items": [
         {
-          "name": "Hookshot",
-          "type": "Traversal Tool",
-          "description": "The hookshot is one of the clearest movement milestones in the game and has its own dedicated achievement."
+          "name": "Shalltear Bloodfallen",
+          "type": "Floors 1–3",
+          "description": "Widely regarded as the most powerful Floor Guardian in direct one-on-one combat, with true vampire powers, complete regeneration, and world-class offensive ability."
         },
         {
-          "name": "Glider Glove",
-          "type": "Air Mobility",
-          "description": "The glider glove opens up much smoother travel and is another major progression milestone with its own achievement."
+          "name": "Albedo",
+          "type": "Overseer",
+          "description": "Guardian Overseer who ranks among the top in raw combat despite her administrative role. Her defense is considered exceptional even within Nazarick."
         },
         {
-          "name": "Bee Glider",
-          "type": "Traversal Tool",
-          "description": "Bee gliders are officially highlighted as part of the game's movement toolkit for covering space more efficiently."
+          "name": "Demiurge",
+          "type": "Floor 7",
+          "description": "The strategic genius of Nazarick with powerful demon abilities. His tactical mind makes him arguably the most dangerous Guardian in large-scale operations."
         },
         {
-          "name": "Ball Wand",
-          "type": "Utility Gear",
-          "description": "Ball wands are one of the officially highlighted special tools and expand how you move through or interact with the world."
+          "name": "Cocytus",
+          "type": "Floor 5",
+          "description": "An insectoid warrior with immense physical combat ability and a strict honor code that sometimes sets him apart from the other Guardians in approach."
         },
         {
-          "name": "Scuba Diving Gear",
-          "type": "Exploration Gear",
-          "description": "Scuba diving gear is officially listed as part of the core utility set for reaching areas that would otherwise be harder to explore."
+          "name": "Mare Bello Fiore",
+          "type": "Floor 6",
+          "description": "A male dark elf who controls nature and earth magic. Despite a shy personality, he is one of the more powerful spell-type Guardians in Nazarick."
         },
         {
-          "name": "Explosives",
-          "type": "Utility Damage",
-          "description": "Explosives are both officially highlighted and linked to an achievement milestone, making them part of the game's core utility progression."
+          "name": "Aura Bella Fiora",
+          "type": "Floor 6",
+          "description": "Mare's twin sister, a ranger-type Guardian who excels in speed, beast taming, and ranged combat in open environments outside the tomb."
         }
       ],
       "unlockMilestones": [
-        "Command a hookshot",
-        "Fly with the glider glove",
-        "Brandish a projectile wand",
-        "Brandish an explosive"
+        "All 7 Floors Defended",
+        "Guardian Council Assembled",
+        "Supreme Beings Serve Ainz"
       ]
     },
-    "lucidBlocksFarmingAndGrowth": {
-      "title": "Lucid Blocks Farming and Growth",
-      "displayType": "mixedCards",
-      "intro": "Growth is part of real progression in Lucid Blocks. Farming is not only about planting and harvesting, but also about setting up repeatable material routes that keep your tools, weapons, and crafting options flowing.",
+    "overlordNazarick": {
+      "title": "Anime Overlord: Nazarick Explained",
+      "intro": "The Great Tomb of Nazarick is a 10-floor dungeon complex and the home base of Ainz Ooal Gown. It was built by a guild of 41 players in YGGDRASIL and now serves as the political and military center of the Sorcerer Kingdom.",
       "sections": [
         {
-          "name": "Seed Progression",
-          "description": "Planting and fertilizing seeds is a real milestone in the game, and harvesting a fully-grown nut is part of the same growth path."
+          "name": "Floor Structure",
+          "description": "Nazarick has 9 standard floors plus a 10th floor housing Ainz's throne room, the graveyard garden, and the Pleiades. Each floor has a dedicated Guardian and distinct environment."
         },
         {
-          "name": "Material Farming",
-          "description": "A practical early farming loop is creating Mercury Capsules, which spawn small slimes that drop Tendrils and goo for repeatable crafting materials."
+          "name": "The Floor Guardians",
+          "description": "Seven elite guardians oversee the floors. They are among the most powerful beings in the New World and loyal to Ainz by design and dedication."
         },
         {
-          "name": "Tool Sustain",
-          "description": "Resource farming becomes much stronger once you can consistently gather Osmium, glass shards, plants, and slime materials for follow-up crafts."
+          "name": "The Pleiades Battle Maids",
+          "description": "An elite force of six battle maids stationed on the 9th floor as a final defense line. Each specializes in a different combat style."
         },
         {
-          "name": "Base Routine",
-          "description": "The best farming setup supports more than food. It should feed your storage, movement tools, weapon upgrades, and future fusion experiments."
+          "name": "The Sorcerer Kingdom",
+          "description": "Ainz eventually establishes the Sorcerer Kingdom with Nazarick as its capital, expanding the tomb's influence into open diplomacy and territorial control."
         }
       ],
       "growthMilestones": [
-        "Fertilize a seed",
-        "Harvest a fully-grown nut",
-        "Create repeatable material loops",
-        "Turn farming into long-term progression"
+        "Built by Guild of 41",
+        "10 Floors Deep",
+        "Capital of Sorcerer Kingdom",
+        "New World's Strongest Fortress"
       ]
     },
-    "lucidBlocksBestEarlyUnlocks": {
-      "title": "Lucid Blocks Best Early Unlocks",
-      "displayType": "priorityCards",
-      "intro": "The strongest early unlocks are the ones that improve safety, storage, and movement. In Lucid Blocks, a few practical upgrades can make the entire rest of the game much smoother.",
+    "overlordStoryArcs": {
+      "title": "Anime Overlord Story Arcs Overview",
+      "intro": "Overlord organizes its story into distinct arcs, each focusing on a different conflict or political development. This overview maps each arc to its anime season and main conflict.",
       "priorities": [
         {
-          "name": "Personal Qualia",
-          "priority": "Essential",
-          "description": "As soon as you get access to your personal Qualia, your run becomes much more stable. It acts as a reliable hub for storage, building, and regrouping."
+          "name": "Shalltear Bloodfallen Arc",
+          "priority": "Season 1",
+          "description": "Ainz confronts a mind-controlled Shalltear in a high-stakes duel that establishes the true danger of outside enemies and the limits of Nazarick's security."
         },
         {
-          "name": "Frost Pick",
-          "priority": "Very High",
-          "description": "A fast and cheap early mining tool made from Osmium and Stick. It is one of the most useful upgrades for accelerating early resource collection."
+          "name": "Lizardmen Arc",
+          "priority": "Season 2",
+          "description": "Cocytus leads an assault on the Lizardman tribes. The arc explores Nazarick's military strategy and introduces the lizardman community as lasting characters."
         },
         {
-          "name": "Cache Cube",
-          "priority": "Very High",
-          "description": "Storage pressure starts early, so getting your first dependable chest-style container is a major quality-of-life upgrade."
+          "name": "Sebas Arc",
+          "priority": "Season 2",
+          "description": "Sebas investigates a human trafficking ring in the capital, raising complex questions about loyalty, morality, and Nazarick's relationship with human society."
         },
         {
-          "name": "Hookshot",
-          "priority": "High",
-          "description": "The hookshot is one of the clearest movement milestones in the game and quickly makes exploration faster and safer."
+          "name": "Workers Invasion Arc",
+          "priority": "Season 3",
+          "description": "Mercenary adventurers hired to plunder Nazarick meet a catastrophic end, demonstrating the absolute gap between Nazarick and even elite human fighters."
         },
         {
-          "name": "Glider Glove",
-          "priority": "High",
-          "description": "The glider glove adds another major mobility boost and makes long-distance movement far more efficient."
+          "name": "Katze Plains Battle",
+          "priority": "Season 3",
+          "description": "A massive war between the Empire and the Kingdom ends with Ainz deploying overwhelming magic, reshaping the political balance of the New World permanently."
         },
         {
-          "name": "Projectile Wand or Bombs",
-          "priority": "High",
-          "description": "A ranged tool or explosive option gives you a safer answer to dangerous enemies and trial-style encounters."
+          "name": "Re-Estize Kingdom's Fall",
+          "priority": "Season 4",
+          "description": "The Sorcerer Kingdom's campaign against Re-Estize concludes the longest-running human political storyline in the series with decisive finality."
         }
       ]
     },
-    "lucidBlocksAchievementTracker": {
-      "title": "Lucid Blocks Achievement Tracker",
-      "displayType": "achievementGrid",
-      "intro": "Lucid Blocks currently has 19 Steam achievements, and they naturally split into exploration, crafting, mobility, combat, and growth progression.",
+    "overlordTimeline": {
+      "title": "Anime Overlord Story Timeline",
+      "intro": "This timeline organizes the major events of the Overlord anime in chronological order, including where The Sacred Kingdom film fits relative to Season 4.",
       "groups": [
         {
-          "name": "Exploration",
+          "name": "Early Story — Season 1 (2015)",
           "achievements": [
             {
-              "title": "Angel α",
-              "description": "Enter a qualia."
+              "title": "Arrival in the New World",
+              "description": "Momonga remains in YGGDRASIL as servers shut down and awakens in the game world as Ainz Ooal Gown with Nazarick fully intact."
             },
             {
-              "title": "Angel γ",
-              "description": "Discover a tiamana leyline."
-            },
-            {
-              "title": "Angel δ",
-              "description": "Overcome a tiamana challenge."
-            },
-            {
-              "title": "Angel ε",
-              "description": "Hidden achievement."
+              "title": "Carne Village and Momon Identity",
+              "description": "Ainz rescues Carne Village and establishes the adventurer identity Momon to explore the New World and gather intelligence."
             }
           ]
         },
         {
-          "name": "Crafting and Summoning",
+          "name": "Expansion — Seasons 2 & 3 (2018)",
           "achievements": [
             {
-              "title": "Apotheosis α",
-              "description": "Fuse an item."
+              "title": "Lizardmen and Capital Operations",
+              "description": "Nazarick absorbs the Lizardman tribes and Sebas conducts operations in the capital, expanding Nazarick's reach and reputation across the continent."
             },
             {
-              "title": "Apotheosis β",
-              "description": "Fuse a vermin."
-            },
-            {
-              "title": "Apotheosis γ",
-              "description": "Fuse a divine artifact."
-            },
-            {
-              "title": "Archangel β",
-              "description": "Summon your faith."
+              "title": "Katze Plains Massacre",
+              "description": "Ainz uses catastrophic magic to end a large-scale war, establishing himself as a world-altering force feared across all nations of the New World."
             }
           ]
         },
         {
-          "name": "Mobility and Utility",
+          "name": "Sorcerer Kingdom Era — Season 4 (2022)",
           "achievements": [
             {
-              "title": "Virtue α",
-              "description": "Fly with the glider glove."
+              "title": "The Sacred Kingdom Crisis",
+              "description": "Between Season 4 Episodes 7 and 8, the Holy Kingdom arc unfolds as depicted in The Sacred Kingdom film, placing Ainz's influence into the Holy Kingdom."
             },
             {
-              "title": "Virtue β",
-              "description": "Command a hookshot."
-            },
-            {
-              "title": "Archangel α",
-              "description": "Brandish a projectile wand."
-            },
-            {
-              "title": "Archangel γ",
-              "description": "Brandish an explosive."
-            }
-          ]
-        },
-        {
-          "name": "Combat and Creatures",
-          "achievements": [
-            {
-              "title": "Bubblebear Massacre",
-              "description": "Defeat innocent bubblebears."
-            },
-            {
-              "title": "Archangel δ",
-              "description": "Eliminate a blasphemous creature."
-            },
-            {
-              "title": "Angel β",
-              "description": "Die."
-            },
-            {
-              "title": "Dominion γ",
-              "description": "Rename a cute vermin."
-            }
-          ]
-        },
-        {
-          "name": "Growth and Farming",
-          "achievements": [
-            {
-              "title": "Dominion α",
-              "description": "Fertilize a seed."
-            },
-            {
-              "title": "Dominion β",
-              "description": "Harvest a fully-grown nut."
-            },
-            {
-              "title": "Dominion δ",
-              "description": "Hidden achievement."
+              "title": "Fall of Re-Estize",
+              "description": "The Sorcerer Kingdom's final campaign against Re-Estize concludes the kingdom's story arc with decisive and permanent consequences for the New World."
             }
           ]
         }
       ]
     },
-    "lucidBlocksSingleplayerAndPlatformFAQ": {
-      "title": "Lucid Blocks Singleplayer and Platform FAQ",
-      "displayType": "accordion",
-      "intro": "These are the core platform and access questions players keep asking before buying Lucid Blocks.",
+    "overlordLightNovel": {
+      "title": "Anime Overlord Light Novel Reading Order",
+      "intro": "The Overlord light novels by Kugane Maruyama are the source material for the anime. This guide helps anime viewers know where to start and what the novels add beyond the TV adaptation.",
       "faqs": [
         {
-          "question": "Is Lucid Blocks singleplayer?",
-          "answer": "Yes. Lucid Blocks is a singleplayer game."
+          "question": "Where should I start reading after finishing the Overlord anime?",
+          "answer": "If you have watched all four TV seasons and The Sacred Kingdom film, you can pick up the light novels from Volume 15 onward for completely new story content. Volumes 1–14 roughly cover Seasons 1–4 plus the movie arc."
         },
         {
-          "question": "Is multiplayer or co-op planned?",
-          "answer": "No. Multiplayer is not planned for release or future updates."
+          "question": "Do the Overlord novels start from the beginning?",
+          "answer": "Yes. Volume 1 covers Season 1 content. If you want the full novel experience from the start, begin with Volume 1 and read through sequentially."
         },
         {
-          "question": "Where can I play Lucid Blocks?",
-          "answer": "It is currently available on Steam for Windows."
+          "question": "How many Overlord light novel volumes are there?",
+          "answer": "The main Overlord series has 17 volumes in Japanese as of early 2025. English translations by Yen Press are available in print and digital formats."
         },
         {
-          "question": "How much does Lucid Blocks cost?",
-          "answer": "$9.99 on Steam."
-        },
-        {
-          "question": "Does Lucid Blocks support controllers?",
-          "answer": "Yes, but controller play is not recommended because the menus are not designed around it."
-        },
-        {
-          "question": "Does Lucid Blocks work on Steam Deck?",
-          "answer": "Yes. Proton 9.0 or 9.0.4 is the commonly recommended setup for Steam Deck."
-        },
-        {
-          "question": "Does Lucid Blocks work on Linux?",
-          "answer": "Yes. Proton 9.0 is reported to work well for Linux and Steam Deck."
-        },
-        {
-          "question": "Will Mac or Android be supported?",
-          "answer": "They may be supported in the future, but they are not current launch platforms."
-        },
-        {
-          "question": "Does Lucid Blocks have translations?",
-          "answer": "No. There are currently no translations planned."
-        },
-        {
-          "question": "Will Lucid Blocks keep getting updates?",
-          "answer": "Yes. Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
+          "question": "Does the Overlord anime skip content from the novels?",
+          "answer": "Yes. The anime condenses many scenes and side details from the novels. Volume 9 (Lizardmen arc) and Volume 14 (Holy Kingdom arc) are particularly expanded in the novel versions."
         }
       ]
     },
-    "lucidBlocksSteamDeckAndController": {
-      "title": "Lucid Blocks Steam Deck and Controller",
-      "displayType": "accordion",
-      "intro": "Lucid Blocks can run on Steam Deck, but the default setup may need adjustment. Keyboard and mouse remains the smoother option for menus and general play.",
+    "overlordAnimeVsNovel": {
+      "title": "Anime Overlord: Anime vs Light Novel Differences",
+      "intro": "The Overlord anime adapts the light novels closely but skips background details, side perspectives, and lore explanations that the novels develop in depth. This guide highlights the main differences viewers ask about.",
       "faqs": [
         {
-          "question": "Does Lucid Blocks work on Steam Deck?",
-          "answer": "Yes. Proton 9.0 works well, and Proton 9.0.4 is a commonly shared fix for Steam Deck issues."
+          "question": "What does the Overlord anime skip compared to the light novels?",
+          "answer": "The anime removes extended side-character perspectives, background lore on magic systems, and detailed battle explanations. The light novels also expand on world politics and NPC inner thoughts that the anime condenses."
         },
         {
-          "question": "What should I do if Steam Deck controls are not working?",
-          "answer": "Force compatibility and switch the game to Proton 9.0.4. The default configuration may not accept controller input correctly."
+          "question": "Is the Overlord anime a faithful adaptation?",
+          "answer": "Generally yes in terms of major plot beats and character arcs. The story structure follows the novels closely. The differences are mainly in depth, pacing, and the amount of supplementary lore included."
         },
         {
-          "question": "Does Lucid Blocks support controllers?",
-          "answer": "Yes, but controller play is not recommended because the game's menus are not designed around it."
+          "question": "Which Overlord arc benefits most from reading the novels?",
+          "answer": "The Lizardmen arc in Season 2 and the Holy Kingdom arc in The Sacred Kingdom both gain significant additional context in the novels. Volume 14 in particular adds depth to Neia Baraja's perspective."
         },
         {
-          "question": "Is Linux support possible?",
-          "answer": "Yes. Proton 9.0 is reported to work well for Linux and Steam Deck."
-        },
-        {
-          "question": "What is the best input setup?",
-          "answer": "Keyboard and mouse is the smoothest option for menu navigation and general moment-to-moment play."
+          "question": "Does the Overlord anime change any major story outcomes?",
+          "answer": "No major plot outcomes are changed. Character motivations and world details receive more space in the novels, but the anime follows the canon story faithfully."
         }
       ]
     },
-    "lucidBlocksSettingsAndAccessibility": {
-      "title": "Lucid Blocks Settings and Accessibility",
-      "displayType": "settingCards",
-      "intro": "Lucid Blocks already has a few practical settings and compatibility notes that matter immediately when players first launch the game.",
+    "overlordVoiceCast": {
+      "title": "Anime Overlord Voice Cast Guide",
+      "intro": "The Overlord anime features a prominent Japanese cast with an English dub added for Seasons 1–4 and The Sacred Kingdom film. This guide lists the key voice performers for major characters.",
       "settings": [
         {
-          "name": "Display Settings",
-          "type": "Comfort Option",
-          "description": "Display Settings includes an option that lets players hide the on-screen hands."
+          "name": "Ainz Ooal Gown",
+          "type": "JP: Satoshi Hino",
+          "description": "English dub by Chris Guerrero. Hino portrays both Ainz's commanding public presence and the quiet internal monologues of the former Momonga."
         },
         {
-          "name": "Graphics Compatibility",
-          "type": "System Requirement",
-          "description": "Vulkan support is required for the graphics to render properly. Systems without Vulkan can run into crashes and severe graphical glitches."
+          "name": "Albedo",
+          "type": "JP: Yumi Hara",
+          "description": "English dub by Jill Harris. Hara's performance balances Albedo's fierce loyalty, administrative precision, and moments of comedic intensity."
         },
         {
-          "name": "Input Preference",
-          "type": "Control Setup",
-          "description": "Controller support exists, but keyboard and mouse gives a smoother experience because menus are not built around controller use."
+          "name": "Demiurge",
+          "type": "JP: Masayuki Katou",
+          "description": "English dub by Ben Bryant. Katou's voice gives Demiurge a smooth, theatrical quality that matches his genius strategist persona."
         },
         {
-          "name": "Language Support",
-          "type": "Localization",
-          "description": "The current setup is English-only, and no translations are planned right now."
+          "name": "Shalltear Bloodfallen",
+          "type": "JP: Sumire Uesaka",
+          "description": "English dub by Felecia Angelle. Uesaka captures both Shalltear's unsettling elegance and her occasionally childlike reactions."
+        },
+        {
+          "name": "Neia Baraja",
+          "type": "JP: Rina Honizumi",
+          "description": "New cast member for The Sacred Kingdom film. Her performance anchors the Holy Kingdom perspective as the main viewpoint character for the movie."
         }
       ]
     },
-    "lucidBlocksUpdatesAndPatchNotes": {
-      "title": "Lucid Blocks Updates and Patch Notes",
-      "displayType": "timeline",
-      "intro": "Lucid Blocks is already receiving quick post-launch fixes and small usability updates.",
+    "overlordSoundtracks": {
+      "title": "Anime Overlord Soundtracks and Theme Songs",
+      "intro": "Overlord's music spans four TV seasons and a theatrical film. The openings and endings each reflect the tone and arc of their respective season, with OxT and Myth & Roid as the most recognized contributors.",
       "entries": [
         {
-          "title": "Update 2.8.2",
-          "type": "UI Update",
-          "description": "Renamed \"awaken\" to \"exit\" in the main menu."
+          "type": "Opening",
+          "title": "Clattanoia — Season 1 OP (OxT)",
+          "description": "High-energy opening that establishes the series' dark action tone and introduces Ainz's rise to power."
         },
         {
-          "title": "Small Patch for Start-Up Crashes",
-          "type": "Hotfix",
-          "description": "A dedicated patch was released for players whose game was crashing on launch."
+          "type": "Ending",
+          "title": "L.L.L. — Season 1 ED (Myth & Roid)",
+          "description": "Slower, haunting ending theme that became one of the most recognized pieces in the Overlord franchise."
         },
         {
-          "title": "Post-Launch Content Support",
-          "type": "Roadmap Note",
-          "description": "Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
+          "type": "Opening",
+          "title": "Go Cry Go — Season 2 OP (OxT)",
+          "description": "Hard rock opening with aggressive energy matching the Lizardmen and capital arcs of Season 2."
+        },
+        {
+          "type": "Opening",
+          "title": "Voracity — Season 3 OP (Myth & Roid)",
+          "description": "Season 3 opening that emphasizes Nazarick's growing power and the escalating scale of Ainz's campaign."
+        },
+        {
+          "type": "Opening",
+          "title": "HOLLOW HUNGER — Season 4 OP (OxT)",
+          "description": "Season 4 opening reflecting the darker, more politically complex final chapter of the TV series."
+        },
+        {
+          "type": "Film Score",
+          "title": "The Sacred Kingdom Original Score",
+          "description": "Theatrical film score composed for the Holy Kingdom arc, expanding the series' orchestral range for the big-screen adaptation."
         }
       ]
     },
-    "lucidBlocksCrashFixAndTroubleshooting": {
-      "title": "Lucid Blocks Crash Fix and Troubleshooting",
-      "displayType": "steps",
-      "intro": "Most immediate launch and crash issues should be checked in a simple order: patch level, graphics support, platform compatibility, and logs.",
+    "overlordSeason5News": {
+      "title": "Anime Overlord Season 5 News",
+      "intro": "Overlord Season 5 has not been officially announced as of early 2026. This page tracks confirmed announcements from official channels and explains what the source material position means for any future continuation.",
       "steps": [
         {
-          "title": "Install the Latest Crash Hotfix",
-          "description": "If the game is crashing on start, update first and test again with the latest start-up crash patch."
+          "title": "Current Official Status",
+          "description": "No Season 5 has been announced by Kadokawa, Madhouse, or any affiliated production committee. The most recent major production was The Sacred Kingdom film released in September 2024."
         },
         {
-          "title": "Check Vulkan Support",
-          "description": "Lucid Blocks requires Vulkan support. Systems without Vulkan can suffer from crashes or major rendering problems."
+          "title": "Light Novel Source Position",
+          "description": "The Overlord light novels have 17 volumes in Japanese. The anime and film have adapted through approximately Volume 14. Volumes 15–17 contain unadapted material that could serve as a Season 5 foundation."
         },
         {
-          "title": "Use Proton 9.0.4 on Steam Deck",
-          "description": "If Steam Deck input or launch behavior is broken, force compatibility and switch to Proton 9.0.4."
+          "title": "Where to Watch for Official News",
+          "description": "Official announcements come through the Overlord anime official website (overlord-anime.com) and the official Twitter account @over_lord_anime. Crunchyroll also posts licensing announcements for western distribution."
         },
         {
-          "title": "Collect Crash Logs",
-          "description": "Open Windows Run, paste %APPDATA%, go to lucid blocks/logs, and gather the .txt files for troubleshooting."
-        },
-        {
-          "title": "Report the Issue Properly",
-          "description": "Share the logs and device details through the official Discord bug-reports forum or on the Steam community page."
+          "title": "10th Anniversary Activity",
+          "description": "The 10th anniversary of the Overlord anime was marked in 2025. Anniversary events sometimes precede new production announcements, but no official continuation has been confirmed from this period."
         }
       ]
     }
@@ -748,31 +654,31 @@
   "faq": {
     "title": "Frequently Asked",
     "titleHighlight": "Questions",
-    "subtitle": "Everything you need to know about Lucid Blocks",
+    "subtitle": "Common questions about the Anime Overlord wiki and the Overlord anime series",
     "questions": [
       {
-        "question": "Is Lucid Blocks a singleplayer game?",
-        "answer": "Yes. Lucid Blocks is a singleplayer-only game with no multiplayer or co-op planned."
+        "question": "What is Anime Overlord about?",
+        "answer": "Anime Overlord covers the Overlord anime series — a dark fantasy isekai where Momonga, a YGGDRASIL player, becomes Ainz Ooal Gown and leads the Great Tomb of Nazarick in the New World through conquest and political intrigue."
       },
       {
-        "question": "What is the Apotheosis system in Lucid Blocks?",
-        "answer": "Apotheosis is Lucid Blocks' freeform fusion crafting system. Instead of following fixed recipes, you combine materials and discover your own crafting paths."
+        "question": "What is the correct Overlord anime watch order?",
+        "answer": "Watch all four TV seasons first, then place The Sacred Kingdom film between Season 4 Episode 7 and Episode 8 for chronological order. The two 2017 recap films are optional and can be skipped without missing new story content."
       },
       {
-        "question": "Where can I play Lucid Blocks?",
-        "answer": "Lucid Blocks is currently available on Steam for Windows. Linux and Steam Deck support is available through Proton 9.0."
+        "question": "How many seasons does Overlord have?",
+        "answer": "Overlord has four TV anime seasons totaling 52 episodes. There are also three films: two recap compilations from 2017 and the 2024 canon film Overlord: The Sacred Kingdom."
       },
       {
-        "question": "How much does Lucid Blocks cost?",
-        "answer": "Lucid Blocks costs $9.99 on Steam."
+        "question": "Is Overlord: The Sacred Kingdom a recap film?",
+        "answer": "No. The Sacred Kingdom is a canon story film that adapts the Holy Kingdom arc from the light novels. It is not a recap and fits chronologically between Overlord IV Episodes 7 and 8."
       },
       {
-        "question": "Does Lucid Blocks support controllers?",
-        "answer": "Yes, but controller play is not recommended because the menus are not designed around it. Keyboard and mouse is the smoother option."
+        "question": "Where can I watch Overlord anime?",
+        "answer": "All four TV seasons and The Sacred Kingdom film are available on Crunchyroll. The series is also available through other licensed streaming platforms depending on your region."
       },
       {
-        "question": "Will Lucid Blocks receive updates?",
-        "answer": "Yes. Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
+        "question": "Will there be an Overlord Season 5?",
+        "answer": "As of early 2026, no Season 5 has been officially announced. The light novels have volumes beyond what the anime has adapted, and no official production has been confirmed yet."
       }
     ]
   },
@@ -800,125 +706,125 @@
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
-    "guides": {
-      "title": "Lucid Blocks Guides",
-      "description": "Complete gameplay guides from beginner basics to advanced Apotheosis strategies. Master survival and crafting.",
-      "metaTitle": "Lucid Blocks Guides - Beginner to Advanced Strategies",
-      "metaDescription": "Complete Lucid Blocks guides covering beginner tips, Apotheosis system, survival strategies, and expert tactics for mastering the surreal sandbox.",
-      "categoryLabel": "GAME GUIDES",
-      "whatIs": "What are Guides?",
-      "whatIsDescription": "Comprehensive guides covering gameplay mechanics, survival strategies, and the Apotheosis crafting system. Learn everything from first steps to advanced techniques.",
-      "why": "Why read guides?",
+    "watch-order": {
+      "title": "Overlord Watch Order",
+      "description": "Complete guide to watching all Overlord anime seasons and films in the correct order.",
+      "metaTitle": "Overlord Anime Watch Order Guide - Seasons, Films & The Sacred Kingdom",
+      "metaDescription": "Complete Overlord anime watch order covering all four TV seasons and The Sacred Kingdom film placement.",
+      "categoryLabel": "WATCH ORDER",
+      "whatIs": "What is this guide?",
+      "whatIsDescription": "A clean, accurate watch order for the full Overlord anime series including where the 2024 Sacred Kingdom film fits.",
+      "why": "Why follow a watch order?",
       "whySteps": {
-        "step1Title": "Learn Core Mechanics",
-        "step1Description": "Understand the Apotheosis system and avoid common beginner mistakes",
-        "step2Title": "Fast Progression",
-        "step2Description": "Follow proven paths to survive and thrive in the surreal world",
-        "step3Title": "Master Strategies",
-        "step3Description": "Develop advanced tactics for exploration and crafting"
+        "step1Title": "Avoid Spoilers",
+        "step1Description": "Watch in the right sequence to experience story reveals as intended",
+        "step2Title": "Place the Movie Correctly",
+        "step2Description": "The Sacred Kingdom is a canon film that fits inside Season 4 chronology",
+        "step3Title": "Skip Optional Content",
+        "step3Description": "Know which films are recap compilations and which contain new story"
       },
-      "featured": "Featured & Essential",
-      "all": "All Guides"
+      "featured": "Essential Viewing",
+      "all": "Full Watch Order"
     },
-    "crafting": {
-      "title": "Lucid Blocks Crafting",
-      "description": "Master the Apotheosis fusion system with essence mechanics, recipes, and crafting strategies for powerful items.",
-      "metaTitle": "Lucid Blocks Crafting - Apotheosis System & Recipes",
-      "metaDescription": "Master Lucid Blocks Apotheosis crafting system. Learn essence mechanics, fusion recipes, and strategies for creating powerful tools and weapons.",
-      "categoryLabel": "CRAFTING SYSTEM",
-      "whatIs": "What is Crafting?",
-      "whatIsDescription": "The Apotheosis system is a unique essence-driven fusion mechanic where you combine up to six items to discover new recipes. No fixed crafting menus—experimentation is key.",
-      "why": "Why master crafting?",
+    "characters": {
+      "title": "Overlord Characters",
+      "description": "Complete character guide for Nazarick leaders, kingdom figures, and Sacred Kingdom cast.",
+      "metaTitle": "Overlord Anime Characters - Ainz, Albedo, Shalltear & More",
+      "metaDescription": "Character guide for Overlord anime covering Nazarick guardians, major human faction characters, and movie-era cast.",
+      "categoryLabel": "CHARACTERS",
+      "whatIs": "What are characters?",
+      "whatIsDescription": "Individual character pages covering roles, abilities, faction, and first appearances across the Overlord anime series.",
+      "why": "Why read character guides?",
       "whySteps": {
-        "step1Title": "Unlock Powerful Items",
-        "step1Description": "Discover essential tools, weapons, and mobility gear through fusion",
-        "step2Title": "Understand Essences",
-        "step2Description": "Learn how item essences combine to create predictable results",
-        "step3Title": "Optimize Resources",
-        "step3Description": "Use dilution mechanics to maximize output from cheap materials"
+        "step1Title": "Know the Factions",
+        "step1Description": "Understand which characters belong to Nazarick, kingdoms, or the Sacred Kingdom",
+        "step2Title": "Track Story Roles",
+        "step2Description": "Follow each character's contribution across seasons and the film",
+        "step3Title": "Prepare for the Movie",
+        "step3Description": "Know the new Sacred Kingdom characters before watching the 2024 film"
       },
-      "featured": "Featured & Essential",
-      "all": "All Crafting Guides"
+      "featured": "Featured Characters",
+      "all": "All Characters"
     },
-    "items": {
-      "title": "Lucid Blocks Items",
-      "description": "Detailed item guides covering tools, weapons, mobility gear, and storage solutions with crafting recipes and usage tips.",
-      "metaTitle": "Lucid Blocks Items - Tools, Weapons & Gear Guide",
-      "metaDescription": "Complete item database for Lucid Blocks including tools, weapons, mobility gear, and storage. Learn how to craft and use every item effectively.",
-      "categoryLabel": "ITEMS & EQUIPMENT",
-      "whatIs": "What are Items?",
-      "whatIsDescription": "Comprehensive guides for tools, weapons, mobility gear, and functional items. Learn crafting recipes, usage strategies, and optimal combinations.",
-      "why": "Why check item guides?",
+    "episodes": {
+      "title": "Overlord Episodes",
+      "description": "Episode list and guide for all four Overlord anime seasons with summaries and key events.",
+      "metaTitle": "Overlord Episode List - All 52 Episodes by Season",
+      "metaDescription": "Complete Overlord episode guide covering all 52 episodes across four seasons with summaries and arc markers.",
+      "categoryLabel": "EPISODES",
+      "whatIs": "What is the episode guide?",
+      "whatIsDescription": "A browsable episode list organized by season with summaries, key events, and arc labels to help you find your place quickly.",
+      "why": "Why use the episode guide?",
       "whySteps": {
-        "step1Title": "Learn Crafting Recipes",
-        "step1Description": "Discover how to craft essential tools and weapons using Apotheosis",
-        "step2Title": "Optimize Equipment",
-        "step2Description": "Choose the best items for your playstyle and progression stage",
-        "step3Title": "Improve Survival",
-        "step3Description": "Equip mobility gear and weapons to navigate the dangerous world"
+        "step1Title": "Find Your Episode",
+        "step1Description": "Quickly locate any episode by season or episode number",
+        "step2Title": "Understand Arc Structure",
+        "step2Description": "See which episodes belong to which story arc",
+        "step3Title": "Know the Movie Placement",
+        "step3Description": "Identify exactly where The Sacred Kingdom fits in Season 4"
       },
-      "featured": "Featured & Essential",
-      "all": "All Items"
+      "featured": "Featured Episodes",
+      "all": "All Episodes"
     },
-    "biomes": {
-      "title": "Lucid Blocks Biomes",
-      "description": "Explore world regions, environmental features, resource locations, and survival tips for each biome.",
-      "metaTitle": "Lucid Blocks Biomes - World Regions & Exploration",
-      "metaDescription": "Explore Lucid Blocks biomes including Tiamana Leylines, Fog Meadow, and surreal regions. Find resources, avoid dangers, and navigate the infinite world.",
-      "categoryLabel": "WORLD REGIONS",
-      "whatIs": "What are Biomes?",
-      "whatIsDescription": "Guides to different world regions, environmental features, resource distribution, and danger zones. Learn what to expect and how to prepare for each area.",
-      "why": "Why explore biomes?",
+    "lore": {
+      "title": "Overlord Lore",
+      "description": "Deep lore guides covering Nazarick, the Sorcerer Kingdom, world factions, and story arc details.",
+      "metaTitle": "Overlord Anime Lore - Nazarick, Sorcerer Kingdom & World Building",
+      "metaDescription": "Overlord lore guides covering the Great Tomb of Nazarick, the Sorcerer Kingdom, world factions, and the expanded universe of the dark fantasy isekai.",
+      "categoryLabel": "LORE",
+      "whatIs": "What is lore?",
+      "whatIsDescription": "In-depth articles on the world-building, organizations, and background details that give the Overlord universe its depth.",
+      "why": "Why read lore?",
       "whySteps": {
-        "step1Title": "Find Resources",
-        "step1Description": "Locate rare materials and essences specific to each region",
-        "step2Title": "Avoid Dangers",
-        "step2Description": "Understand environmental hazards and hostile creatures",
-        "step3Title": "Plan Exploration",
-        "step3Description": "Prepare the right tools and gear for each biome type"
+        "step1Title": "Understand Nazarick",
+        "step1Description": "Learn the structure and factions of the Great Tomb and its inhabitants",
+        "step2Title": "Track World Politics",
+        "step2Description": "Follow the relationships between the Sorcerer Kingdom, Empire, and other nations",
+        "step3Title": "Enrich the Story",
+        "step3Description": "Discover the background details the anime compresses or skips"
       },
-      "featured": "Featured & Essential",
-      "all": "All Biomes"
+      "featured": "Essential Lore",
+      "all": "All Lore Articles"
     },
-    "building": {
-      "title": "Lucid Blocks Building",
-      "description": "Master Qualia personal dimensions, base building, storage management, and creative construction techniques.",
-      "metaTitle": "Lucid Blocks Building - Qualia & Base Construction",
-      "metaDescription": "Master Lucid Blocks building with Qualia personal dimensions, base construction, storage solutions, and creative building techniques.",
-      "categoryLabel": "BUILDING & BASES",
-      "whatIs": "What is Building?",
-      "whatIsDescription": "Guides to the Qualia personal dimension system, base construction, storage management, and creative building. Learn to create your safe haven in the surreal world.",
-      "why": "Why build bases?",
+    "novels": {
+      "title": "Overlord Novels",
+      "description": "Light novel reading guides, volume breakdowns, and what comes after the anime.",
+      "metaTitle": "Overlord Light Novel Reading Guide - After the Anime",
+      "metaDescription": "Overlord light novel reading order guide covering where to start after the anime, volume breakdowns, and anime vs novel differences.",
+      "categoryLabel": "LIGHT NOVELS",
+      "whatIs": "What are the novels?",
+      "whatIsDescription": "The Overlord light novel series by Kugane Maruyama is the source material for all anime seasons and films, with content beyond the current adaptation.",
+      "why": "Why read the novels?",
       "whySteps": {
-        "step1Title": "Create Safe Spaces",
-        "step1Description": "Establish secure bases for storage and crafting operations",
-        "step2Title": "Manage Resources",
-        "step2Description": "Organize materials efficiently with storage solutions",
-        "step3Title": "Unlock Qualia",
-        "step3Description": "Access personal pocket dimensions for ultimate convenience"
+        "step1Title": "More Story",
+        "step1Description": "Volumes 15-17 cover story content not yet adapted into anime",
+        "step2Title": "Deeper Details",
+        "step2Description": "The novels expand on character motivations and world-building the anime condenses",
+        "step3Title": "Fill the Gaps",
+        "step3Description": "Understand scenes and references the anime abbreviates"
       },
-      "featured": "Featured & Essential",
-      "all": "All Building Guides"
+      "featured": "Essential Guides",
+      "all": "All Novel Articles"
     },
-    "support": {
-      "title": "Lucid Blocks Support",
-      "description": "Technical support, platform compatibility, performance optimization, and troubleshooting for common issues.",
-      "metaTitle": "Lucid Blocks Support - Technical Help & Fixes",
-      "metaDescription": "Get technical support for Lucid Blocks including Steam Deck setup, crash fixes, performance optimization, and platform compatibility guides.",
-      "categoryLabel": "TECHNICAL SUPPORT",
-      "whatIs": "What is Support?",
-      "whatIsDescription": "Technical guides covering platform compatibility, performance optimization, crash fixes, and common issues. Get help with Steam Deck, multiplayer questions, and settings.",
-      "why": "Why check support?",
+    "news": {
+      "title": "Overlord News",
+      "description": "Latest official news and announcements for the Overlord anime franchise.",
+      "metaTitle": "Overlord Anime News - Season 5, Film Updates & Official Announcements",
+      "metaDescription": "Official Overlord anime news covering Season 5 status, film releases, streaming announcements, and anniversary events.",
+      "categoryLabel": "NEWS",
+      "whatIs": "What is in News?",
+      "whatIsDescription": "Official announcements, streaming release news, anniversary events, and production updates for the Overlord anime franchise.",
+      "why": "Why follow Overlord news?",
       "whySteps": {
-        "step1Title": "Fix Technical Issues",
-        "step1Description": "Resolve crashes, performance problems, and compatibility issues",
-        "step2Title": "Optimize Performance",
-        "step2Description": "Configure settings for best experience on your platform",
-        "step3Title": "Platform Compatibility",
-        "step3Description": "Learn about Steam Deck, controller support, and system requirements"
+        "step1Title": "Season 5 Updates",
+        "step1Description": "Stay current on any official Season 5 announcement from the production committee",
+        "step2Title": "Streaming Releases",
+        "step2Description": "Know when new Overlord content lands on Crunchyroll and other platforms",
+        "step3Title": "Official Sources Only",
+        "step3Description": "This section covers confirmed announcements, not speculation or rumors"
       },
-      "featured": "Featured & Essential",
-      "all": "All Support Articles"
+      "featured": "Latest News",
+      "all": "All News Articles"
     }
   }
 }

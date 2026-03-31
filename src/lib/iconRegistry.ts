@@ -13,6 +13,7 @@ export const iconRegistry: Record<string, LucideIcon> = {
   // 工具和资源图标
   Download: LucideIcons.Download,
   BookOpen: LucideIcons.BookOpen,
+  BookMarked: LucideIcons.BookMarked,
   Users: LucideIcons.Users,
   ClipboardCheck: LucideIcons.ClipboardCheck,
   Keyboard: LucideIcons.Keyboard,
@@ -27,6 +28,18 @@ export const iconRegistry: Record<string, LucideIcon> = {
   Star: LucideIcons.Star,
   Gamepad2: LucideIcons.Gamepad2,
   TrendingUp: LucideIcons.TrendingUp,
+  // Overlord anime wiki icons
+  ListOrdered: LucideIcons.ListOrdered,
+  List: LucideIcons.List,
+  Film: LucideIcons.Film,
+  Crown: LucideIcons.Crown,
+  Swords: LucideIcons.Swords,
+  Trophy: LucideIcons.Trophy,
+  Landmark: LucideIcons.Landmark,
+  Scale: LucideIcons.Scale,
+  Mic2: LucideIcons.Mic2,
+  Music: LucideIcons.Music,
+  Radio: LucideIcons.Radio,
 
   // UI 交互图标
   Sparkles: LucideIcons.Sparkles,
