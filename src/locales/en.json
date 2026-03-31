@@ -101,43 +101,43 @@
       },
       {
         "icon": "Landmark",
-        "title": "Nazarick Explained",
-        "description": "Structure, factions, and layout of the Great Tomb"
+        "title": "Anime Overlord: Nazarick Guide",
+        "description": "Floor-by-floor structure, factions, and layout of the Great Tomb"
       },
       {
         "icon": "BookOpen",
-        "title": "Overlord Story Arcs",
-        "description": "Major arcs mapped to seasons and episode ranges"
+        "title": "Anime Overlord Story Arcs",
+        "description": "All major arcs mapped to seasons and episode ranges"
       },
       {
         "icon": "Clock",
-        "title": "Overlord Timeline",
+        "title": "Anime Overlord Timeline",
         "description": "Chronological order of all major events and arcs"
       },
       {
         "icon": "BookMarked",
-        "title": "Light Novel Reading Order",
-        "description": "Where to start after finishing the anime"
+        "title": "Anime Overlord Light Novel Guide",
+        "description": "Reading order and where to start after the anime"
       },
       {
         "icon": "Scale",
-        "title": "Anime vs Light Novel",
+        "title": "Anime Overlord: Anime vs Novel",
         "description": "Key differences and what the anime adaptation skips"
       },
       {
         "icon": "Mic2",
-        "title": "Overlord Voice Cast",
+        "title": "Anime Overlord Voice Cast",
         "description": "Japanese and English cast for all seasons and films"
       },
       {
         "icon": "Music",
-        "title": "Overlord Soundtracks",
-        "description": "All openings, endings, and theatrical film score themes"
+        "title": "Anime Overlord Soundtracks",
+        "description": "All openings, endings, insert songs, and film themes"
       },
       {
         "icon": "Radio",
-        "title": "Overlord Season 5 News",
-        "description": "Latest official announcements and source material status"
+        "title": "Anime Overlord Season 5 News",
+        "description": "Official announcements and source material status"
       }
     ]
   },
@@ -461,244 +461,329 @@
       ]
     },
     "overlordNazarick": {
-      "title": "Anime Overlord: Nazarick Explained",
-      "intro": "The Great Tomb of Nazarick is a 10-floor dungeon complex and the home base of Ainz Ooal Gown. It was built by a guild of 41 players in YGGDRASIL and now serves as the political and military center of the Sorcerer Kingdom.",
+      "title": "Anime Overlord: Inside the Great Tomb of Nazarick",
+      "intro": "The Great Tomb of Nazarick is the power center of Overlord. It functions as Ainz's home base, war room, political court, prison network, and final line of defense — understanding its structure makes the entire franchise much easier to follow.",
       "sections": [
         {
-          "name": "Floor Structure",
-          "description": "Nazarick has 9 standard floors plus a 10th floor housing Ainz's throne room, the graveyard garden, and the Pleiades. Each floor has a dedicated Guardian and distinct environment."
+          "name": "Fortress Overview",
+          "description": "Originally a high-level dungeon in YGGDRASIL, Nazarick was conquered and rebuilt by Ainz Ooal Gown. After reconstruction it expanded to more than ten floors with layered defenses, teleport gates, and custom NPC infrastructure. It survived the famous 1,500-man assault without the attackers breaching the deepest defenses."
         },
         {
-          "name": "The Floor Guardians",
-          "description": "Seven elite guardians oversee the floors. They are among the most powerful beings in the New World and loyal to Ainz by design and dedication."
+          "name": "Leadership and Command",
+          "description": "Nazarick runs on a strict top-down command structure. Ainz Ooal Gown issues all final strategic decisions. Albedo serves as Overseer Guardian and acts as the overall commander of the Floor Guardians. Each Floor Guardian controls a major defense domain and commands powerful subordinates within that space."
         },
         {
-          "name": "The Pleiades Battle Maids",
-          "description": "An elite force of six battle maids stationed on the 9th floor as a final defense line. Each specializes in a different combat style."
+          "name": "Floor-by-Floor Map",
+          "description": "1st–3rd Floors: Grave / Catacombs (Guardian: Shalltear). 4th Floor: Underground Lake (Gargantua). 5th Floor: Glacier (Cocytus). 6th Floor: Jungle (Aura and Mare). 7th Floor: Lava (Demiurge). 8th Floor: Wilderness (Victim — final defense line). 9th Floor: Royal Suite with service facilities. 10th Floor: Throne Room — Ainz's command chamber. Treasury: a separate spatial vault accessed via the Rings of Ainz Ooal Gown."
         },
         {
-          "name": "The Sorcerer Kingdom",
-          "description": "Ainz eventually establishes the Sorcerer Kingdom with Nazarick as its capital, expanding the tomb's influence into open diplomacy and territorial control."
+          "name": "Key Military and Support Groups",
+          "description": "Beyond the Floor Guardians, Nazarick operates through elite units and specialized NPCs. The Pleiades are Nazarick's battle maids and one of its best-known elite service and combat groups. The 8th Floor Hierarchy and Aureole Omega represent Nazarick's deepest reserve power. Area Guardians such as Kyouhukou and Neuronist Painkill reinforce individual zones."
+        },
+        {
+          "name": "Why Nazarick Matters to Every Arc",
+          "description": "The Throne Room is where Ainz gathers the guardians, assigns missions, monitors threats, and announces policy. Nazarick functions as home, government center, prison system, laboratory, and symbol of overwhelming power. Most of the series' turning points begin with decisions made inside Nazarick, even when the action happens far away."
         }
       ],
       "growthMilestones": [
-        "Built by Guild of 41",
-        "10 Floors Deep",
-        "Capital of Sorcerer Kingdom",
-        "New World's Strongest Fortress"
+        "Built by Guild of 41 Players",
+        "10+ Floors of Layered Defense",
+        "Survived 1,500-Man Assault",
+        "Capital of the Sorcerer Kingdom"
       ]
     },
     "overlordStoryArcs": {
-      "title": "Anime Overlord Story Arcs Overview",
-      "intro": "Overlord organizes its story into distinct arcs, each focusing on a different conflict or political development. This overview maps each arc to its anime season and main conflict.",
+      "title": "Anime Overlord Story Arcs by Season and Light Novel",
+      "intro": "This map links each major Anime Overlord arc to its anime season, episode range, and source light novel volume, making it easy to locate any arc and understand where it fits in the full timeline.",
       "priorities": [
         {
-          "name": "Shalltear Bloodfallen Arc",
-          "priority": "Season 1",
-          "description": "Ainz confronts a mind-controlled Shalltear in a high-stakes duel that establishes the true danger of outside enemies and the limits of Nazarick's security."
+          "name": "The Undead King / Dark Warrior Arcs",
+          "priority": "Season 1 Ep 1–9",
+          "description": "Ainz awakens in the New World, establishes the Momon identity, and begins testing the rules of the new reality. Source: Volumes 1–2."
         },
         {
-          "name": "Lizardmen Arc",
-          "priority": "Season 2",
-          "description": "Cocytus leads an assault on the Lizardman tribes. The arc explores Nazarick's military strategy and introduces the lizardman community as lasting characters."
+          "name": "The Bloody Valkyrie Arc",
+          "priority": "Season 1 Ep 10–13",
+          "description": "Ainz confronts a brainwashed Shalltear in a solo duel, proving that Nazarick can survive a crisis from within. Source: Volume 3."
         },
         {
-          "name": "Sebas Arc",
-          "priority": "Season 2",
-          "description": "Sebas investigates a human trafficking ring in the capital, raising complex questions about loyalty, morality, and Nazarick's relationship with human society."
+          "name": "Lizard Man Heroes / Men in the Kingdom",
+          "priority": "Season 2 Ep 1–13",
+          "description": "The lizardman tribes unite against Cocytus while Sebas, Climb, and Brain navigate criminal corruption and political tension in Re-Estize. Source: Volumes 4–6."
         },
         {
-          "name": "Workers Invasion Arc",
-          "priority": "Season 3",
-          "description": "Mercenary adventurers hired to plunder Nazarick meet a catastrophic end, demonstrating the absolute gap between Nazarick and even elite human fighters."
+          "name": "Invaders of the Large Tomb Arc",
+          "priority": "Season 3 Ep 6–8",
+          "description": "Worker teams invade Nazarick and discover why the tomb is treated as a death trap — the gap between Nazarick and even elite human fighters is absolute. Source: Volume 7."
         },
         {
-          "name": "Katze Plains Battle",
-          "priority": "Season 3",
-          "description": "A massive war between the Empire and the Kingdom ends with Ainz deploying overwhelming magic, reshaping the political balance of the New World permanently."
+          "name": "The Magic Caster of Destruction Arc",
+          "priority": "Season 3 Ep 9–13",
+          "description": "Ainz intervenes in the annual war at Katze Plains with overwhelming force, establishing the terrifying scale of the Sorcerer Kingdom. Source: Volume 9."
         },
         {
-          "name": "Re-Estize Kingdom's Fall",
-          "priority": "Season 4",
-          "description": "The Sorcerer Kingdom's campaign against Re-Estize concludes the longest-running human political storyline in the series with decisive finality."
+          "name": "The Paladin of the Holy Kingdom Arc",
+          "priority": "The Sacred Kingdom Film",
+          "description": "Jaldabaoth's campaign forces the Holy Kingdom to seek Ainz, turning a rescue effort into a major political and military turning point. Source: Volumes 12–13."
+        },
+        {
+          "name": "The Witch of the Falling Kingdom Arc",
+          "priority": "Season 4 Ep 8–13",
+          "description": "The conflict with Re-Estize reaches full war, showing the most destructive consequences of opposing the Sorcerer Kingdom. Source: Volume 14."
+        },
+        {
+          "name": "The Half Elf God-kin Arc",
+          "priority": "Not Yet Adapted",
+          "description": "The story moves toward the Elf Country and Slane Theocracy, pushing beyond the currently animated material. Source: Volumes 15–16."
         }
       ]
     },
     "overlordTimeline": {
-      "title": "Anime Overlord Story Timeline",
-      "intro": "This timeline organizes the major events of the Overlord anime in chronological order, including where The Sacred Kingdom film fits relative to Season 4.",
+      "title": "Anime Overlord Timeline in Chronological Order",
+      "intro": "Overlord is a franchise where release order, watch order, and story chronology can feel different. This timeline shows the clean sequence of major events and clarifies exactly where The Sacred Kingdom film belongs relative to Season 4.",
       "groups": [
         {
-          "name": "Early Story — Season 1 (2015)",
+          "name": "Starting Point — Season 1 / Volume 1",
           "achievements": [
             {
-              "title": "Arrival in the New World",
-              "description": "Momonga remains in YGGDRASIL as servers shut down and awakens in the game world as Ainz Ooal Gown with Nazarick fully intact."
+              "title": "YGGDRASIL Ends and Nazarick Arrives",
+              "description": "Satoru Suzuki remains logged in for the final moments of YGGDRASIL, but instead of logging out he finds himself in the New World inside Nazarick as Ainz Ooal Gown."
             },
             {
-              "title": "Carne Village and Momon Identity",
-              "description": "Ainz rescues Carne Village and establishes the adventurer identity Momon to explore the New World and gather intelligence."
+              "title": "Ainz Builds His First Foothold",
+              "description": "Ainz confirms Nazarick is real, learns the local rules, establishes the Momon identity, and stabilizes the tomb from within. Covers Season 1 / Volumes 1–3."
             }
           ]
         },
         {
-          "name": "Expansion — Seasons 2 & 3 (2018)",
+          "name": "Regional Consolidation — Seasons 2 & 3",
           "achievements": [
             {
-              "title": "Lizardmen and Capital Operations",
-              "description": "Nazarick absorbs the Lizardman tribes and Sebas conducts operations in the capital, expanding Nazarick's reach and reputation across the continent."
+              "title": "Lizardmen, Sebas, and Jaldabaoth's Operations",
+              "description": "The lizardman campaign, Sebas's Kingdom storyline, and Jaldabaoth's chaos widen the scale from local experiments to deliberate power projection. Season 2 / Volumes 4–6."
             },
             {
-              "title": "Katze Plains Massacre",
-              "description": "Ainz uses catastrophic magic to end a large-scale war, establishing himself as a world-altering force feared across all nations of the New World."
+              "title": "Katze Plains and Worker Invasion",
+              "description": "The Katze Plains massacre turns Ainz into an undeniable geopolitical force, while the Worker invasion exposes Nazarick's full terror. Season 3 / Volumes 7–9."
             }
           ]
         },
         {
-          "name": "Sorcerer Kingdom Era — Season 4 (2022)",
+          "name": "Sorcerer Kingdom Era — Season 4 Episodes 1–7",
           "achievements": [
             {
-              "title": "The Sacred Kingdom Crisis",
-              "description": "Between Season 4 Episodes 7 and 8, the Holy Kingdom arc unfolds as depicted in The Sacred Kingdom film, placing Ainz's influence into the Holy Kingdom."
+              "title": "Rule and Expansion — Before the Movie",
+              "description": "Ainz focuses on governing the Sorcerer Kingdom, handling foreign rulers, and extending influence through the Dwarf Kingdom arc. Season 4 Ep 1–7 / Volumes 10–11."
             },
             {
-              "title": "Fall of Re-Estize",
-              "description": "The Sorcerer Kingdom's final campaign against Re-Estize concludes the kingdom's story arc with decisive and permanent consequences for the New World."
+              "title": "The Sacred Kingdom Fits Here",
+              "description": "The Holy Kingdom campaign happens after Season 4 Episode 7 and before Episode 8. Watch Overlord: The Sacred Kingdom at this point for correct chronological order. Volumes 12–13."
+            }
+          ]
+        },
+        {
+          "name": "Final Chapter — Season 4 Episodes 8–13 and Beyond",
+          "achievements": [
+            {
+              "title": "The Re-Estize War and Season 4 Ending",
+              "description": "The Witch of the Falling Kingdom arc resolves the Re-Estize conflict with crushing finality. Season 4 Ep 8–13 / Volume 14."
+            },
+            {
+              "title": "Story Continues Beyond the Anime",
+              "description": "The Half Elf God-kin arc moves into the Elf Country and deeper Slane Theocracy developments, beyond currently adapted material. Volumes 15–16."
             }
           ]
         }
       ]
     },
     "overlordLightNovel": {
-      "title": "Anime Overlord Light Novel Reading Order",
-      "intro": "The Overlord light novels by Kugane Maruyama are the source material for the anime. This guide helps anime viewers know where to start and what the novels add beyond the TV adaptation.",
+      "title": "Anime Overlord Light Novel Reading Order Guide",
+      "intro": "The Overlord light novels currently have 16 released volumes. The best reading path depends on whether you want the complete experience, the fastest continuation after the anime, or a clean anime-to-novel bridge that includes the movie material.",
       "faqs": [
         {
-          "question": "Where should I start reading after finishing the Overlord anime?",
-          "answer": "If you have watched all four TV seasons and The Sacred Kingdom film, you can pick up the light novels from Volume 15 onward for completely new story content. Volumes 1–14 roughly cover Seasons 1–4 plus the movie arc."
+          "question": "What is the best starting point for Anime Overlord light novels?",
+          "answer": "The strongest entry point is Volume 1. This gives you the full internal monologue, world-building, skipped details, and a much clearer picture of how Ainz and Nazarick actually think. It is the most recommended path for anime-only viewers."
         },
         {
-          "question": "Do the Overlord novels start from the beginning?",
-          "answer": "Yes. Volume 1 covers Season 1 content. If you want the full novel experience from the start, begin with Volume 1 and read through sequentially."
+          "question": "What is the main reading order for the Overlord novels?",
+          "answer": "Read the main story in volume order: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16. Volume 8 can also be read any time after Volume 4 and before Volume 9, but simple numeric order is the easiest path for most readers."
         },
         {
-          "question": "How many Overlord light novel volumes are there?",
-          "answer": "The main Overlord series has 17 volumes in Japanese as of early 2025. English translations by Yen Press are available in print and digital formats."
+          "question": "How do Anime Overlord seasons map to the light novel volumes?",
+          "answer": "Season 1 = Volumes 1–3. Season 2 = Volumes 4–6. Season 3 = Volumes 7–9 (Volume 8 material airs before Volume 7 content). Season 4 TV = Volumes 10, 11, and 14. The Sacred Kingdom movie = Volumes 12–13."
         },
         {
-          "question": "Does the Overlord anime skip content from the novels?",
-          "answer": "Yes. The anime condenses many scenes and side details from the novels. Volume 9 (Lizardmen arc) and Volume 14 (Holy Kingdom arc) are particularly expanded in the novel versions."
+          "question": "What is the fastest way to continue after finishing the Anime Overlord anime?",
+          "answer": "If you finished all four TV seasons and want unseen story material first, watch the movie or read Volumes 12–13 (The Sacred Kingdom), then continue with Volumes 15–16 for completely new material beyond the current anime."
+        },
+        {
+          "question": "What reading routes are available for Anime Overlord novels?",
+          "answer": "Complete route: start at Volume 1 and read straight through. Bridge route: use the anime-to-volume map, then read Volumes 12–16. Fastest new-content route: The Sacred Kingdom first (Vols 12–13), then Volumes 15–16."
         }
       ]
     },
     "overlordAnimeVsNovel": {
-      "title": "Anime Overlord: Anime vs Light Novel Differences",
-      "intro": "The Overlord anime adapts the light novels closely but skips background details, side perspectives, and lore explanations that the novels develop in depth. This guide highlights the main differences viewers ask about.",
+      "title": "Anime Overlord: What Changes from Anime to Light Novel",
+      "intro": "The Overlord anime is a faithful story path version of the novels, but it is also a compressed one. The novels carry much more internal monologue, lore, and faction-level context. This guide helps viewers see what was adapted, what was compressed, and where reading adds the most value.",
       "faqs": [
         {
-          "question": "What does the Overlord anime skip compared to the light novels?",
-          "answer": "The anime removes extended side-character perspectives, background lore on magic systems, and detailed battle explanations. The light novels also expand on world politics and NPC inner thoughts that the anime condenses."
+          "question": "What has the Anime Overlord adaptation already covered?",
+          "answer": "Most of the main storyline through Volume 14 has been animated. Season 1 = Vols 1–3. Season 2 = Vols 4–6. Season 3 = Vols 7–9. Season 4 = Vols 10, 11, 14. The Sacred Kingdom film = Vols 12–13. The Holy Kingdom arc was handled as a film rather than a TV season."
         },
         {
-          "question": "Is the Overlord anime a faithful adaptation?",
-          "answer": "Generally yes in terms of major plot beats and character arcs. The story structure follows the novels closely. The differences are mainly in depth, pacing, and the amount of supplementary lore included."
+          "question": "What do the Anime Overlord novels explain in more depth?",
+          "answer": "The novels spend more time on Yggdrasil mechanics, item logic, racial abilities, and magic-system framing. They add much more New World history, statecraft, and inter-faction perspective. Many side characters receive longer internal monologues, motivations, and scene transitions. Dialogue-heavy strategy sections are generally richer on the page."
         },
         {
-          "question": "Which Overlord arc benefits most from reading the novels?",
-          "answer": "The Lizardmen arc in Season 2 and the Holy Kingdom arc in The Sacred Kingdom both gain significant additional context in the novels. Volume 14 in particular adds depth to Neia Baraja's perspective."
+          "question": "Where do Anime Overlord viewers usually feel the adaptation compression most?",
+          "answer": "Political maneuvering and diplomatic stakes are broader in the novels. Several arcs lose smaller perspective scenes that make kingdoms, adventurers, and side factions feel more alive. Character thoughts are one of the biggest losses — especially when Overlord shifts between public action and private intent."
         },
         {
-          "question": "Does the Overlord anime change any major story outcomes?",
-          "answer": "No major plot outcomes are changed. Character motivations and world details receive more space in the novels, but the anime follows the canon story faithfully."
+          "question": "What are the best reading paths after finishing the Anime Overlord anime?",
+          "answer": "For the fullest experience, start from Volume 1 and read in order. For direct continuation after currently animated material, continue with Volumes 15–16. If your goal is to recover skipped detail rather than continue forward, reading the novel version of the arc you just watched is the best middle-ground option."
         }
       ]
     },
     "overlordVoiceCast": {
-      "title": "Anime Overlord Voice Cast Guide",
-      "intro": "The Overlord anime features a prominent Japanese cast with an English dub added for Seasons 1–4 and The Sacred Kingdom film. This guide lists the key voice performers for major characters.",
+      "title": "Anime Overlord Major Japanese and English Voice Cast",
+      "intro": "Overlord has kept a recognizable core cast across its main anime run, while The Sacred Kingdom added several important Holy Kingdom roles. This cast guide combines the TV anime lineup with the key Sacred Kingdom additions, organized for quick character-to-actor lookups.",
       "settings": [
         {
-          "name": "Ainz Ooal Gown",
-          "type": "JP: Satoshi Hino",
-          "description": "English dub by Chris Guerrero. Hino portrays both Ainz's commanding public presence and the quiet internal monologues of the former Momonga."
+          "name": "Ainz Ooal Gown / Momon",
+          "type": "JP: Satoshi Hino | EN: Chris Guerrero",
+          "description": "Main series and The Sacred Kingdom. Hino portrays both Ainz's commanding public presence and the quiet internal monologues of the former Momonga across all four seasons and the film."
         },
         {
           "name": "Albedo",
-          "type": "JP: Yumi Hara",
-          "description": "English dub by Jill Harris. Hara's performance balances Albedo's fierce loyalty, administrative precision, and moments of comedic intensity."
+          "type": "JP: Yumi Hara | EN: Elizabeth Maxwell",
+          "description": "Main series and The Sacred Kingdom. Hara's performance balances Albedo's fierce loyalty as Overseer Guardian, administrative precision, and moments of comedic intensity."
         },
         {
           "name": "Demiurge",
-          "type": "JP: Masayuki Katou",
-          "description": "English dub by Ben Bryant. Katou's voice gives Demiurge a smooth, theatrical quality that matches his genius strategist persona."
+          "type": "JP: Masayuki Kato | EN: Jeff Johnson",
+          "description": "Main series and The Sacred Kingdom. Katou's voice gives Demiurge a smooth, theatrical quality that matches his role as Nazarick's primary strategic mastermind."
         },
         {
           "name": "Shalltear Bloodfallen",
-          "type": "JP: Sumire Uesaka",
-          "description": "English dub by Felecia Angelle. Uesaka captures both Shalltear's unsettling elegance and her occasionally childlike reactions."
+          "type": "JP: Sumire Uesaka | EN: Felecia Angelle",
+          "description": "Main series. Uesaka captures both Shalltear's unsettling vampiric elegance and her occasionally childlike reactions, making the Season 1 duel arc particularly memorable."
+        },
+        {
+          "name": "Aura Bella Fiora & Mare Bello Fiore",
+          "type": "JP: Emiri Kato & Yumi Uchiyama | EN: Jill Harris & Megan Shipman",
+          "description": "Main series. The twin dark elf Floor Guardians of the 6th Floor. Kato and Uchiyama provide contrasting energetic versus subdued performances for the siblings."
+        },
+        {
+          "name": "Cocytus & Sebas Tian",
+          "type": "JP: Kenta Miyake & Shigeru Chiba",
+          "description": "Main series. Miyake's deep imposing voice anchors the glacial warrior Cocytus, while Chiba's measured delivery gives Sebas the butler composure central to the Kingdom arcs."
         },
         {
           "name": "Neia Baraja",
-          "type": "JP: Rina Honizumi",
-          "description": "New cast member for The Sacred Kingdom film. Her performance anchors the Holy Kingdom perspective as the main viewpoint character for the movie."
+          "type": "JP: Yoshino Aoyama | EN: Sarah Wiedenheft",
+          "description": "The Sacred Kingdom film. New addition anchoring the Holy Kingdom perspective as the main viewpoint character, tracking Ainz's intervention through a human paladin's eyes."
+        },
+        {
+          "name": "Remedios Custodio & Calca Bessarez",
+          "type": "JP: Hitomi Nabatame & Saori Hayami",
+          "description": "The Sacred Kingdom film. Nabatame voices the Holy Kingdom's lead paladin, while Hayami portrays the Sacred Queen whose fate drives the film's central conflict."
         }
       ]
     },
     "overlordSoundtracks": {
-      "title": "Anime Overlord Soundtracks and Theme Songs",
-      "intro": "Overlord's music spans four TV seasons and a theatrical film. The openings and endings each reflect the tone and arc of their respective season, with OxT and Myth & Roid as the most recognized contributors.",
+      "title": "Anime Overlord Openings, Endings, Insert Songs, and Movie Themes",
+      "intro": "From OxT and MYTH & ROID to Mayu Maeshima and special in-world insert material, Anime Overlord has built a strong music identity across TV seasons, recap films, and the Holy Kingdom movie. This guide is organized by where each song appears in the anime timeline.",
       "entries": [
         {
-          "type": "Opening",
-          "title": "Clattanoia — Season 1 OP (OxT)",
-          "description": "High-energy opening that establishes the series' dark action tone and introduces Ainz's rise to power."
+          "type": "Season 1 OP",
+          "title": "Clattanoia — OxT",
+          "description": "TV anime opening for Season 1. High-energy hard rock that establishes the series' dark action tone and introduces Ainz's rise to power."
         },
         {
-          "type": "Ending",
-          "title": "L.L.L. — Season 1 ED (Myth & Roid)",
-          "description": "Slower, haunting ending theme that became one of the most recognized pieces in the Overlord franchise."
+          "type": "Season 1 ED",
+          "title": "L.L.L. — MYTH & ROID",
+          "description": "TV anime ending for Season 1. Slower, haunting theme that became one of the most recognized pieces in the entire Overlord franchise."
         },
         {
-          "type": "Opening",
-          "title": "Go Cry Go — Season 2 OP (OxT)",
-          "description": "Hard rock opening with aggressive energy matching the Lizardmen and capital arcs of Season 2."
+          "type": "Recap Film Theme",
+          "title": "Crazy Scary Holy Fantasy — MYTH & ROID",
+          "description": "Theme song for The Undead King recap film (Part 1 of the 2017 theatrical compilations)."
         },
         {
-          "type": "Opening",
-          "title": "Voracity — Season 3 OP (Myth & Roid)",
-          "description": "Season 3 opening that emphasizes Nazarick's growing power and the escalating scale of Ainz's campaign."
+          "type": "Recap Film Theme",
+          "title": "Laughter Slaughter — OxT",
+          "description": "Theme song for The Dark Hero recap film (Part 2 of the 2017 theatrical compilations)."
         },
         {
-          "type": "Opening",
-          "title": "HOLLOW HUNGER — Season 4 OP (OxT)",
-          "description": "Season 4 opening reflecting the darker, more politically complex final chapter of the TV series."
+          "type": "Season 2 OP",
+          "title": "GO CRY GO — OxT",
+          "description": "TV anime opening for Season 2. Aggressive energy matching the Lizardmen campaign, Sebas operations, and Jaldabaoth chaos of Season 2."
         },
         {
-          "type": "Film Score",
-          "title": "The Sacred Kingdom Original Score",
-          "description": "Theatrical film score composed for the Holy Kingdom arc, expanding the series' orchestral range for the big-screen adaptation."
+          "type": "Season 2 ED",
+          "title": "HYDRA — MYTH & ROID",
+          "description": "TV anime ending for Season 2. Tense, atmospheric track that complements the political tension and moral complexity of the Season 2 storylines."
+        },
+        {
+          "type": "Season 3 OP",
+          "title": "VORACITY — MYTH & ROID",
+          "description": "TV anime opening for Season 3. Emphasizes Nazarick's growing power and the escalating scale of Ainz's geopolitical campaign."
+        },
+        {
+          "type": "Season 3 ED",
+          "title": "Silent Solitude — OxT",
+          "description": "TV anime ending for Season 3. Quieter, melancholic counterpoint to the season's large-scale battles and political escalation."
+        },
+        {
+          "type": "Season 4 OP",
+          "title": "HOLLOW HUNGER — OxT",
+          "description": "TV anime opening for Season 4. Reflects the darker, more politically complex tone of the Sorcerer Kingdom era and Re-Estize endgame."
+        },
+        {
+          "type": "Season 4 ED",
+          "title": "No Man's Dawn — Mayu Maeshima",
+          "description": "TV anime ending for Season 4. Maeshima's distinct vocal style adds an atmospheric finish to the most consequential season of the TV run."
+        },
+        {
+          "type": "Season 4 Insert",
+          "title": "fallen — Season 4 Episode 13",
+          "description": "In-world insert song featured in the Season 4 finale, adding an unusual musical dimension to one of the series' most impactful closing moments."
+        },
+        {
+          "type": "Sacred Kingdom Theme",
+          "title": "WHEELER-DEALER — OxT",
+          "description": "Official theme song for Overlord: The Sacred Kingdom theatrical film (2024). OxT's return for the Holy Kingdom movie matches the grand scale of the big-screen adaptation."
+        },
+        {
+          "type": "10th Anniversary",
+          "title": "GREATEST GLORIA — OxT & MYTH & ROID",
+          "description": "New collaboration song from the 2025 digital anniversary album, marking ten years of the Overlord anime with a combined performance from both primary theme artists."
         }
       ]
     },
     "overlordSeason5News": {
-      "title": "Anime Overlord Season 5 News",
-      "intro": "Overlord Season 5 has not been officially announced as of early 2026. This page tracks confirmed announcements from official channels and explains what the source material position means for any future continuation.",
+      "title": "Anime Overlord Season 5 and Continuation News Tracker",
+      "intro": "Overlord remains active as an anime franchise. The cleanest way to track future continuation is to separate confirmed official activity from fan speculation. This tracker focuses on what the official sites and licensed outlets have actually published.",
       "steps": [
         {
-          "title": "Current Official Status",
-          "description": "No Season 5 has been announced by Kadokawa, Madhouse, or any affiliated production committee. The most recent major production was The Sacred Kingdom film released in September 2024."
+          "title": "Current Status: TV Sequel Listed but No Season 5 Date Posted",
+          "description": "The official Overlord anime site currently carries sequel-confirmed framing for the TV anime, but the official news feed does not list a separate Season 5 title, broadcast window, or premiere date as of early 2026."
         },
         {
-          "title": "Light Novel Source Position",
-          "description": "The Overlord light novels have 17 volumes in Japanese. The anime and film have adapted through approximately Volume 14. Volumes 15–17 contain unadapted material that could serve as a Season 5 foundation."
+          "title": "The Sacred Kingdom Is the Latest Major Animated Release",
+          "description": "The Holy Kingdom arc was adapted as Overlord: The Sacred Kingdom, released September 20, 2024, giving the franchise a post-Season-4 animated continuation. It became available for streaming on Crunchyroll in April 2025."
         },
         {
-          "title": "Where to Watch for Official News",
-          "description": "Official announcements come through the Overlord anime official website (overlord-anime.com) and the official Twitter account @over_lord_anime. Crunchyroll also posts licensing announcements for western distribution."
+          "title": "The Sacred Kingdom Blu-ray and DVD Launched in Japan",
+          "description": "The official news page announced the movie's Blu-ray and DVD edition for March 26, 2025, with bonus materials including a World Guide content booklet and a full soundtrack CD."
         },
         {
-          "title": "10th Anniversary Activity",
-          "description": "The 10th anniversary of the Overlord anime was marked in 2025. Anniversary events sometimes precede new production announcements, but no official continuation has been confirmed from this period."
+          "title": "10th Anniversary Digital Album Showed Continued Official Support",
+          "description": "The OVERLORD 10th Anniversary ULTIMATE SOUND ALBUM rolled out between March 26 and April 28, 2025, including the new GREATEST GLORIA collaboration song and creator commentary, demonstrating active brand support after the film."
+        },
+        {
+          "title": "Official Channels to Follow for Anime Overlord Season 5 News",
+          "description": "When a future season title, teaser visual, release window, or staff announcement becomes public, check the official Overlord anime news page (overlord-anime.com/news.html) and the official X account @over_lord_anime first."
         }
       ]
     }
