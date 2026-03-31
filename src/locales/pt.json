@@ -11,12 +11,14 @@
     }
   },
   "nav": {
-    "guides": "Guias",
-    "crafting": "Criação",
-    "items": "Itens",
-    "biomes": "Biomas",
-    "building": "Construção",
-    "support": "Suporte"
+    "guide": "Guias",
+    "watch": "Ordem de Assistir",
+    "season": "Temporadas",
+    "movie": "Filmes",
+    "characters": "Personagens",
+    "lore": "Lore",
+    "compare": "Comparar",
+    "media": "Mídia"
   },
   "common": {
     "home": "Início",

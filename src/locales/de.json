@@ -11,12 +11,14 @@
     }
   },
   "nav": {
-    "guides": "Anleitungen",
-    "crafting": "Herstellung",
-    "items": "Gegenstände",
-    "biomes": "Biome",
-    "building": "Bauen",
-    "support": "Unterstützung"
+    "guide": "Guides",
+    "watch": "Schaureihenfolge",
+    "season": "Staffeln",
+    "movie": "Filme",
+    "characters": "Charaktere",
+    "lore": "Lore",
+    "compare": "Vergleich",
+    "media": "Medien"
   },
   "common": {
     "home": "Startseite",

@@ -1,1 +1,12 @@
-{}
+{
+  "nav": {
+    "guide": "Panduan",
+    "watch": "Urutan Tonton",
+    "season": "Season",
+    "movie": "Film",
+    "characters": "Karakter",
+    "lore": "Lore",
+    "compare": "Perbandingan",
+    "media": "Media"
+  }
+}

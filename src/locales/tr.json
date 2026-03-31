@@ -11,12 +11,14 @@
     }
   },
   "nav": {
-    "guides": "Rehberler",
-    "crafting": "Üretim",
-    "items": "Eşyalar",
-    "biomes": "Biyomlar",
-    "building": "İnşa",
-    "support": "Destek"
+    "guide": "Rehberler",
+    "watch": "İzleme Sırası",
+    "season": "Sezonlar",
+    "movie": "Filmler",
+    "characters": "Karakterler",
+    "lore": "Lore",
+    "compare": "Karşılaştırma",
+    "media": "Medya"
   },
   "common": {
     "home": "Ana Sayfa",
