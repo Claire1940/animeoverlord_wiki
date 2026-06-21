@@ -1,0 +1,818 @@
+{
+  "de": {
+    "characters": [
+      {
+        "slug": "overlord-anime-characters",
+        "file": "overlord-anime-characters"
+      }
+    ],
+    "compare": [
+      {
+        "slug": "overlord-anime-creator-other-animes",
+        "file": "overlord-anime-creator-other-animes"
+      },
+      {
+        "slug": "overlord-anime-like",
+        "file": "overlord-anime-like"
+      },
+      {
+        "slug": "overlord-anime-manga-after",
+        "file": "overlord-anime-manga-after"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "overlord-anime-explained",
+        "file": "overlord-anime-explained"
+      },
+      {
+        "slug": "overlord-anime-parents-guide",
+        "file": "overlord-anime-parents-guide"
+      },
+      {
+        "slug": "overlord-anime-recap",
+        "file": "overlord-anime-recap"
+      },
+      {
+        "slug": "overlord-anime-review",
+        "file": "overlord-anime-review"
+      }
+    ],
+    "lore": [
+      {
+        "slug": "overlord-anime-countries",
+        "file": "overlord-anime-countries"
+      },
+      {
+        "slug": "overlord-anime-floor-guardians",
+        "file": "overlord-anime-floor-guardians"
+      },
+      {
+        "slug": "overlord-anime-yggdrasil",
+        "file": "overlord-anime-yggdrasil"
+      }
+    ],
+    "media": [
+      {
+        "slug": "overlord-anime-studio",
+        "file": "overlord-anime-studio"
+      }
+    ],
+    "movie": [
+      {
+        "slug": "overlord-anime-movie-release-date",
+        "file": "overlord-anime-movie-release-date"
+      }
+    ],
+    "season": [
+      {
+        "slug": "overlord-anime-current-season",
+        "file": "overlord-anime-current-season"
+      },
+      {
+        "slug": "overlord-anime-new-season",
+        "file": "overlord-anime-new-season"
+      },
+      {
+        "slug": "overlord-anime-season-5",
+        "file": "overlord-anime-season-5"
+      }
+    ],
+    "watch": [
+      {
+        "slug": "overlord-anime-chronological-order",
+        "file": "overlord-anime-chronological-order"
+      },
+      {
+        "slug": "overlord-anime-episode-count",
+        "file": "overlord-anime-episode-count"
+      },
+      {
+        "slug": "overlord-anime-finished",
+        "file": "overlord-anime-finished"
+      },
+      {
+        "slug": "overlord-anime-in-order",
+        "file": "overlord-anime-in-order"
+      },
+      {
+        "slug": "overlord-anime-watch-order",
+        "file": "overlord-anime-watch-order"
+      }
+    ]
+  },
+  "en": {
+    "characters": [
+      {
+        "slug": "overlord-anime-characters",
+        "file": "overlord-anime-characters"
+      }
+    ],
+    "compare": [
+      {
+        "slug": "overlord-anime-creator-other-animes",
+        "file": "overlord-anime-creator-other-animes"
+      },
+      {
+        "slug": "overlord-anime-like",
+        "file": "overlord-anime-like"
+      },
+      {
+        "slug": "overlord-anime-manga-after",
+        "file": "overlord-anime-manga-after"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "overlord-anime-explained",
+        "file": "overlord-anime-explained"
+      },
+      {
+        "slug": "overlord-anime-parents-guide",
+        "file": "overlord-anime-parents-guide"
+      },
+      {
+        "slug": "overlord-anime-recap",
+        "file": "overlord-anime-recap"
+      },
+      {
+        "slug": "overlord-anime-review",
+        "file": "overlord-anime-review"
+      }
+    ],
+    "lore": [
+      {
+        "slug": "overlord-anime-countries",
+        "file": "overlord-anime-countries"
+      },
+      {
+        "slug": "overlord-anime-floor-guardians",
+        "file": "overlord-anime-floor-guardians"
+      },
+      {
+        "slug": "overlord-anime-yggdrasil",
+        "file": "overlord-anime-yggdrasil"
+      }
+    ],
+    "media": [
+      {
+        "slug": "overlord-anime-studio",
+        "file": "overlord-anime-studio"
+      }
+    ],
+    "movie": [
+      {
+        "slug": "overlord-anime-movie-release-date",
+        "file": "overlord-anime-movie-release-date"
+      }
+    ],
+    "season": [
+      {
+        "slug": "overlord-anime-current-season",
+        "file": "overlord-anime-current-season"
+      },
+      {
+        "slug": "overlord-anime-new-season",
+        "file": "overlord-anime-new-season"
+      },
+      {
+        "slug": "overlord-anime-season-5",
+        "file": "overlord-anime-season-5"
+      }
+    ],
+    "watch": [
+      {
+        "slug": "overlord-anime-chronological-order",
+        "file": "overlord-anime-chronological-order"
+      },
+      {
+        "slug": "overlord-anime-episode-count",
+        "file": "overlord-anime-episode-count"
+      },
+      {
+        "slug": "overlord-anime-finished",
+        "file": "overlord-anime-finished"
+      },
+      {
+        "slug": "overlord-anime-in-order",
+        "file": "overlord-anime-in-order"
+      },
+      {
+        "slug": "overlord-anime-watch-order",
+        "file": "overlord-anime-watch-order"
+      }
+    ]
+  },
+  "es": {
+    "characters": [
+      {
+        "slug": "overlord-anime-characters",
+        "file": "overlord-anime-characters"
+      }
+    ],
+    "compare": [
+      {
+        "slug": "overlord-anime-creator-other-animes",
+        "file": "overlord-anime-creator-other-animes"
+      },
+      {
+        "slug": "overlord-anime-like",
+        "file": "overlord-anime-like"
+      },
+      {
+        "slug": "overlord-anime-manga-after",
+        "file": "overlord-anime-manga-after"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "overlord-anime-explained",
+        "file": "overlord-anime-explained"
+      },
+      {
+        "slug": "overlord-anime-parents-guide",
+        "file": "overlord-anime-parents-guide"
+      },
+      {
+        "slug": "overlord-anime-recap",
+        "file": "overlord-anime-recap"
+      },
+      {
+        "slug": "overlord-anime-review",
+        "file": "overlord-anime-review"
+      }
+    ],
+    "lore": [
+      {
+        "slug": "overlord-anime-countries",
+        "file": "overlord-anime-countries"
+      },
+      {
+        "slug": "overlord-anime-floor-guardians",
+        "file": "overlord-anime-floor-guardians"
+      },
+      {
+        "slug": "overlord-anime-yggdrasil",
+        "file": "overlord-anime-yggdrasil"
+      }
+    ],
+    "media": [
+      {
+        "slug": "overlord-anime-studio",
+        "file": "overlord-anime-studio"
+      }
+    ],
+    "movie": [
+      {
+        "slug": "overlord-anime-movie-release-date",
+        "file": "overlord-anime-movie-release-date"
+      }
+    ],
+    "season": [
+      {
+        "slug": "overlord-anime-current-season",
+        "file": "overlord-anime-current-season"
+      },
+      {
+        "slug": "overlord-anime-new-season",
+        "file": "overlord-anime-new-season"
+      },
+      {
+        "slug": "overlord-anime-season-5",
+        "file": "overlord-anime-season-5"
+      }
+    ],
+    "watch": [
+      {
+        "slug": "overlord-anime-chronological-order",
+        "file": "overlord-anime-chronological-order"
+      },
+      {
+        "slug": "overlord-anime-episode-count",
+        "file": "overlord-anime-episode-count"
+      },
+      {
+        "slug": "overlord-anime-finished",
+        "file": "overlord-anime-finished"
+      },
+      {
+        "slug": "overlord-anime-in-order",
+        "file": "overlord-anime-in-order"
+      },
+      {
+        "slug": "overlord-anime-watch-order",
+        "file": "overlord-anime-watch-order"
+      }
+    ]
+  },
+  "fr": {
+    "characters": [
+      {
+        "slug": "overlord-anime-characters",
+        "file": "overlord-anime-characters"
+      }
+    ],
+    "compare": [
+      {
+        "slug": "overlord-anime-creator-other-animes",
+        "file": "overlord-anime-creator-other-animes"
+      },
+      {
+        "slug": "overlord-anime-like",
+        "file": "overlord-anime-like"
+      },
+      {
+        "slug": "overlord-anime-manga-after",
+        "file": "overlord-anime-manga-after"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "overlord-anime-explained",
+        "file": "overlord-anime-explained"
+      },
+      {
+        "slug": "overlord-anime-parents-guide",
+        "file": "overlord-anime-parents-guide"
+      },
+      {
+        "slug": "overlord-anime-recap",
+        "file": "overlord-anime-recap"
+      },
+      {
+        "slug": "overlord-anime-review",
+        "file": "overlord-anime-review"
+      }
+    ],
+    "lore": [
+      {
+        "slug": "overlord-anime-countries",
+        "file": "overlord-anime-countries"
+      },
+      {
+        "slug": "overlord-anime-floor-guardians",
+        "file": "overlord-anime-floor-guardians"
+      },
+      {
+        "slug": "overlord-anime-yggdrasil",
+        "file": "overlord-anime-yggdrasil"
+      }
+    ],
+    "media": [
+      {
+        "slug": "overlord-anime-studio",
+        "file": "overlord-anime-studio"
+      }
+    ],
+    "movie": [
+      {
+        "slug": "overlord-anime-movie-release-date",
+        "file": "overlord-anime-movie-release-date"
+      }
+    ],
+    "season": [
+      {
+        "slug": "overlord-anime-current-season",
+        "file": "overlord-anime-current-season"
+      },
+      {
+        "slug": "overlord-anime-new-season",
+        "file": "overlord-anime-new-season"
+      },
+      {
+        "slug": "overlord-anime-season-5",
+        "file": "overlord-anime-season-5"
+      }
+    ],
+    "watch": [
+      {
+        "slug": "overlord-anime-chronological-order",
+        "file": "overlord-anime-chronological-order"
+      },
+      {
+        "slug": "overlord-anime-episode-count",
+        "file": "overlord-anime-episode-count"
+      },
+      {
+        "slug": "overlord-anime-finished",
+        "file": "overlord-anime-finished"
+      },
+      {
+        "slug": "overlord-anime-in-order",
+        "file": "overlord-anime-in-order"
+      },
+      {
+        "slug": "overlord-anime-watch-order",
+        "file": "overlord-anime-watch-order"
+      }
+    ]
+  },
+  "id": {
+    "characters": [
+      {
+        "slug": "overlord-anime-characters",
+        "file": "overlord-anime-characters"
+      }
+    ],
+    "compare": [
+      {
+        "slug": "overlord-anime-creator-other-animes",
+        "file": "overlord-anime-creator-other-animes"
+      },
+      {
+        "slug": "overlord-anime-like",
+        "file": "overlord-anime-like"
+      },
+      {
+        "slug": "overlord-anime-manga-after",
+        "file": "overlord-anime-manga-after"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "overlord-anime-explained",
+        "file": "overlord-anime-explained"
+      },
+      {
+        "slug": "overlord-anime-parents-guide",
+        "file": "overlord-anime-parents-guide"
+      },
+      {
+        "slug": "overlord-anime-recap",
+        "file": "overlord-anime-recap"
+      },
+      {
+        "slug": "overlord-anime-review",
+        "file": "overlord-anime-review"
+      }
+    ],
+    "lore": [
+      {
+        "slug": "overlord-anime-countries",
+        "file": "overlord-anime-countries"
+      },
+      {
+        "slug": "overlord-anime-floor-guardians",
+        "file": "overlord-anime-floor-guardians"
+      },
+      {
+        "slug": "overlord-anime-yggdrasil",
+        "file": "overlord-anime-yggdrasil"
+      }
+    ],
+    "media": [
+      {
+        "slug": "overlord-anime-studio",
+        "file": "overlord-anime-studio"
+      }
+    ],
+    "movie": [
+      {
+        "slug": "overlord-anime-movie-release-date",
+        "file": "overlord-anime-movie-release-date"
+      }
+    ],
+    "season": [
+      {
+        "slug": "overlord-anime-current-season",
+        "file": "overlord-anime-current-season"
+      },
+      {
+        "slug": "overlord-anime-new-season",
+        "file": "overlord-anime-new-season"
+      },
+      {
+        "slug": "overlord-anime-season-5",
+        "file": "overlord-anime-season-5"
+      }
+    ],
+    "watch": [
+      {
+        "slug": "overlord-anime-chronological-order",
+        "file": "overlord-anime-chronological-order"
+      },
+      {
+        "slug": "overlord-anime-episode-count",
+        "file": "overlord-anime-episode-count"
+      },
+      {
+        "slug": "overlord-anime-finished",
+        "file": "overlord-anime-finished"
+      },
+      {
+        "slug": "overlord-anime-in-order",
+        "file": "overlord-anime-in-order"
+      },
+      {
+        "slug": "overlord-anime-watch-order",
+        "file": "overlord-anime-watch-order"
+      }
+    ]
+  },
+  "ja": {
+    "characters": [
+      {
+        "slug": "overlord-anime-characters",
+        "file": "overlord-anime-characters"
+      }
+    ],
+    "compare": [
+      {
+        "slug": "overlord-anime-creator-other-animes",
+        "file": "overlord-anime-creator-other-animes"
+      },
+      {
+        "slug": "overlord-anime-like",
+        "file": "overlord-anime-like"
+      },
+      {
+        "slug": "overlord-anime-manga-after",
+        "file": "overlord-anime-manga-after"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "overlord-anime-explained",
+        "file": "overlord-anime-explained"
+      },
+      {
+        "slug": "overlord-anime-parents-guide",
+        "file": "overlord-anime-parents-guide"
+      },
+      {
+        "slug": "overlord-anime-recap",
+        "file": "overlord-anime-recap"
+      },
+      {
+        "slug": "overlord-anime-review",
+        "file": "overlord-anime-review"
+      }
+    ],
+    "lore": [
+      {
+        "slug": "overlord-anime-countries",
+        "file": "overlord-anime-countries"
+      },
+      {
+        "slug": "overlord-anime-floor-guardians",
+        "file": "overlord-anime-floor-guardians"
+      },
+      {
+        "slug": "overlord-anime-yggdrasil",
+        "file": "overlord-anime-yggdrasil"
+      }
+    ],
+    "media": [
+      {
+        "slug": "overlord-anime-studio",
+        "file": "overlord-anime-studio"
+      }
+    ],
+    "movie": [
+      {
+        "slug": "overlord-anime-movie-release-date",
+        "file": "overlord-anime-movie-release-date"
+      }
+    ],
+    "season": [
+      {
+        "slug": "overlord-anime-current-season",
+        "file": "overlord-anime-current-season"
+      },
+      {
+        "slug": "overlord-anime-new-season",
+        "file": "overlord-anime-new-season"
+      },
+      {
+        "slug": "overlord-anime-season-5",
+        "file": "overlord-anime-season-5"
+      }
+    ],
+    "watch": [
+      {
+        "slug": "overlord-anime-chronological-order",
+        "file": "overlord-anime-chronological-order"
+      },
+      {
+        "slug": "overlord-anime-episode-count",
+        "file": "overlord-anime-episode-count"
+      },
+      {
+        "slug": "overlord-anime-finished",
+        "file": "overlord-anime-finished"
+      },
+      {
+        "slug": "overlord-anime-in-order",
+        "file": "overlord-anime-in-order"
+      },
+      {
+        "slug": "overlord-anime-watch-order",
+        "file": "overlord-anime-watch-order"
+      }
+    ]
+  },
+  "pt": {
+    "characters": [
+      {
+        "slug": "overlord-anime-characters",
+        "file": "overlord-anime-characters"
+      }
+    ],
+    "compare": [
+      {
+        "slug": "overlord-anime-creator-other-animes",
+        "file": "overlord-anime-creator-other-animes"
+      },
+      {
+        "slug": "overlord-anime-like",
+        "file": "overlord-anime-like"
+      },
+      {
+        "slug": "overlord-anime-manga-after",
+        "file": "overlord-anime-manga-after"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "overlord-anime-explained",
+        "file": "overlord-anime-explained"
+      },
+      {
+        "slug": "overlord-anime-parents-guide",
+        "file": "overlord-anime-parents-guide"
+      },
+      {
+        "slug": "overlord-anime-recap",
+        "file": "overlord-anime-recap"
+      },
+      {
+        "slug": "overlord-anime-review",
+        "file": "overlord-anime-review"
+      }
+    ],
+    "lore": [
+      {
+        "slug": "overlord-anime-countries",
+        "file": "overlord-anime-countries"
+      },
+      {
+        "slug": "overlord-anime-floor-guardians",
+        "file": "overlord-anime-floor-guardians"
+      },
+      {
+        "slug": "overlord-anime-yggdrasil",
+        "file": "overlord-anime-yggdrasil"
+      }
+    ],
+    "media": [
+      {
+        "slug": "overlord-anime-studio",
+        "file": "overlord-anime-studio"
+      }
+    ],
+    "movie": [
+      {
+        "slug": "overlord-anime-movie-release-date",
+        "file": "overlord-anime-movie-release-date"
+      }
+    ],
+    "season": [
+      {
+        "slug": "overlord-anime-current-season",
+        "file": "overlord-anime-current-season"
+      },
+      {
+        "slug": "overlord-anime-new-season",
+        "file": "overlord-anime-new-season"
+      },
+      {
+        "slug": "overlord-anime-season-5",
+        "file": "overlord-anime-season-5"
+      }
+    ],
+    "watch": [
+      {
+        "slug": "overlord-anime-chronological-order",
+        "file": "overlord-anime-chronological-order"
+      },
+      {
+        "slug": "overlord-anime-episode-count",
+        "file": "overlord-anime-episode-count"
+      },
+      {
+        "slug": "overlord-anime-finished",
+        "file": "overlord-anime-finished"
+      },
+      {
+        "slug": "overlord-anime-in-order",
+        "file": "overlord-anime-in-order"
+      },
+      {
+        "slug": "overlord-anime-watch-order",
+        "file": "overlord-anime-watch-order"
+      }
+    ]
+  },
+  "th": {
+    "characters": [
+      {
+        "slug": "overlord-anime-characters",
+        "file": "overlord-anime-characters"
+      }
+    ],
+    "compare": [
+      {
+        "slug": "overlord-anime-creator-other-animes",
+        "file": "overlord-anime-creator-other-animes"
+      },
+      {
+        "slug": "overlord-anime-like",
+        "file": "overlord-anime-like"
+      },
+      {
+        "slug": "overlord-anime-manga-after",
+        "file": "overlord-anime-manga-after"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "overlord-anime-explained",
+        "file": "overlord-anime-explained"
+      },
+      {
+        "slug": "overlord-anime-parents-guide",
+        "file": "overlord-anime-parents-guide"
+      },
+      {
+        "slug": "overlord-anime-recap",
+        "file": "overlord-anime-recap"
+      },
+      {
+        "slug": "overlord-anime-review",
+        "file": "overlord-anime-review"
+      }
+    ],
+    "lore": [
+      {
+        "slug": "overlord-anime-countries",
+        "file": "overlord-anime-countries"
+      },
+      {
+        "slug": "overlord-anime-floor-guardians",
+        "file": "overlord-anime-floor-guardians"
+      },
+      {
+        "slug": "overlord-anime-yggdrasil",
+        "file": "overlord-anime-yggdrasil"
+      }
+    ],
+    "media": [
+      {
+        "slug": "overlord-anime-studio",
+        "file": "overlord-anime-studio"
+      }
+    ],
+    "movie": [
+      {
+        "slug": "overlord-anime-movie-release-date",
+        "file": "overlord-anime-movie-release-date"
+      }
+    ],
+    "season": [
+      {
+        "slug": "overlord-anime-current-season",
+        "file": "overlord-anime-current-season"
+      },
+      {
+        "slug": "overlord-anime-new-season",
+        "file": "overlord-anime-new-season"
+      },
+      {
+        "slug": "overlord-anime-season-5",
+        "file": "overlord-anime-season-5"
+      }
+    ],
+    "watch": [
+      {
+        "slug": "overlord-anime-chronological-order",
+        "file": "overlord-anime-chronological-order"
+      },
+      {
+        "slug": "overlord-anime-episode-count",
+        "file": "overlord-anime-episode-count"
+      },
+      {
+        "slug": "overlord-anime-finished",
+        "file": "overlord-anime-finished"
+      },
+      {
+        "slug": "overlord-anime-in-order",
+        "file": "overlord-anime-in-order"
+      },
+      {
+        "slug": "overlord-anime-watch-order",
+        "file": "overlord-anime-watch-order"
+      }
+    ]
+  }
+}
