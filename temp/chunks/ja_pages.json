@@ -1,0 +1,164 @@
+{
+  "pages": {
+    "guide": {
+      "title": "Overlord アニメガイド",
+      "description": "解説、あらすじ、レビュー、ペアレンツガイドを含む、アニメ「Overlord」の完全ガイド。",
+      "metaTitle": "Overlord アニメガイド - 解説・あらすじ・レビュー・ペアレンツガイド",
+      "metaDescription": "全シーズンの解説、完全なあらすじ、レビュー、ペアレンツガイドを網羅した「Overlord」アニメ総合ガイド。",
+      "categoryLabel": "ガイド",
+      "whatIs": "これらのガイドについて",
+      "whatIsDescription": "ストーリー、テーマ、キャラクター、主要な出来事を網羅した、アニメ「Overlord」の詳細な解説ガイド。新規視聴者や復習したいファンに最適です。",
+      "why": "ガイドを読む理由",
+      "whySteps": {
+        "step1Title": "ストーリーを理解する",
+        "step1Description": "「Overlord」のプロットと世界観を分かりやすく解説。",
+        "step2Title": "素早く振り返る",
+        "step2Description": "あらすじやエピソードの要約を読んで記憶をリフレッシュ。",
+        "step3Title": "視聴の参考に",
+        "step3Description": "ペアレンツガイドをチェックして、「Overlord」が家族での視聴に適しているか判断。"
+      },
+      "featured": "必須ガイド",
+      "all": "すべてのガイド"
+    },
+    "watch": {
+      "title": "Overlord 視聴順",
+      "description": "時系列順や公開順を含む、すべての「Overlord」アニメシリーズと映画を正しい順番で視聴するための完全ガイド。",
+      "metaTitle": "Overlord アニメ視聴順 - 時系列＆公開順ガイド",
+      "metaDescription": "エピソード数、時系列、2024年の映画の位置付けなど、「Overlord」アニメの最適な視聴順を紹介。",
+      "categoryLabel": "視聴順",
+      "whatIs": "視聴順とは？",
+      "whatIsDescription": "テレビアニメ4シーズンと映画「Sacred Kingdom」を含む、すべての「Overlord」アニメコンテンツを正しい順序で視聴するための構成ガイド。",
+      "why": "視聴順に従う理由",
+      "whySteps": {
+        "step1Title": "ネタバレを避ける",
+        "step1Description": "意図された通りにストーリーの展開を体験するために、正しい順序で視聴。",
+        "step2Title": "映画を正しい位置で観る",
+        "step2Description": "映画「Sacred Kingdom」は正史（カノン）であり、第4シーズンのタイムラインに含まれます。",
+        "step3Title": "スキップすべきものを知る",
+        "step3Description": "視聴前に、総集編映画と新規内容の映画を区別。"
+      },
+      "featured": "必須の視聴リスト",
+      "all": "完全な視聴順"
+    },
+    "season": {
+      "title": "Overlord アニメシーズン",
+      "description": "第5期のニュース、現在のステータス、新シーズンのアップデートを含む、「Overlord」アニメ全シーズンの詳細解説。",
+      "metaTitle": "Overlord アニメシーズン - 第5期、現在の状況＆新シーズン情報",
+      "metaDescription": "「Overlord」アニメシーズンに関するすべて：第5期はあるのか、現在の状況、最新の新シーズン発表について。",
+      "categoryLabel": "シーズン",
+      "whatIs": "「Overlord」のシーズンについて",
+      "whatIsDescription": "「Overlord」は2015年から2022年までに4つのテレビアニメシリーズが放送され、2024年には映画「Sacred Kingdom」が公開されました。このセクションでは、各シーズンの情報、続編の状況、第5期のニュースを扱います。",
+      "why": "シーズンを追う理由",
+      "whySteps": {
+        "step1Title": "公開タイムラインを知る",
+        "step1Description": "各シーズンがいつ放送され、どの内容をカバーしているかを理解。",
+        "step2Title": "第5期のニュースを追う",
+        "step2Description": "「Overlord」が第4期以降も続くかどうか、最新情報をチェック。",
+        "step3Title": "視聴計画を立てる",
+        "step3Description": "各編の要約に基づいて、どのシーズンを優先的に観るか決定。"
+      },
+      "featured": "シーズンのハイライト",
+      "all": "すべてのシーズン記事"
+    },
+    "movie": {
+      "title": "Overlord アニメ映画",
+      "description": "映画「Sacred Kingdom」の公開日、映画リスト、予告編の詳細を含む、「Overlord」アニメ映画の完全ガイド。",
+      "metaTitle": "Overlord アニメ映画 - 「Sacred Kingdom」、映画リスト＆公開日",
+      "metaDescription": "2024年の映画「Sacred Kingdom」の公開日、全映画リスト、公式予告編を含む、「Overlord」アニメ映画ガイド。",
+      "categoryLabel": "映画",
+      "whatIs": "「Overlord」の映画とは？",
+      "whatIsDescription": "「Overlord」には複数のアニメ映画があります。第1期と第2期の総集編映画2本、そして新規の正史ストーリーを含む2024年の劇場版「Sacred Kingdom」です。",
+      "why": "映画を観る理由",
+      "whySteps": {
+        "step1Title": "正史の映画を体験する",
+        "step1Description": "「Sacred Kingdom」は完全な正史であり、メインストーリーの続きです。",
+        "step2Title": "公開日を確認する",
+        "step2Description": "「Sacred Kingdom」や今後の映画の正確な公開情報を入手。",
+        "step3Title": "予告編を観る",
+        "step3Description": "視聴する前に、公式予告編で各映画をプレビュー。"
+      },
+      "featured": "注目の映画",
+      "all": "すべての映画記事"
+    },
+    "characters": {
+      "title": "Overlord アニメキャラクター",
+      "description": "「Nazarick」の統治者、階層守護者、王国の人物、そして「Sacred Kingdom」のキャストを含む完全なキャラクターガイド。",
+      "metaTitle": "Overlord アニメキャラクター - アインズ、Albedo、Shalltear ＆ 階層守護者",
+      "metaDescription": "Ainz Ooal Gown、Albedo、Shalltear、セバス、そしてすべての「Nazarick」守護者を網羅した「Overlord」アニメキャラクターガイド。",
+      "categoryLabel": "キャラクター",
+      "whatIs": "登場人物について",
+      "whatIsDescription": "「Overlord」には、「Nazarick」の階層守護者から人間界の王国の統治者まで、多くのキャラクターが登場します。このセクションでは、主要キャラクター、その役割、そして物語の展開を解説します。",
+      "why": "キャラクターガイドを読む理由",
+      "whySteps": {
+        "step1Title": "勢力を知る",
+        "step1Description": "どのキャラクターが「Nazarick」、人間界の王国、または「Sacred Kingdom」に属しているかを理解。",
+        "step2Title": "キャラクターの成長を追う",
+        "step2Description": "全4シーズンと映画を通じた各キャラクターのストーリーを追跡。",
+        "step3Title": "映画に備える",
+        "step3Description": "2024年の映画を観る前に、新しい「Sacred Kingdom」のキャラクターについて学習。"
+      },
+      "featured": "主要キャラクター",
+      "all": "すべてのキャラクター"
+    },
+    "lore": {
+      "title": "Overlord アニメ設定・世界観",
+      "description": "「Nazarick」、階層守護者、「YGGDRASIL」、諸国、魔法体系など、「Overlord」アニメの世界観を深掘り。",
+      "metaTitle": "Overlord アニメ設定 - Nazarick、YGGDRASIL、階層守護者 ＆ 諸国",
+      "metaDescription": "「Nazarick」大墳墓、階層守護者、「YGGDRASIL」の起源、世界の国々、魔法など、「Overlord」アニメの設定を探索。",
+      "categoryLabel": "LORE",
+      "whatIs": "設定（ロア）とは？",
+      "whatIsDescription": "「Overlord」には、仮想ゲーム世界「YGGDRASIL」と「異世界（新世界）」にまたがる豊かな世界観があります。これには「Nazarick」大墳墓、その階層守護者、魔法体系、政治勢力が含まれます。",
+      "why": "設定を探索する理由",
+      "whySteps": {
+        "step1Title": "「YGGDRASIL」を理解する",
+        "step1Description": "アインズがいたゲームの世界が、現在のストーリーにどのように影響しているかを学習。",
+        "step2Title": "「Nazarick」を探索する",
+        "step2Description": "「Nazarick」大墳墓の構造、各階層、および守護者たちについて発見。",
+        "step3Title": "世界の地図を知る",
+        "step3Description": "異世界の国々、勢力、および政治情勢を理解。"
+      },
+      "featured": "必須の設定知識",
+      "all": "すべての設定記事"
+    },
+    "compare": {
+      "title": "Overlord 比較 ＆ 類似作品",
+      "description": "「Overlord」アニメと似た作品、漫画、ライトノベルを比較し、「Overlord」のようなおすすめアニメを紹介。",
+      "metaTitle": "「Overlord」に似たアニメ - 比較、漫画 vs アニメ ＆ ライトノベルガイド",
+      "metaDescription": "「Overlord」に似たアニメの紹介、漫画とアニメの違いの比較、アニメの先を描くライトノベルの探索。",
+      "categoryLabel": "比較",
+      "whatIs": "これらの比較について",
+      "whatIsDescription": "「Overlord」を他の似た異世界アニメと比較したり、漫画とアニメの違いを解説したり、アニメ化されていないライトノベルの内容を扱ったりするガイド。",
+      "why": "比較を読む理由",
+      "whySteps": {
+        "step1Title": "似たアニメを見つける",
+        "step1Description": "「Overlord」ファンにおすすめの異世界やダークファンタジーアニメを発見。",
+        "step2Title": "物語の続きを知る",
+        "step2Description": "漫画やライトノベルでストーリーを読み進める方法を確認。",
+        "step3Title": "違いを理解する",
+        "step3Description": "原作と比べてアニメで変更された点やカットされた内容を把握。"
+      },
+      "featured": "おすすめ作品",
+      "all": "すべての比較記事"
+    },
+    "media": {
+      "title": "Overlord アニメメディア",
+      "description": "配信プラットフォーム、制作スタジオ、オープニング＆エンディングテーマ、MyAnimeListの評価など、「Overlord」アニメのメディア情報。",
+      "metaTitle": "Overlord アニメ：Netflix、スタジオ、オープニング＆エンディングテーマ",
+      "metaDescription": "Netflixやその他の配信プラットフォームで「Overlord」アニメを見つけ、制作スタジオ「Madhouse」や主題歌について詳しく知る。",
+      "categoryLabel": "メディア",
+      "whatIs": "ここにあるメディア情報とは？",
+      "whatIsDescription": "「Overlord」の視聴方法、制作スタジオ、MyAnimeListでの評価、そして象徴的なオープニング・エンディング主題歌に関する情報。",
+      "why": "メディア情報をチェックする理由",
+      "whySteps": {
+        "step1Title": "視聴場所を見つける",
+        "step1Description": "お住まいの地域で「Overlord」を配信しているプラットフォームを確認。",
+        "step2Title": "スタジオについて知る",
+        "step2Description": "Madhouseによる「Overlord」の制作と、そのアニメーションクオリティを探索。",
+        "step3Title": "音楽を楽しむ",
+        "step3Description": "「Overlord」各シーズンのオープニングとエンディングテーマを見つけて楽しむ。"
+      },
+      "featured": "配信 ＆ スタジオ",
+      "all": "すべてのメディア記事"
+    }
+  }
+}

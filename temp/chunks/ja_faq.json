@@ -1,0 +1,33 @@
+{
+  "faq": {
+    "title": "よくある",
+    "titleHighlight": "質問",
+    "subtitle": "__PROTECTED_08f44fda__ウィキおよびアニメシリーズ「Overlord」に関するよくある質問です。",
+    "questions": [
+      {
+        "question": "__PROTECTED_08f44fda__とはどのような内容ですか？",
+        "answer": "__PROTECTED_08f44fda__は、アニメシリーズ「Overlord」を扱っています。これは、YGGDRASILのプレイヤーである__PROTECTED_61f6e5c2__がAinz Ooal Gownとなり、征服や政治的策略を通じて異世界でNazarick地下大墳墓を率いるダークファンタジー異世界作品です。"
+      },
+      {
+        "question": "アニメ「Overlord」を見る正しい順番は？",
+        "answer": "まずTVシリーズ全4期を視聴してください。時系列順では、劇場版「Sacred Kingdom」を第4期の第7話と第8話の間に位置づけます。2017年の総集編映画2作品は任意であり、新しいストーリー内容を見逃すことなくスキップ可能です。"
+      },
+      {
+        "question": "「Overlord」は何期までありますか？",
+        "answer": "「Overlord」には全52話のTVアニメシリーズが4期あります。また、3本の映画があります。2017年の総集編2部作と、2024年の正史を描いた劇場版「Overlord：Sacred Kingdom」です。"
+      },
+      {
+        "question": "劇場版「Overlord：Sacred Kingdom」は総集編ですか？",
+        "answer": "いいえ。「Sacred Kingdom」はライトノベルの「__PROTECTED_9a83852a__」編を映像化した正史の物語です。総集編ではなく、時系列的には「Overlord IV」の第7話と第8話の間に位置します。"
+      },
+      {
+        "question": "アニメ「Overlord」はどこで視聴できますか？",
+        "answer": "TVシリーズ全4期と劇場版「Sacred Kingdom」は__PROTECTED_232a31b9__で配信されています。また、お住まいの地域によっては、他のライセンス済みストリーミングプラットフォームでも視聴可能です。"
+      },
+      {
+        "question": "「Overlord」の第5期は制作されますか？",
+        "answer": "2026年初頭の時点では、第5期の制作は公式に発表されていません。ライトノベルにはアニメで放送された内容の続きとなる巻が存在しますが、現時点で公式な制作決定は確認されていません。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "hero": {
+    "badge": "Anime Isekai Fantasi Gelap",
+    "title": "Wiki Anime Overlord",
+    "description": "Sebuah isekai fantasi gelap tentang __PROTECTED_61f6e5c2__ yang menjadi Ainz Ooal Gown setelah YGGDRASIL berakhir, lalu memimpin Nazarick melalui penaklukan, politik, dan arc Sacred Kingdom.",
+    "getFreeCodesCTA": "Lihat Urutan Menonton",
+    "playOnSteamCTA": "Tonton di __PROTECTED_232a31b9__",
+    "stats": {
+      "stat1": {
+        "value": "2015",
+        "label": "Tayang Perdana"
+      },
+      "stat2": {
+        "value": "4",
+        "label": "Musim TV"
+      },
+      "stat3": {
+        "value": "52",
+        "label": "Episode"
+      },
+      "stat4": {
+        "value": "3",
+        "label": "Film Anime"
+      }
+    }
+  }
+}

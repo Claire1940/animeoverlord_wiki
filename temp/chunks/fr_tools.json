@@ -1,0 +1,89 @@
+{
+  "tools": {
+    "title": "__PROTECTED_08f44fda__",
+    "titleHighlight": "Wiki",
+    "subtitle": "Guide complet de la série animée Overlord — ordre de visionnage, personnages, lore et tout le reste",
+    "cards": [
+      {
+        "icon": "ListOrdered",
+        "title": "Ordre de visionnage de __PROTECTED_08f44fda__",
+        "description": "Séquence de visionnage complète pour toutes les saisons et tous les films"
+      },
+      {
+        "icon": "Users",
+        "title": "Personnages de __PROTECTED_08f44fda__",
+        "description": "Gardiens de Nazarick, figures du royaume et casting du film"
+      },
+      {
+        "icon": "List",
+        "title": "Guide des épisodes de __PROTECTED_08f44fda__",
+        "description": "Les 52 épisodes organisés par saison avec résumés"
+      },
+      {
+        "icon": "Film",
+        "title": "Overlord : Le Sacred Kingdom",
+        "description": "Où le film canon de 2024 s'inscrit dans l'histoire"
+      },
+      {
+        "icon": "Crown",
+        "title": "__PROTECTED_08f44fda__ : Ainz Ooal Gown",
+        "description": "Le Roi-Sorcier et ancien joueur de YGGDRASIL, __PROTECTED_61f6e5c2__"
+      },
+      {
+        "icon": "Shield",
+        "title": "__PROTECTED_08f44fda__ : Guide de Albedo",
+        "description": "Rôle, pouvoirs et importance dans l'histoire de la Régente des Gardiens"
+      },
+      {
+        "icon": "Swords",
+        "title": "__PROTECTED_08f44fda__ : Guide de Shalltear",
+        "description": "Gardienne de niveau vampire et arc de conflit de la saison 1"
+      },
+      {
+        "icon": "Trophy",
+        "title": "Classement des Gardiens de niveau de __PROTECTED_08f44fda__",
+        "description": "Tous les Gardiens de niveau par rôle et spécialité de combat"
+      },
+      {
+        "icon": "Landmark",
+        "title": "__PROTECTED_08f44fda__ : Guide de Nazarick",
+        "description": "Structure étage par étage, factions et agencement du Grand Tombeau"
+      },
+      {
+        "icon": "BookOpen",
+        "title": "Arcs narratifs de __PROTECTED_08f44fda__",
+        "description": "Tous les arcs majeurs associés aux saisons et aux plages d'épisodes"
+      },
+      {
+        "icon": "Clock",
+        "title": "Chronologie de __PROTECTED_08f44fda__",
+        "description": "Ordre chronologique de tous les événements et arcs majeurs"
+      },
+      {
+        "icon": "BookMarked",
+        "title": "Guide du Light Novel de __PROTECTED_08f44fda__",
+        "description": "Ordre de lecture et par où commencer après l'anime"
+      },
+      {
+        "icon": "Scale",
+        "title": "__PROTECTED_08f44fda__ : Anime vs Roman",
+        "description": "Différences clés et ce que l'adaptation animée omet"
+      },
+      {
+        "icon": "Mic2",
+        "title": "Casting vocal de __PROTECTED_08f44fda__",
+        "description": "Casting japonais et anglais pour toutes les saisons et tous les films"
+      },
+      {
+        "icon": "Music",
+        "title": "Bandes originales de __PROTECTED_08f44fda__",
+        "description": "Tous les openings, endings, chansons d'ambiance et thèmes de films"
+      },
+      {
+        "icon": "Radio",
+        "title": "Actualités de la saison 5 de __PROTECTED_08f44fda__",
+        "description": "Annonces officielles et état du matériel source"
+      }
+    ]
+  }
+}

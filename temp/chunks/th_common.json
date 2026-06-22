@@ -1,0 +1,16 @@
+{
+  "common": {
+    "home": "หน้าหลัก",
+    "more": "เพิ่มเติม",
+    "playNow": "เล่นบน Steam",
+    "switchLanguage": "เปลี่ยนภาษา",
+    "switchTheme": "เปลี่ยนธีม",
+    "lightMode": "โหมดสว่าง",
+    "darkMode": "โหมดมืด",
+    "notFound": "ไม่พบหน้านี้",
+    "notFoundDescription": "ไม่พบหน้าที่คุณกำลังมองหา",
+    "backToHome": "กลับสู่หน้าหลัก",
+    "relatedArticles": "บทความที่เกี่ยวข้อง",
+    "readMore": "อ่านเพิ่มเติม"
+  }
+}

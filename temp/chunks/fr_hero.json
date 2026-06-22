@@ -1,0 +1,27 @@
+{
+  "hero": {
+    "badge": "Anime Isekai Dark Fantasy",
+    "title": "Wiki de l'Anime Overlord",
+    "description": "Un isekai de dark fantasy sur __PROTECTED_61f6e5c2__ devenant Ainz Ooal Gown après la fin de YGGDRASIL, menant ensuite Nazarick à travers conquêtes, politique et l'arc Sacred Kingdom.",
+    "getFreeCodesCTA": "Voir l'ordre de visionnage",
+    "playOnSteamCTA": "Regarder sur __PROTECTED_232a31b9__",
+    "stats": {
+      "stat1": {
+        "value": "2015",
+        "label": "Première diffusion"
+      },
+      "stat2": {
+        "value": "4",
+        "label": "Saisons TV"
+      },
+      "stat3": {
+        "value": "52",
+        "label": "Épisodes"
+      },
+      "stat4": {
+        "value": "3",
+        "label": "Films d'animation"
+      }
+    }
+  }
+}

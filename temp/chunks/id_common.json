@@ -1,0 +1,16 @@
+{
+  "common": {
+    "home": "Beranda",
+    "more": "Selengkapnya",
+    "playNow": "Mainkan di Steam",
+    "switchLanguage": "Ganti Bahasa",
+    "switchTheme": "Ganti Tema",
+    "lightMode": "Mode Terang",
+    "darkMode": "Mode Gelap",
+    "notFound": "Halaman Tidak Ditemukan",
+    "notFoundDescription": "Halaman yang Anda cari tidak ada.",
+    "backToHome": "Kembali ke Beranda",
+    "relatedArticles": "Artikel Terkait",
+    "readMore": "Baca Selengkapnya"
+  }
+}

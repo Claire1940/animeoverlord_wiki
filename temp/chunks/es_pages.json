@@ -1,0 +1,164 @@
+{
+  "pages": {
+    "guide": {
+      "title": "Guías del anime Overlord",
+      "description": "Guías completas del anime Overlord que incluyen explicaciones, resúmenes, reseñas y una guía para padres.",
+      "metaTitle": "Guías del anime Overlord: explicación, resumen, reseña y guía para padres",
+      "metaDescription": "Guías exhaustivas del anime Overlord que cubren la serie explicada, resumen completo, reseña y guía para padres de todas las temporadas.",
+      "categoryLabel": "GUÍAS",
+      "whatIs": "¿Qué son estas guías?",
+      "whatIsDescription": "Guías detalladas que explican la serie de anime Overlord, cubriendo la historia, los temas, los personajes y los eventos clave. Ideal para nuevos espectadores o fans que buscan ponerse al día.",
+      "why": "¿Por qué leer estas guías?",
+      "whySteps": {
+        "step1Title": "Entender la historia",
+        "step1Description": "Obtén una explicación clara de la trama y el mundo de Overlord",
+        "step2Title": "Ponerse al día rápidamente",
+        "step2Description": "Lee resúmenes de episodios para refrescar tu memoria",
+        "step3Title": "Tomar decisiones informadas",
+        "step3Description": "Consulta la guía para padres para decidir si Overlord es adecuado para tu familia"
+      },
+      "featured": "Guías esenciales",
+      "all": "Todas las guías"
+    },
+    "watch": {
+      "title": "Orden para ver Overlord",
+      "description": "Guía completa para ver todas las temporadas y películas del anime Overlord en el orden correcto, incluyendo el orden cronológico y de estreno.",
+      "metaTitle": "Orden para ver el anime Overlord - Guía de orden cronológico y de estreno",
+      "metaDescription": "Encuentra el mejor orden para ver el anime Overlord con el recuento de episodios, el orden cronológico y orientación sobre dónde encaja la película de 2024.",
+      "categoryLabel": "ORDEN PARA VER",
+      "whatIs": "¿Qué es el orden para ver?",
+      "whatIsDescription": "Una guía estructurada para ver todo el contenido del anime Overlord en la secuencia correcta, cubriendo cuatro temporadas de TV y la película Sacred Kingdom.",
+      "why": "¿Por qué seguir un orden para ver?",
+      "whySteps": {
+        "step1Title": "Evitar spoilers",
+        "step1Description": "Mira en la secuencia correcta para experimentar las revelaciones de la historia según lo previsto",
+        "step2Title": "Ubicar la película correctamente",
+        "step2Description": "La película Sacred Kingdom es canon y encaja dentro de la línea de tiempo de la Temporada 4",
+        "step3Title": "Saber qué omitir",
+        "step3Description": "Identifica las películas de resumen frente a las películas de contenido nuevo antes de verlas"
+      },
+      "featured": "Visionado esencial",
+      "all": "Orden completo para ver"
+    },
+    "season": {
+      "title": "Temporadas del anime Overlord",
+      "description": "Desglose completo de todas las temporadas del anime Overlord, incluyendo noticias de la Temporada 5, estado actual de la temporada y actualizaciones de nuevas temporadas.",
+      "metaTitle": "Temporadas del anime Overlord - Temporada 5, estado actual y noticias de nuevas temporadas",
+      "metaDescription": "Todo sobre las temporadas del anime Overlord: ¿habrá una Temporada 5?, cuál es la temporada actual y los últimos anuncios de nuevas temporadas.",
+      "categoryLabel": "TEMPORADAS",
+      "whatIs": "¿Cuáles son las temporadas de Overlord?",
+      "whatIsDescription": "Overlord ha emitido cuatro temporadas de anime para TV de 2015 a 2022, además de la película Sacred Kingdom de 2024. Esta sección cubre toda la información de las temporadas, el estado de renovación y noticias de la Temporada 5.",
+      "why": "¿Por qué seguir las temporadas?",
+      "whySteps": {
+        "step1Title": "Conocer la cronología de estrenos",
+        "step1Description": "Entiende cuándo se emitió cada temporada y qué cubrió",
+        "step2Title": "Seguir las noticias de la Temporada 5",
+        "step2Description": "Mantente al día sobre si Overlord continuará después de la Temporada 4",
+        "step3Title": "Planificar tu visionado",
+        "step3Description": "Decide qué temporadas priorizar basándote en los resúmenes de los arcos"
+      },
+      "featured": "Lo más destacado de las temporadas",
+      "all": "Todos los artículos de las temporadas"
+    },
+    "movie": {
+      "title": "Películas del anime Overlord",
+      "description": "Guía completa de todas las películas del anime Overlord, incluyendo la fecha de estreno de la película Sacred Kingdom, la lista de películas y detalles del tráiler.",
+      "metaTitle": "Películas del anime Overlord - Sacred Kingdom, lista de películas y fechas de estreno",
+      "metaDescription": "Guía de todas las películas del anime Overlord, incluyendo la fecha de estreno de la película Sacred Kingdom de 2024, la lista completa de películas y tráileres oficiales.",
+      "categoryLabel": "PELÍCULAS",
+      "whatIs": "¿Cuáles son las películas de Overlord?",
+      "whatIsDescription": "Overlord tiene varias películas de anime: dos películas recopilatorias que resumen las temporadas 1 y 2, y la película cinematográfica de 2024 Sacred Kingdom con nuevo contenido de la historia canon.",
+      "why": "¿Por qué ver las películas?",
+      "whySteps": {
+        "step1Title": "Experimentar la película canon",
+        "step1Description": "La película Sacred Kingdom es totalmente canon y continúa la historia principal",
+        "step2Title": "Encontrar fechas de estreno",
+        "step2Description": "Obtén fechas de estreno precisas para Sacred Kingdom y futuras películas",
+        "step3Title": "Ver los tráileres",
+        "step3Description": "Previsualiza cada película con tráileres oficiales antes de decidir verla"
+      },
+      "featured": "Películas destacadas",
+      "all": "Todos los artículos de películas"
+    },
+    "characters": {
+      "title": "Personajes del anime Overlord",
+      "description": "Guía completa de personajes para los líderes de Nazarick, guardianes de piso, figuras del reino y el elenco de Sacred Kingdom.",
+      "metaTitle": "Personajes del anime Overlord - Ainz, Albedo, Shalltear y guardianes de piso",
+      "metaDescription": "Guía de personajes para el anime Overlord que cubre a Ainz Ooal Gown, Albedo, Shalltear, Sebas y todos los guardianes de Nazarick.",
+      "categoryLabel": "PERSONAJES",
+      "whatIs": "¿Quiénes son los personajes?",
+      "whatIsDescription": "Overlord cuenta con un gran elenco de personajes, desde los guardianes de piso de Nazarick hasta los gobernantes de los reinos humanos. Esta sección cubre a los personajes principales, sus roles y sus arcos.",
+      "why": "¿Por qué leer guías de personajes?",
+      "whySteps": {
+        "step1Title": "Conocer las facciones",
+        "step1Description": "Entiende qué personajes pertenecen a Nazarick, a los reinos humanos o a Sacred Kingdom",
+        "step2Title": "Seguir los arcos de los personajes",
+        "step2Description": "Sigue la historia de cada personaje a través de las cuatro temporadas y la película",
+        "step3Title": "Prepararse para la película",
+        "step3Description": "Aprende sobre los nuevos personajes de Sacred Kingdom antes de ver la película de 2024"
+      },
+      "featured": "Personajes clave",
+      "all": "Todos los personajes"
+    },
+    "lore": {
+      "title": "Lore del anime Overlord",
+      "description": "Análisis profundos sobre la construcción del mundo del anime Overlord, incluyendo Nazarick, los guardianes de piso, YGGDRASIL, países y el sistema de magia.",
+      "metaTitle": "Lore del anime Overlord - Nazarick, YGGDRASIL, guardianes de piso y países",
+      "metaDescription": "Explora el lore del anime Overlord que cubre la Gran Tumba de Nazarick, los guardianes de piso, los orígenes de YGGDRASIL, los países del mundo y los hechizos.",
+      "categoryLabel": "LORE",
+      "whatIs": "¿Qué es el lore?",
+      "whatIsDescription": "Overlord tiene una rica construcción de mundo que abarca el mundo virtual del juego YGGDRASIL y el Nuevo Mundo, incluyendo la Gran Tumba de Nazarick, sus guardianes de piso, sistemas de magia y facciones políticas.",
+      "why": "¿Por qué explorar el lore?",
+      "whySteps": {
+        "step1Title": "Entender YGGDRASIL",
+        "step1Description": "Aprende cómo el mundo del juego del que proviene Ainz dio forma a la historia actual",
+        "step2Title": "Explorar Nazarick",
+        "step2Description": "Descubre el diseño, los pisos y los guardianes de la Gran Tumba de Nazarick",
+        "step3Title": "Mapear el mundo",
+        "step3Description": "Entiende los países, las facciones y el panorama político del Nuevo Mundo"
+      },
+      "featured": "Lore esencial",
+      "all": "Todos los artículos de lore"
+    },
+    "compare": {
+      "title": "Comparaciones y alternativas de Overlord",
+      "description": "Compara el anime Overlord con series similares, manga y novelas ligeras, y encuentra los mejores animes parecidos a Overlord.",
+      "metaTitle": "Animes como Overlord - Comparaciones, manga vs anime y guía de novelas ligeras",
+      "metaDescription": "Encuentra animes similares a Overlord, compara las diferencias entre el manga y el anime, y explora la continuación de la novela ligera más allá del anime.",
+      "categoryLabel": "COMPARAR",
+      "whatIs": "¿Qué son estas comparaciones?",
+      "whatIsDescription": "Guías que comparan Overlord con animes isekai similares, explican las diferencias entre el manga y el anime, y cubren el contenido de la novela ligera que va más allá de lo que adaptó el anime.",
+      "why": "¿Por qué leer comparaciones?",
+      "whySteps": {
+        "step1Title": "Encontrar animes similares",
+        "step1Description": "Descubre animes isekai y de fantasía oscura recomendados para los fans de Overlord",
+        "step2Title": "Continuar la historia",
+        "step2Description": "Aprende cómo seguir leyendo la historia en formato de manga o novela ligera",
+        "step3Title": "Entender las diferencias",
+        "step3Description": "Conoce qué cambió o qué omitió el anime en comparación con el material original"
+      },
+      "featured": "Principales recomendaciones",
+      "all": "Todas las comparaciones"
+    },
+    "media": {
+      "title": "Medios del anime Overlord",
+      "description": "Cobertura de medios del anime Overlord, incluyendo plataformas de streaming, estudio de animación, temas de apertura y cierre, y calificaciones de MyAnimeList.",
+      "metaTitle": "Anime Overlord en Netflix, estudio, temas de apertura y cierre",
+      "metaDescription": "Encuentra el anime Overlord en Netflix y otras plataformas de streaming, conoce el estudio de animación Madhouse y explora los temas de apertura y cierre.",
+      "categoryLabel": "MEDIOS",
+      "whatIs": "¿Qué información de medios hay aquí?",
+      "whatIsDescription": "Información sobre dónde ver Overlord, qué estudio de animación lo produjo, sus calificaciones en MyAnimeList y sus icónicos temas musicales de apertura y cierre.",
+      "why": "¿Por qué consultar la información de medios?",
+      "whySteps": {
+        "step1Title": "Encontrar dónde verlo",
+        "step1Description": "Descubre qué plataformas de streaming tienen Overlord en tu región",
+        "step2Title": "Conocer el estudio",
+        "step2Description": "Explora el trabajo de Madhouse en Overlord y su calidad de animación",
+        "step3Title": "Descubrir la música",
+        "step3Description": "Encuentra y disfruta de los temas de apertura y cierre de cada temporada de Overlord"
+      },
+      "featured": "Streaming y estudio",
+      "all": "Todos los artículos de medios"
+    }
+  }
+}

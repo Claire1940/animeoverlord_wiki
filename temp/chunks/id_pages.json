@@ -1,0 +1,164 @@
+{
+  "pages": {
+    "guide": {
+      "title": "Panduan Anime Overlord",
+      "description": "Panduan lengkap anime Overlord termasuk penjelasan, rekap, ulasan, dan panduan orang tua.",
+      "metaTitle": "Panduan Anime Overlord - Penjelasan, Rekap, Ulasan & Panduan Orang Tua",
+      "metaDescription": "Panduan anime Overlord komprehensif yang mencakup penjelasan seri, rekap lengkap, ulasan, dan panduan orang tua untuk semua musim.",
+      "categoryLabel": "PANDUAN",
+      "whatIs": "Apa itu panduan ini?",
+      "whatIsDescription": "Panduan mendalam yang menjelaskan seri anime Overlord, mencakup cerita, tema, karakter, dan peristiwa penting. Sangat cocok untuk penonton baru atau penggemar yang ingin menyegarkan ingatan.",
+      "why": "Mengapa membaca panduan ini?",
+      "whySteps": {
+        "step1Title": "Memahami Cerita",
+        "step1Description": "Dapatkan penjelasan yang jelas tentang alur cerita dan dunia Overlord",
+        "step2Title": "Mengejar Ketertinggalan dengan Cepat",
+        "step2Description": "Baca rekap dan ringkasan episode untuk menyegarkan ingatan Anda",
+        "step3Title": "Membuat Pilihan yang Tepat",
+        "step3Description": "Periksa panduan orang tua untuk memutuskan apakah Overlord cocok untuk keluarga Anda"
+      },
+      "featured": "Panduan Penting",
+      "all": "Semua Panduan"
+    },
+    "watch": {
+      "title": "Urutan Menonton Overlord",
+      "description": "Panduan lengkap untuk menonton semua musim anime dan film Overlord dalam urutan yang benar, termasuk urutan kronologis dan rilis.",
+      "metaTitle": "Urutan Menonton Anime Overlord - Panduan Urutan Kronologis & Rilis",
+      "metaDescription": "Temukan urutan menonton anime Overlord terbaik dengan jumlah episode, urutan kronologis, dan panduan tentang posisi film 2024.",
+      "categoryLabel": "URUTAN MENONTON",
+      "whatIs": "Apa itu Urutan Menonton?",
+      "whatIsDescription": "Panduan terstruktur untuk menonton semua konten anime Overlord dalam urutan yang tepat, mencakup empat musim TV dan film Sacred Kingdom.",
+      "why": "Mengapa mengikuti urutan menonton?",
+      "whySteps": {
+        "step1Title": "Menghindari Spoiler",
+        "step1Description": "Tonton dalam urutan yang benar untuk merasakan pengungkapan cerita sesuai rencana",
+        "step2Title": "Menempatkan Film dengan Benar",
+        "step2Description": "Film Sacred Kingdom adalah kanon dan sesuai dengan lini masa Musim 4",
+        "step3Title": "Mengetahui Apa yang Harus Dilewati",
+        "step3Description": "Identifikasi film rekap versus film konten baru sebelum Anda menonton"
+      },
+      "featured": "Tontonan Penting",
+      "all": "Urutan Menonton Lengkap"
+    },
+    "season": {
+      "title": "Musim Anime Overlord",
+      "description": "Rincian lengkap semua musim anime Overlord termasuk berita Musim 5, status musim saat ini, dan pembaruan musim baru.",
+      "metaTitle": "Musim Anime Overlord - Musim 5, Status Saat Ini & Berita Musim Baru",
+      "metaDescription": "Segalanya tentang musim anime Overlord: apakah ada Musim 5, apa musim saat ini, dan pengumuman musim baru terbaru.",
+      "categoryLabel": "MUSIM",
+      "whatIs": "Apa saja musim Overlord?",
+      "whatIsDescription": "Overlord telah menayangkan empat musim anime TV dari 2015 hingga 2022, ditambah film Sacred Kingdom tahun 2024. Bagian ini mencakup semua info musiman, status pembaruan, dan berita Musim 5.",
+      "why": "Mengapa melacak musim?",
+      "whySteps": {
+        "step1Title": "Mengetahui Lini Masa Rilis",
+        "step1Description": "Pahami kapan setiap musim ditayangkan dan apa yang dicakupnya",
+        "step2Title": "Mengikuti Berita Musim 5",
+        "step2Description": "Tetap perbarui informasi apakah Overlord akan berlanjut melampaui Musim 4",
+        "step3Title": "Merencanakan Tontonan Anda",
+        "step3Description": "Putuskan musim mana yang akan diprioritaskan berdasarkan ringkasan arc"
+      },
+      "featured": "Sorotan Musim",
+      "all": "Semua Artikel Musim"
+    },
+    "movie": {
+      "title": "Film Anime Overlord",
+      "description": "Panduan lengkap untuk semua film anime Overlord termasuk tanggal rilis film Sacred Kingdom, daftar film, dan detail trailer.",
+      "metaTitle": "Film Anime Overlord - Sacred Kingdom, Daftar Film & Tanggal Rilis",
+      "metaDescription": "Panduan untuk semua film anime Overlord termasuk tanggal rilis film Sacred Kingdom tahun 2024, daftar film lengkap, dan trailer resmi.",
+      "categoryLabel": "FILM",
+      "whatIs": "Apa saja film Overlord?",
+      "whatIsDescription": "Overlord memiliki beberapa film anime: dua film kompilasi yang merangkum Musim 1 dan 2, dan film bioskop Sacred Kingdom tahun 2024 dengan konten cerita kanon baru.",
+      "why": "Mengapa menonton filmnya?",
+      "whySteps": {
+        "step1Title": "Merasakan Film Kanon",
+        "step1Description": "Film Sacred Kingdom sepenuhnya kanon dan melanjutkan cerita utama",
+        "step2Title": "Menemukan Tanggal Rilis",
+        "step2Description": "Dapatkan tanggal rilis yang akurat untuk Sacred Kingdom dan film masa depan",
+        "step3Title": "Menonton Trailer",
+        "step3Description": "Lihat cuplikan setiap film dengan trailer resmi sebelum memutuskan untuk menonton"
+      },
+      "featured": "Film Unggulan",
+      "all": "Semua Artikel Film"
+    },
+    "characters": {
+      "title": "Karakter Anime Overlord",
+      "description": "Panduan karakter lengkap untuk pemimpin Nazarick, penjaga lantai, tokoh kerajaan, dan pemeran Sacred Kingdom.",
+      "metaTitle": "Karakter Anime Overlord - Ainz, Albedo, Shalltear & Penjaga Lantai",
+      "metaDescription": "Panduan karakter untuk anime Overlord yang mencakup Ainz Ooal Gown, Albedo, Shalltear, Sebas, dan semua penjaga Nazarick.",
+      "categoryLabel": "KARAKTER",
+      "whatIs": "Siapa saja karakternya?",
+      "whatIsDescription": "Overlord menampilkan banyak karakter mulai dari penjaga lantai Nazarick hingga penguasa kerajaan manusia. Bagian ini mencakup karakter utama, peran mereka, dan arc mereka.",
+      "why": "Mengapa membaca panduan karakter?",
+      "whySteps": {
+        "step1Title": "Mengenal Fraksi",
+        "step1Description": "Pahami karakter mana yang termasuk dalam Nazarick, kerajaan manusia, atau Sacred Kingdom",
+        "step2Title": "Melacak Arc Karakter",
+        "step2Description": "Ikuti kisah setiap karakter di keempat musim dan filmnya",
+        "step3Title": "Bersiap untuk Film",
+        "step3Description": "Pelajari tentang karakter Sacred Kingdom yang baru sebelum menonton film 2024"
+      },
+      "featured": "Karakter Kunci",
+      "all": "Semua Karakter"
+    },
+    "lore": {
+      "title": "Lore Anime Overlord",
+      "description": "Pembahasan mendalam tentang pembangunan dunia anime Overlord termasuk Nazarick, penjaga lantai, YGGDRASIL, negara-negara, dan sistem sihir.",
+      "metaTitle": "Lore Anime Overlord - Nazarick, YGGDRASIL, Penjaga Lantai & Negara",
+      "metaDescription": "Jelajahi lore anime Overlord yang mencakup Makam Besar Nazarick, penjaga lantai, asal-usul YGGDRASIL, negara-negara di dunia, dan mantra.",
+      "categoryLabel": "LORE",
+      "whatIs": "Apa itu lore?",
+      "whatIsDescription": "Overlord memiliki pembangunan dunia yang kaya yang mencakup dunia game virtual YGGDRASIL dan Dunia Baru, termasuk Makam Besar Nazarick, penjaga lantainya, sistem sihir, dan faksi politik.",
+      "why": "Mengapa menjelajahi lore?",
+      "whySteps": {
+        "step1Title": "Memahami YGGDRASIL",
+        "step1Description": "Pelajari bagaimana dunia game asal Ainz membentuk cerita saat ini",
+        "step2Title": "Menjelajahi Nazarick",
+        "step2Description": "Temukan tata letak, lantai, dan penjaga Makam Besar Nazarick",
+        "step3Title": "Memetakan Dunia",
+        "step3Description": "Pahami negara, faksi, dan lanskap politik Dunia Baru"
+      },
+      "featured": "Lore Penting",
+      "all": "Semua Artikel Lore"
+    },
+    "compare": {
+      "title": "Perbandingan & Alternatif Overlord",
+      "description": "Bandingkan anime Overlord dengan acara serupa, manga, dan novel ringan, serta temukan anime terbaik yang mirip dengan Overlord.",
+      "metaTitle": "Anime Seperti Overlord - Perbandingan, Manga vs Anime & Panduan Novel Ringan",
+      "metaDescription": "Temukan anime yang mirip dengan Overlord, bandingkan perbedaan manga dan anime, serta jelajahi kelanjutan novel ringan di luar anime.",
+      "categoryLabel": "BANDINGKAN",
+      "whatIs": "Apa itu perbandingan ini?",
+      "whatIsDescription": "Panduan yang membandingkan Overlord dengan anime isekai serupa, menjelaskan perbedaan manga versus anime, dan mencakup konten novel ringan yang melampaui apa yang diadaptasi anime.",
+      "why": "Mengapa membaca perbandingan?",
+      "whySteps": {
+        "step1Title": "Menemukan Anime Serupa",
+        "step1Description": "Temukan anime isekai dan fantasi gelap yang direkomendasikan untuk penggemar Overlord",
+        "step2Title": "Melanjutkan Cerita",
+        "step2Description": "Pelajari cara melanjutkan membaca cerita dalam bentuk manga atau novel ringan",
+        "step3Title": "Memahami Perbedaan",
+        "step3Description": "Ketahui apa yang diubah atau dilewati anime dibandingkan dengan materi sumbernya"
+      },
+      "featured": "Rekomendasi Teratas",
+      "all": "Semua Perbandingan"
+    },
+    "media": {
+      "title": "Media Anime Overlord",
+      "description": "Liputan media anime Overlord termasuk platform streaming, studio animasi, lagu pembuka dan penutup, serta rating MyAnimeList.",
+      "metaTitle": "Anime Overlord di Netflix, Studio, Lagu Pembuka & Penutup",
+      "metaDescription": "Temukan anime Overlord di Netflix dan platform streaming lainnya, pelajari tentang studio animasi Madhouse, dan jelajahi lagu pembuka serta penutup.",
+      "categoryLabel": "MEDIA",
+      "whatIs": "Info media apa yang ada di sini?",
+      "whatIsDescription": "Informasi tentang tempat menonton Overlord, studio animasi mana yang memproduksinya, ratingnya di MyAnimeList, dan lagu tema pembuka serta penutupnya yang ikonik.",
+      "why": "Mengapa memeriksa info media?",
+      "whySteps": {
+        "step1Title": "Menemukan Tempat Menonton",
+        "step1Description": "Temukan platform streaming mana yang menayangkan Overlord di wilayah Anda",
+        "step2Title": "Mempelajari Tentang Studio",
+        "step2Description": "Jelajahi karya Madhouse pada Overlord dan kualitas animasinya",
+        "step3Title": "Menemukan Musik",
+        "step3Description": "Temukan dan nikmati lagu pembuka dan penutup dari setiap musim Overlord"
+      },
+      "featured": "Streaming & Studio",
+      "all": "Semua Artikel Media"
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "tools": {
+    "title": "__PROTECTED_08f44fda__",
+    "titleHighlight": "วิกิ",
+    "subtitle": "คู่มือฉบับสมบูรณ์สำหรับอนิเมะซีรีส์ Overlord — ลำดับการรับชม, ตัวละคร, ปูมหลัง และทุกสิ่งที่คุณควรรู้",
+    "cards": [
+      {
+        "icon": "ListOrdered",
+        "title": "ลำดับการรับชม __PROTECTED_08f44fda__",
+        "description": "ลำดับการรับชมที่สมบูรณ์สำหรับทุกซีซันและภาพยนตร์"
+      },
+      {
+        "icon": "Users",
+        "title": "ตัวละครใน __PROTECTED_08f44fda__",
+        "description": "ผู้พิทักษ์แห่ง Nazarick, บุคคลสำคัญในอาณาจักร และเหล่านักแสดงในภาพยนตร์"
+      },
+      {
+        "icon": "List",
+        "title": "คู่มือตอนต่างๆ ของ __PROTECTED_08f44fda__",
+        "description": "รวมทั้ง 52 ตอน แบ่งตามซีซันพร้อมเรื่องย่อ"
+      },
+      {
+        "icon": "Film",
+        "title": "Overlord: Sacred Kingdom",
+        "description": "ตำแหน่งของภาพยนตร์เนื้อเรื่องหลักปี 2024 ในเส้นเรื่อง"
+      },
+      {
+        "icon": "Crown",
+        "title": "__PROTECTED_08f44fda__: Ainz Ooal Gown",
+        "description": "ราชาแห่งมนตราและอดีตผู้เล่น YGGDRASIL นามว่า __PROTECTED_61f6e5c2__"
+      },
+      {
+        "icon": "Shield",
+        "title": "คู่มือ Albedo แห่ง __PROTECTED_08f44fda__",
+        "description": "บทบาทของหัวหน้าผู้พิทักษ์, พลัง และความสำคัญในเนื้อเรื่อง"
+      },
+      {
+        "icon": "Swords",
+        "title": "คู่มือ Shalltear แห่ง __PROTECTED_08f44fda__",
+        "description": "ผู้พิทักษ์ชั้นเผ่าแวมไพร์และบทความขัดแย้งในซีซัน 1"
+      },
+      {
+        "icon": "Trophy",
+        "title": "จัดอันดับผู้พิทักษ์ชั้นใน __PROTECTED_08f44fda__",
+        "description": "ผู้พิทักษ์ชั้นทั้งหมดแบ่งตามบทบาทและความเชี่ยวชาญในการต่อสู้"
+      },
+      {
+        "icon": "Landmark",
+        "title": "คู่มือ Nazarick แห่ง __PROTECTED_08f44fda__",
+        "description": "โครงสร้างแต่ละชั้น, ฝ่ายต่างๆ และแผนผังของมหาสุสาน"
+      },
+      {
+        "icon": "BookOpen",
+        "title": "บทเนื้อเรื่องของ __PROTECTED_08f44fda__",
+        "description": "บทเนื้อเรื่องหลักทั้งหมดที่สอดคล้องกับซีซันและช่วงของตอน"
+      },
+      {
+        "icon": "Clock",
+        "title": "ลำดับเหตุการณ์ของ __PROTECTED_08f44fda__",
+        "description": "ลำดับเวลาของเหตุการณ์สำคัญและบทเนื้อเรื่องทั้งหมด"
+      },
+      {
+        "icon": "BookMarked",
+        "title": "คู่มือไลท์โนเวล __PROTECTED_08f44fda__",
+        "description": "ลำดับการอ่านและจุดเริ่มต้นหลังจากดูอนิเมะจบ"
+      },
+      {
+        "icon": "Scale",
+        "title": "__PROTECTED_08f44fda__: อนิเมะ vs นิยาย",
+        "description": "ข้อแตกต่างที่สำคัญและสิ่งที่ฉบับอนิเมะข้ามไป"
+      },
+      {
+        "icon": "Mic2",
+        "title": "ทีมนักพากย์ __PROTECTED_08f44fda__",
+        "description": "รายชื่อนักพากย์ภาษาญี่ปุ่นและภาษาอังกฤษสำหรับทุกซีซันและภาพยนตร์"
+      },
+      {
+        "icon": "Music",
+        "title": "เพลงประกอบ __PROTECTED_08f44fda__",
+        "description": "รวมเพลงเปิด, เพลงปิด, เพลงประกอบ และเพลงธีมภาพยนตร์ทั้งหมด"
+      },
+      {
+        "icon": "Radio",
+        "title": "ข่าวสาร __PROTECTED_08f44fda__ ซีซัน 5",
+        "description": "ประกาศอย่างเป็นทางการและสถานะของต้นฉบับ"
+      }
+    ]
+  }
+}

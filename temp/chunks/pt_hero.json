@@ -1,0 +1,27 @@
+{
+  "hero": {
+    "badge": "Anime Isekai de Fantasia Sombria",
+    "title": "Wiki do Anime Overlord",
+    "description": "Um isekai de fantasia sombria sobre __PROTECTED_61f6e5c2__ tornando-se Ainz Ooal Gown após o fim de YGGDRASIL, liderando então Nazarick através de conquistas, política e o arco Sacred Kingdom.",
+    "getFreeCodesCTA": "Ver Ordem de Exibição",
+    "playOnSteamCTA": "Assistir em __PROTECTED_232a31b9__",
+    "stats": {
+      "stat1": {
+        "value": "2015",
+        "label": "Estreia"
+      },
+      "stat2": {
+        "value": "4",
+        "label": "Temporadas de TV"
+      },
+      "stat3": {
+        "value": "52",
+        "label": "Episódios"
+      },
+      "stat4": {
+        "value": "3",
+        "label": "Filmes de Anime"
+      }
+    }
+  }
+}

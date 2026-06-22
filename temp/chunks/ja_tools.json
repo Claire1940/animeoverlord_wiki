@@ -1,0 +1,89 @@
+{
+  "tools": {
+    "title": "__PROTECTED_08f44fda__",
+    "titleHighlight": "Wiki",
+    "subtitle": "アニメ「Overlord」シリーズの完全ガイド — 視聴順、キャラクター、設定など、あらゆる情報を網羅",
+    "cards": [
+      {
+        "icon": "ListOrdered",
+        "title": "__PROTECTED_08f44fda__ 視聴順",
+        "description": "全シーズンと劇場版を網羅した完全な視聴順序"
+      },
+      {
+        "icon": "Users",
+        "title": "__PROTECTED_08f44fda__ キャラクター",
+        "description": "Nazarickの守護者、王国の重要人物、劇場版のキャスト"
+      },
+      {
+        "icon": "List",
+        "title": "__PROTECTED_08f44fda__ エピソードガイド",
+        "description": "全52話をシーズンごとに整理し、あらすじと共に紹介"
+      },
+      {
+        "icon": "Film",
+        "title": "Overlord：Sacred Kingdom",
+        "description": "2024年公開の正史劇場版が物語のどこに位置するかを解説"
+      },
+      {
+        "icon": "Crown",
+        "title": "__PROTECTED_08f44fda__：Ainz Ooal Gown",
+        "description": "魔導王にして、元YGGDRASILプレイヤーの__PROTECTED_61f6e5c2__"
+      },
+      {
+        "icon": "Shield",
+        "title": "__PROTECTED_08f44fda__：Albedo ガイド",
+        "description": "守護者統括の役割、能力、そして物語における重要性"
+      },
+      {
+        "icon": "Swords",
+        "title": "__PROTECTED_08f44fda__：Shalltear ガイド",
+        "description": "吸血鬼の階層守護者と、第1期の対立エピソード"
+      },
+      {
+        "icon": "Trophy",
+        "title": "__PROTECTED_08f44fda__ 階層守護者ランキング",
+        "description": "全階層守護者を役割と戦闘の専門分野別に紹介"
+      },
+      {
+        "icon": "Landmark",
+        "title": "__PROTECTED_08f44fda__：Nazarick ガイド",
+        "description": "ナザリック地下大墳墓の各階層の構造、派閥、レイアウト"
+      },
+      {
+        "icon": "BookOpen",
+        "title": "__PROTECTED_08f44fda__ ストーリーアーク",
+        "description": "主要なエピソードをシーズンと話数ごとに分類"
+      },
+      {
+        "icon": "Clock",
+        "title": "__PROTECTED_08f44fda__ 年表",
+        "description": "すべての主要な出来事とエピソードの時系列順"
+      },
+      {
+        "icon": "BookMarked",
+        "title": "__PROTECTED_08f44fda__ ライトノベルガイド",
+        "description": "読む順番と、アニメの続きから読み始める方法"
+      },
+      {
+        "icon": "Scale",
+        "title": "__PROTECTED_08f44fda__：アニメ vs 原作小説",
+        "description": "主な違いと、アニメ版でカットされた内容"
+      },
+      {
+        "icon": "Mic2",
+        "title": "__PROTECTED_08f44fda__ 声優キャスト",
+        "description": "全シーズンと劇場版の日本語・英語キャスト"
+      },
+      {
+        "icon": "Music",
+        "title": "__PROTECTED_08f44fda__ サウンドトラック",
+        "description": "すべてのOP、ED、挿入歌、劇場版主題歌"
+      },
+      {
+        "icon": "Radio",
+        "title": "__PROTECTED_08f44fda__ 第5期最新情報",
+        "description": "公式発表と原作の進行状況"
+      }
+    ]
+  }
+}

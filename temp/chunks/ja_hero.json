@@ -1,0 +1,27 @@
+{
+  "hero": {
+    "badge": "ダークファンタジー異世界アニメ",
+    "title": "Overlord アニメWiki",
+    "description": "YGGDRASILの終了後に__PROTECTED_61f6e5c2__がAinz Ooal Gownとなり、征服や政治、そしてSacred Kingdom編を通じてNazarickを導いていくダークファンタジー異世界物語。",
+    "getFreeCodesCTA": "視聴順を見る",
+    "playOnSteamCTA": "__PROTECTED_232a31b9__で視聴する",
+    "stats": {
+      "stat1": {
+        "value": "2015",
+        "label": "放送開始"
+      },
+      "stat2": {
+        "value": "4",
+        "label": "TVシリーズ"
+      },
+      "stat3": {
+        "value": "52",
+        "label": "話数"
+      },
+      "stat4": {
+        "value": "3",
+        "label": "劇場版"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "hero": {
+    "badge": "อนิเมะแนวต่างโลก ดาร์กแฟนตาซี",
+    "title": "Overlord อนิเมะวิกิ",
+    "description": "อนิเมะแนวต่างโลก ดาร์กแฟนตาซี เกี่ยวกับ __PROTECTED_61f6e5c2__ ที่กลายเป็น Ainz Ooal Gown หลังจากที่ YGGDRASIL สิ้นสุดลง จากนั้นก็นำพา Nazarick ผ่านการพิชิต การเมือง และบท Sacred Kingdom",
+    "getFreeCodesCTA": "ดูลำดับการรับชม",
+    "playOnSteamCTA": "รับชมบน __PROTECTED_232a31b9__",
+    "stats": {
+      "stat1": {
+        "value": "2015",
+        "label": "เริ่มฉายครั้งแรก"
+      },
+      "stat2": {
+        "value": "4",
+        "label": "ซีซัน"
+      },
+      "stat3": {
+        "value": "52",
+        "label": "ตอน"
+      },
+      "stat4": {
+        "value": "3",
+        "label": "ภาพยนตร์อนิเมะ"
+      }
+    }
+  }
+}
